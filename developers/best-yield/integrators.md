@@ -4,7 +4,7 @@ description: Developers > Best Yield > Get integrated as yield source
 
 # Get integrated as yield source
 
-Currently, Idle is integrated with Compound, Aave, and Rari as yield sources.&#x20;
+Currently, the Best Yield is integrated with Compound, and Aave as yield sources.&#x20;
 
 If you want to promote a new integration, you can create an `IdleWrapper` that adhere to the following interface:
 

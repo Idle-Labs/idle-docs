@@ -130,6 +130,7 @@
   * [Use cases](governance/idle/use-cases/README.md)
     * [Lending, borrowing & collateral](governance/idle/use-cases/lending-borrowing-and-collateral.md)
     * [DEXs liquidity provision](governance/idle/use-cases/dexs-liquidity-provision.md)
+  * [Delegates](governance/idle/delegates.md)
   * [CoinGecko](https://www.coingecko.com/en/coins/idle)
   * [Messari Statistics](https://messari.io/asset/idle)
 * [$IDLE staking](governance/idle-staking/README.md)
