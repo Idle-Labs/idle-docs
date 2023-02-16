@@ -134,10 +134,6 @@ where AA = Senior Tranche, BB = Junior Tranche.
 
 Integrators that need other ERC-4626 wrappers can get in contact with the [Development League ](https://discord.gg/fJaBYmS)on Discord.&#x20;
 
-0x62eb6a8c7a555eae3e0b17d42ca9a3299af2787e
-
-<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
-
 | Side   | Ticker                 | Address                                                                                                               |
 | ------ | ---------------------- | --------------------------------------------------------------------------------------------------------------------- |
 | Senior | AA\_euler\_eDAI\_stkW  | [0xC9C83bEBd31aff93a2353920F2513D372847A517](https://etherscan.io/address/0xC9C83bEBd31aff93a2353920F2513D372847A517) |
