@@ -12,7 +12,7 @@ Below we report a list of the current IDLE delegates. Users can also check the [
 
 The complete guide to delegation (on-chain and off-chain) can be found [here](../idle-dao/guides/how-to-delegate-votes.md).
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 ### Delegation Board
 

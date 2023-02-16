@@ -134,8 +134,16 @@ where AA = Senior Tranche, BB = Junior Tranche.
 
 Integrators that need other ERC-4626 wrappers can get in contact with the [Development League ](https://discord.gg/fJaBYmS)on Discord.&#x20;
 
+0x62eb6a8c7a555eae3e0b17d42ca9a3299af2787e
+
+<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+
 | Side   | Ticker                 | Address                                                                                                               |
 | ------ | ---------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| Senior | AA\_euler\_eDAI\_stkW  | [0xC9C83bEBd31aff93a2353920F2513D372847A517](https://etherscan.io/address/0xC9C83bEBd31aff93a2353920F2513D372847A517) |
+| Senior | AA\_euler\_eUSDC\_stkW | [0x6C1a844E3077e6C39226C15b857436a6a92Be5C0](https://etherscan.io/address/0x6C1a844E3077e6C39226C15b857436a6a92Be5C0) |
+| Senior | AA\_euler\_eUSDT\_stkW | [0xAB3919896975F43A81325B0Ca98b72249E714e6C](https://etherscan.io/address/0xAB3919896975F43A81325B0Ca98b72249E714e6C) |
+| Senior | AA\_euler\_eWETH\_stkW | [0xC24e0dd3A0Bc6f19aEEc2d7985dd3940D59dB698](https://etherscan.io/address/0xC24e0dd3A0Bc6f19aEEc2d7985dd3940D59dB698) |
 | Junior | BB\_lido\_stETH\_W     | [0x79F05f75df6c156B2B98aC1FBfb3637fc1e6f048](https://etherscan.io/address/0x79F05f75df6c156B2B98aC1FBfb3637fc1e6f048) |
 | Junior | BB\_euler\_eUSDC\_stkW | [0xc6Ff7AA2CFF3ba1A4a8BC2C324e819c28D7e0495](https://etherscan.io/address/0xc6Ff7AA2CFF3ba1A4a8BC2C324e819c28D7e0495) |
 
