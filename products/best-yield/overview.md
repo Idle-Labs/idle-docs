@@ -10,6 +10,8 @@ Based on the different aggregated yield sources, there are three types of Best Y
 2. **Senior Best Yield**: expanding the underlying sources of OG Best Yield by adding Senior Tranches alongside existing sources Aave and Compound, maintaining the same conservative risk profile while extending and improving the yield spectrum.
 3. **Junior Best Yield**: aggregating multiple Idle Junior Perpetual Yield Tranches on a single asset as underlying to create a new tier of risk in Best Yield, allowing to automate an aggressive approach and to offer significantly higher APYs.
 
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
 ## How does Best Yield work?
 
 The Best Yield strategies constantly monitor interest rates on various DeFi yield sources to ensure the current allocation is yielding the best aggregate interest rate available on the market.
