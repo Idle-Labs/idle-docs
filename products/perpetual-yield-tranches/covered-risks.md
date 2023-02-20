@@ -44,7 +44,7 @@ Lending protocols are mainly classified into two categories based on the type of
 
 #### Overcollateralized lending
 
-| Risk                            | Descrption                            | Outcome           | Coverage |
+| Risk                            | Description                           | Outcome           | Coverage |
 | ------------------------------- | ------------------------------------- | ----------------- | -------- |
 | Incorrect price feed            | Oracle manipulation or failure        | Bad debt creation | Yes      |
 | Unappropiate collateral factors | Generation of untenable positions     | Bad debt creation | Yes      |

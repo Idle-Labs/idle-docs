@@ -84,4 +84,8 @@ If the poll quorum is reached, the Treasury multisign, which holds delegated vot
 
 **Website:** [Idle DAO Governance voting page on Tally](https://www.tally.xyz/gov/idle)
 
+{% hint style="info" %}
+If a proposal is successful, it can be queued for execution and after 2 days it can be executed on-chain.&#x20;
+{% endhint %}
+
 <figure><img src="../../../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
