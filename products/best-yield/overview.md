@@ -4,13 +4,12 @@ description: Products > Best Yield > Overview
 
 # Overview
 
-Based on the different aggregated yield sources, there are three types of Best Yield strategies:
+Based on the initial set-up of the Best Yield (OG) strategy, aggregating and optimizing Aave and Compound lending markets, today there are two types of Best Yield strategies:
 
-1. **“OG” Best Yield**: the original Best Yield strategy, automatically maximizing capital efficiency across the over-collateralized, top-tier lending protocols Aave and Compound.
-2. **Senior Best Yield**: expanding the underlying sources of OG Best Yield by adding Senior Tranches alongside existing sources Aave and Compound, maintaining the same conservative risk profile while extending and improving the yield spectrum.
-3. **Junior Best Yield**: aggregating multiple Idle Junior Perpetual Yield Tranches on a single asset as underlying to create a new tier of risk in Best Yield, allowing to automate an aggressive approach and to offer significantly higher APYs.
+1. **Senior Best Yield**: aggregating the over-collateralized, top-tier lending protocols Aave, Compound and the Idle Senior Perpetual Yield Tranches maintaining a conservative risk profile while extending and improving the yield spectrum.
+2. **Junior Best Yield**: aggregating multiple Idle Junior Perpetual Yield Tranches on a single asset as underlying to create a new tier of risk in Best Yield, allowing to automate an aggressive approach and offer significantly higher APYs.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## How does Best Yield work?
 
@@ -24,7 +23,7 @@ Users' funds are pooled together and programmatically deposited into one or more
 By analyzing supply rate functions across integrated platforms and total funds in the pool, the strategy is able to constantly rebalance capital across any number of protocols to **earn the highest interest rate possible** with very high precision.
 {% endhint %}
 
-When users deposit funds, they receive `idleTokens` from Idle in exchange. `idleTokens` are ERC-20 tokens that can be redeemed for their underlying assets at any time. As interest accrues to the assets supplied, `idleTokens` are redeemable at an exchange rate (relative to the underlying asset) that constantly increases over time, based on the rate of interest earned by the underlying asset.
+When users deposit funds, they receive `idleTokens` from Idle in exchange. `idleTokens` are ERC-20 tokens that can be redeemed for their underlying assets at any time. As interest accrues to the assets supplied, `idleTokens` are redeemable at an exchange rate (relative to the underlying asset) that constantly increases over time, based on the interest earned by the underlying asset.
 
 ## Allocation model
 
@@ -51,18 +50,6 @@ Idle DAO has established a series of [Integration Standard Requirements](../../d
 ### Ethereum
 
 {% tabs %}
-{% tab title="OG Best Yield" %}
-#### Integrated protocols
-
-* [Compound](https://compound.finance/)
-* [Aave](https://aave.com/)
-
-#### Integrated assets
-
-* [DAI](https://etherscan.io/address/0x3fe7940616e5bc47b0775a0dccf6237893353bb4)
-* [WBTC](https://etherscan.io/address/0x8C81121B15197fA0eEaEE1DC75533419DcfD3151)
-{% endtab %}
-
 {% tab title="Senior Best Yield" %}
 #### Integrated protocols
 
@@ -72,6 +59,7 @@ Idle DAO has established a series of [Integration Standard Requirements](../../d
 
 #### Integrated assets
 
+* [DAI](https://etherscan.io/address/0x3fe7940616e5bc47b0775a0dccf6237893353bb4)
 * [USDC](https://etherscan.io/address/0x5274891bEC421B39D23760c04A6755eCB444797C)
 * [USDT](https://etherscan.io/address/0xF34842d05A1c888Ca02769A633DF37177415C2f8)
 * [WETH](https://etherscan.io/address/0xc8e6ca6e96a326dc448307a5fde90a0b21fd7f80)
@@ -93,7 +81,7 @@ Idle DAO has established a series of [Integration Standard Requirements](../../d
 ### Polygon
 
 {% tabs %}
-{% tab title="OG Best Yield" %}
+{% tab title="Best Yield (OG)" %}
 #### Integrated protocols
 
 * [Compound](https://compound.finance/)

@@ -12,26 +12,19 @@ You can find the currently deployed instances and ABIs of the Best Yield contrac
 
 The table lists all the BY addresses currently available following this scheme:&#x20;
 
-* OG BY = the original BY strategy with Aave and Compound as underlying markets
 * Senior BY = a strategy adding [Senior tranches](../perpetual-yield-tranches/deployed-contracts.md) to Aave and Compound as underlying markets
 * Junior BY = a strategy using [Junior tranches](../perpetual-yield-tranches/deployed-contracts.md) as underlying markets
 
 The ABI of the Best Yield contract can be found here: [JSON](https://github.com/Idle-Labs/idle-contracts/tree/develop/abi).
 
-#### **OG Best Yield**
-
-| Type | Ticker          | Address                                                                                                               |
-| ---- | --------------- | --------------------------------------------------------------------------------------------------------------------- |
-| OG   | idleDAI\_Yield  | [0x3fe7940616e5bc47b0775a0dccf6237893353bb4](https://etherscan.io/address/0x3fe7940616e5bc47b0775a0dccf6237893353bb4) |
-| OG   | idleWBTC\_Yield | [0x8C81121B15197fA0eEaEE1DC75533419DcfD3151](http://etherscan.io/address/0x8C81121B15197fA0eEaEE1DC75533419DcfD3151)  |
-
 #### **Senior Best Yield**
 
-| Type   | Ticker          | Address                                                                                                               |
-| ------ | --------------- | --------------------------------------------------------------------------------------------------------------------- |
-| Senior | idleUSDC\_Yield | [0x5274891bEC421B39D23760c04A6755eCB444797C](http://etherscan.io/address/0x5274891bEC421B39D23760c04A6755eCB444797C)  |
-| Senior | idleUSDT\_Yield | [0xF34842d05A1c888Ca02769A633DF37177415C2f8](http://etherscan.io/address/0xF34842d05A1c888Ca02769A633DF37177415C2f8)  |
-| Senior | idleWETH\_Yield | [0xC8E6CA6E96a326dC448307A5fDE90a0b21fd7f80](https://etherscan.io/address/0xc8e6ca6e96a326dc448307a5fde90a0b21fd7f80) |
+| Type   | Ticker           | Address                                                                                                               |
+| ------ | ---------------- | --------------------------------------------------------------------------------------------------------------------- |
+| Senior | idleDAI\_Senior  | [0x3fe7940616e5bc47b0775a0dccf6237893353bb4](https://etherscan.io/address/0x3fe7940616e5bc47b0775a0dccf6237893353bb4) |
+| Senior | idleUSDC\_Senior | [0x5274891bEC421B39D23760c04A6755eCB444797C](http://etherscan.io/address/0x5274891bEC421B39D23760c04A6755eCB444797C)  |
+| Senior | idleUSDT\_Senior | [0xF34842d05A1c888Ca02769A633DF37177415C2f8](http://etherscan.io/address/0xF34842d05A1c888Ca02769A633DF37177415C2f8)  |
+| Senior | idleWETH\_Senior | [0xC8E6CA6E96a326dC448307A5fDE90a0b21fd7f80](https://etherscan.io/address/0xc8e6ca6e96a326dc448307a5fde90a0b21fd7f80) |
 
 #### **Junior Best Yield**
 
@@ -45,6 +38,7 @@ The ABI of the Best Yield contract can be found here: [JSON](https://github.com/
 
 | Type | Ticker          | Address                                                                                                               |
 | ---- | --------------- | --------------------------------------------------------------------------------------------------------------------- |
+| OG   | idleWBTC\_Yield | [0x8C81121B15197fA0eEaEE1DC75533419DcfD3151](http://etherscan.io/address/0x8C81121B15197fA0eEaEE1DC75533419DcfD3151)  |
 | OG   | idleSUSD\_Yield | [0xf52cdcd458bf455aed77751743180ec4a595fd3f](https://etherscan.io/address/0xf52cdcd458bf455aed77751743180ec4a595fd3f) |
 | OG   | idleTUSD\_Yield | [0xc278041fdd8249fe4c1aad1193876857eea3d68c](https://etherscan.io/address/0xc278041fdd8249fe4c1aad1193876857eea3d68c) |
 | OG   | idleRAI\_Yield  | [0x5c960a3dcc01be8a0f49c02a8cebcacf5d07fabe](https://etherscan.io/address/0x5c960a3dcc01be8a0f49c02a8cebcacf5d07fabe) |
@@ -52,7 +46,7 @@ The ABI of the Best Yield contract can be found here: [JSON](https://github.com/
 
 ### ERC-4626 wrappers for Best Yield tokens
 
-Integrators that need other ERC-4626 wrappers can get in contact with the [Development League ](https://discord.gg/fJaBYmS)on Discord.&#x20;
+Integrators that need other ERC-4626 wrappers can get in contact with the [Development League ](https://discord.gg/fJaBYmS)on Discord.
 
 | Type   | Ticker            | Address                                                                                                               |
 | ------ | ----------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -65,6 +59,8 @@ Integrators that need other ERC-4626 wrappers can get in contact with the [Devel
 ### **Best Yield strategy V4 and LP Staking contracts**
 
 #### OG Best Yield
+
+* OG BY = the original BY strategy with Aave and Compound as underlying markets
 
 | Type | Ticker          | Address                                                                                                                  |
 | ---- | --------------- | ------------------------------------------------------------------------------------------------------------------------ |
