@@ -10,14 +10,16 @@ Idle uses a [subgraph](https://thegraph.com/docs/about/introduction#what-the-gra
 * **Graphql endpoint:** [https://api.thegraph.com/subgraphs/name/samster91/idle-tranches](https://api.thegraph.com/subgraphs/name/samster91/idle-tranches)
 * **Code:** [https://github.com/Idle-Labs/idle-tranches-subgraph](https://github.com/Idle-Labs/idle-tranches-subgraph)
 
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ### Useful entities
 
-* **TrancheInfo:** contains the data of each PYTs tranche (type, apr, `virtualPrice`, `totalSupply`), updated every hour
-* **Tranche:** all deployed PYTs tranches (id, type)
+* _**TrancheInfos**_**:** contains the data of each PYTs tranche (type, apr, `virtualPrice`, `totalSupply`), updated every hour
+* _**Tranche**_**:** all deployed PYTs tranches (id, type)
 
 ### Querying PYTs
 
-To obtain the latest _TrancheInfos_ you can use the following query:
+To obtain the latest _TrancheInfos_ you can use the following query
 
 ```graphql
 { 

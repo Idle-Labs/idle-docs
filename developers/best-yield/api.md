@@ -26,7 +26,6 @@ Represents the underlying token address:\
 * DAI: `0x6b175474e89094c44da98b954eedeac495271d0f`
 * USDC: `0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48`
 * USDT: `0xdac17f958d2ee523a2206206994597c13d831ec7`
-* WBTC: `0x2260fac5e5542a773aa44fbcfedf7c193bc2c599`
 * WETH: `0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2`
 {% endtab %}
 
@@ -36,7 +35,7 @@ The query string params are:\
 
 * `start`: filter results from a specific timestamp
 * `end`: filter results to a specific timestamp
-* `isRisk` (true/false): if true returns only results for risk-adjusted strategy, if false returns only results for Best Yield strategy
+* `isRisk` (true/false): if true returns only result for risk-adjusted strategy, if false returns only result for Best Yield strategy
 * `frequency`: seconds between two records
 * `order` (asc/desc): order results by timestamp
 * `limit`: limit results
