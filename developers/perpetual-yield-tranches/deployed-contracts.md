@@ -128,6 +128,14 @@ The ABI of the Perpetual Yield Tranches contract can be found here: [JSON](https
 | Senior | AA\_morpho\_aUSDT | [0x745e005a5dF03bDE0e55be811350acD6316894E1](https://etherscan.io/address/0x745e005a5dF03bDE0e55be811350acD6316894E1) |
 | Junior | BB\_morpho\_aUSDT | [0xF0C177229Ae1cd41BF48dF6241fae3e6A14A6967](https://etherscan.io/address/0xF0C177229Ae1cd41BF48dF6241fae3e6A14A6967) |
 
+**WETH (Aave)**
+
+| Side   | Ticker            | Address                                                                                                               |
+| ------ | ----------------- | --------------------------------------------------------------------------------------------------------------------- |
+| CDO    | morpho\_aWETH     | [0xb3F717a5064D2CBE1b8999Fdfd3F8f3DA98339a6](https://etherscan.io/address/0xb3F717a5064D2CBE1b8999Fdfd3F8f3DA98339a6) |
+| Senior | AA\_morpho\_aWETH | [0x6c0c8708e2FD507B7057762739cb04cF01b98d7b](https://etherscan.io/address/0x6c0c8708e2FD507B7057762739cb04cF01b98d7b) |
+| Junior | BB\_morpho\_aWETH | [0xd69c52E6AF3aE708EE4b3d3e7C0C5b4CF4d6244B](https://etherscan.io/address/0xd69c52E6AF3aE708EE4b3d3e7C0C5b4CF4d6244B) |
+
 ### ERC-4626 wrappers for Tranche tokens
 
 where AA = Senior Tranche, BB = Junior Tranche.

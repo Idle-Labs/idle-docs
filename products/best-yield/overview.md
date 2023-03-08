@@ -55,7 +55,7 @@ Idle DAO has established a series of [Integration Standard Requirements](../../d
 
 * [Compound](https://compound.finance/)
 * [Aave](https://aave.com/)
-* [Senior Perpetual Yield Tranches](../perpetual-yield-tranches/overview.md#senior-tranches) on [Lido](https://lido.fi/), [Euler](https://www.euler.finance/), [Morpho](https://www.morpho.xyz/) and [Clearpool](https://clearpool.finance/) markets
+* [Senior tranches](../perpetual-yield-tranches/overview.md#senior-tranches) of [Euler](https://www.euler.finance/) markets
 
 #### Integrated assets
 
@@ -68,13 +68,14 @@ Idle DAO has established a series of [Integration Standard Requirements](../../d
 {% tab title="Junior Best Yield" %}
 #### Integrated protocols
 
-* [Junior Perpetual Yield Tranches](../perpetual-yield-tranches/overview.md#senior-tranches) on [Lido](https://lido.fi/), [Euler](https://www.euler.finance/), [Morpho](https://www.morpho.xyz/) and [Clearpool](https://clearpool.finance/) markets
+* [Junior tranches](../perpetual-yield-tranches/overview.md#senior-tranches) of [Euler](https://www.euler.finance/) and [Morpho](https://www.morpho.xyz/) markets
 
 #### Integrated assets
 
 * [DAI](https://etherscan.io/address/0xeC9482040e6483B7459CC0Db05d51dfA3D3068E1)
 * [USDC](https://etherscan.io/address/0xDc7777C771a6e4B3A82830781bDDe4DBC78f320e)
 * [USDT](https://etherscan.io/address/0xfa3AfC9a194BaBD56e743fA3b7aA2CcbED3eAaad)
+* [WETH](https://etherscan.io/address/0x62a0369c6bb00054e589d12aad7ad81ed789514b)
 {% endtab %}
 {% endtabs %}
 

@@ -33,6 +33,7 @@ The ABI of the Best Yield contract can be found here: [JSON](https://github.com/
 | Junior | idleDAI\_Junior  | [0xec9482040e6483b7459cc0db05d51dfa3d3068e1](https://etherscan.io/address/0xec9482040e6483b7459cc0db05d51dfa3d3068e1) |
 | Junior | idleUSDC\_Junior | [0xdc7777c771a6e4b3a82830781bdde4dbc78f320e](https://etherscan.io/address/0xdc7777c771a6e4b3a82830781bdde4dbc78f320e) |
 | Junior | idleUSDT\_Junior | [0xfa3afc9a194babd56e743fa3b7aa2ccbed3eaaad](https://etherscan.io/address/0xfa3afc9a194babd56e743fa3b7aa2ccbed3eaaad) |
+| Junior | idleWETH\_Junior | [0x62a0369c6bb00054e589d12aad7ad81ed789514b](https://etherscan.io/address/0x62a0369c6bb00054e589d12aad7ad81ed789514b) |
 
 #### **Deprecated strategies**
 

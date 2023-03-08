@@ -82,6 +82,7 @@ Morpho is a peer-to-peer layer built on top of the lending pools of Aave.
 * [DAI](https://etherscan.io/address/0xDB82dDcb7e2E4ac3d13eBD1516CBfDb7b7CE0ffc)
 * [USDC](https://etherscan.io/address/0x9C13Ff045C0a994AF765585970A5818E1dB580F8)
 * [USDT](https://etherscan.io/address/0x440ceAd9C0A0f4ddA1C81b892BeDc9284Fc190dd)
+* [WETH](https://etherscan.io/address/0xb3F717a5064D2CBE1b8999Fdfd3F8f3DA98339a6)
 {% endtab %}
 
 {% tab title="Clearpool" %}
