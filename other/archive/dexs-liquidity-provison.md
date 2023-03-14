@@ -4,7 +4,7 @@
 
 Bancor is an AMM like Sushiswap and Uniswap, but with one key difference, which was rolled out in Bancor v2.1. Bancor now has Impermanent Loss (“IL”) protection if you stay in the pool for longer than 100 days. This protection starts at 30 days and scales to complete protection over 100 days. Currently, there are no incentivized rewards for the IDLE pool, but keep an eye out as there may be in the future.
 
-![](<../../.gitbook/assets/image (37).png>)
+![](<../../.gitbook/assets/image (37) (1).png>)
 
 **Website:** [Bancor IDLE Pool 2](https://app.bancor.network/eth/portfolio/stake/add/single/0x1092d8d818C09a55968180a4383049f91689C2b4)
 
