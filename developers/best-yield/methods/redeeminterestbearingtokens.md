@@ -4,7 +4,11 @@ description: Developers > Best Yield > redeemInterestBearingTokens
 
 # redeemInterestBearingTokens
 
-This method calculates the pool share one can withdraw given the amount of idleTokens (idleDAI/idleUSDC/idleUSDT/idleWETH/...) it wants to burn and send interest-bearing tokens (aTokens from Aave, cTokens from Compound, ...) directly to the user. The underlying (e.g. DAI) is not redeemed here. This method can be called only in emergency situations when the contract is paused.
+{% hint style="info" %}
+This method can be called only in emergency situations when the BY contract is paused.
+{% endhint %}
+
+This method calculates the pool share one user can withdraw given the amount of idleTokens (idleDAI, idleUSDC, idleUSD, ...) he wants to burn and send interest-bearing tokens (aTokens from Aave, cTokens from Compound, ...) directly to the user's wallet alongside his share of unlent underlying (e.g. DAI) present in the vault.
 
 ### Function
 
