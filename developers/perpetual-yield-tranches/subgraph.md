@@ -10,7 +10,7 @@ Idle uses a [subgraph](https://thegraph.com/docs/about/introduction#what-the-gra
 * **Graphql endpoint:** [https://api.thegraph.com/subgraphs/name/samster91/idle-tranches](https://api.thegraph.com/subgraphs/name/samster91/idle-tranches)
 * **Code:** [https://github.com/Idle-Labs/idle-tranches-subgraph](https://github.com/Idle-Labs/idle-tranches-subgraph)
 
-<figure><img src="../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
 ### Useful entities
 
