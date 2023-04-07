@@ -26,13 +26,13 @@ LP staking is a way to incentivize liquidity provisioning for IDLE/ETH pairs on 
 
 💼 Program budget: **180,000 $IDLE**
 
-****
 
-🔀 Staking model: [**Ampleforth Geyser model fork**](https://www.ampleforth.org/dapps/)****
 
-🛠 Solidity code: [**Idle Geyser Github**](https://github.com/Idle-Finance/idle-geyser)****
+🔀 Staking model: [**Ampleforth Geyser model fork**](https://www.ampleforth.org/dapps/)
 
-⛓ Contract addresses: [**TokenGeyser**](https://etherscan.io/address/0xcc0b9f7ed0e6bc7c2e69dbd247e8420f29aeb48d#code)**,** [**Tokenizer**](https://etherscan.io/address/0x076ff8e6402b02855ff82119b53e59bbdd67f0ee#code)****
+🛠 Solidity code: [**Idle Geyser Github**](https://github.com/Idle-Finance/idle-geyser)
+
+⛓ Contract addresses: [**TokenGeyser**](https://etherscan.io/address/0xcc0b9f7ed0e6bc7c2e69dbd247e8420f29aeb48d#code)**,** [**Tokenizer**](https://etherscan.io/address/0x076ff8e6402b02855ff82119b53e59bbdd67f0ee#code)
 
 ### **How does LP staking work?**
 
@@ -58,11 +58,11 @@ By holding the funds in the staking contract until the final rewarding block, LP
 **Example:**&#x20;
 
 `User A, B, and C join the LP staking at the program launch and with the same stake.` \
-``\
+\
 `- User A withdraws funds in the third month, receiving a 2.5x multiplier.` \
-``\
+\
 `- User B and C hold the deposit until the end: on top of their multiplier (3x), they will split the 0.5x bonus (referred to 3 months) left by user A according to their pool weights.`\
-``\
+\
 `The final multiplier will be 3.125x per user.`
 
 ### FAQs

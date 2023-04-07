@@ -10,7 +10,7 @@ $IDLE rewards distributed via Gauges are initially routed to the **Senior Tranch
 
 This system strongly favours LPs who continually lock their rewards into stkIDLE to increase their pool's gauge weight. Fundamentally, this allows stkIDLE holders, who are the most long term users of the protocol, to have complete control over the future $IDLE emission for Gauges.
 
-The Idle liquidity gauge measures how much a user is providing liquidity to PYTs. Each PYT pool has its own liquidity gauge where users can stake their LPs tokens. __&#x20;
+The Idle liquidity gauge measures how much a user is providing liquidity to PYTs. Each PYT pool has its own liquidity gauge where users can stake their LPs tokens.&#x20;
 
 {% hint style="info" %}
 Users can also [boost](./#farming-boost) their balance in the liquidity gauge by locking their $IDLE, seeing their individual rewards enhanced.

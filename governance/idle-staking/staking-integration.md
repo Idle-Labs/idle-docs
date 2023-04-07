@@ -21,7 +21,7 @@ The Treasury League, acting as an owner of the `SmartWalletChecker`, is temporar
 {% endhint %}
 
 {% hint style="success" %}
-The`SmartWalletChecker`contract address is: [`0x2D8b5b65c6464651403955aC6D71f9c0204169D3`](https://etherscan.io/address/0x2D8b5b65c6464651403955aC6D71f9c0204169D3)``
+The`SmartWalletChecker`contract address is: [`0x2D8b5b65c6464651403955aC6D71f9c0204169D3`](https://etherscan.io/address/0x2D8b5b65c6464651403955aC6D71f9c0204169D3)
 {% endhint %}
 
 

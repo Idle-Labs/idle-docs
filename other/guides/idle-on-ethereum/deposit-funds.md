@@ -25,7 +25,7 @@ To ensure yourself a smooth onboarding on Idle be sure to have the following ite
 
 ### Depositing assets
 
-1. Choose the "_Best Yield_" strategy in the sidebar on the left-hand side (you can learn more about Idle strategies by visiting each _Product page,_ [_Best Yield_](../../../products/best-yield/) __ and __ [_Perpetual Yield Tranches_](../../../products/perpetual-yield-tranches/)). Here, we will use the Best-Yield strategy. There are different assets available (DAI, USDC, USDT) offering different _APY_s depending on supply and demand equilibria.
+1. Choose the "_Best Yield_" strategy in the sidebar on the left-hand side (you can learn more about Idle strategies by visiting each _Product page,_ [_Best Yield_](../../../products/best-yield/) and [_Perpetual Yield Tranches_](../../../products/perpetual-yield-tranches/)). Here, we will use the Best-Yield strategy. There are different assets available (DAI, USDC, USDT) offering different _APY_s depending on supply and demand equilibria.
 2. Click "_Deposit_" next to the asset you wish to deposit.
    1. If you do not currently possess any of the respective assets you will be given the option to purchase them via the built-in on-ramps or conversion partners.
 3. Click "_Approve"_, then "_Confirm_" the transaction in your wallet to approve your fund deposit. You can click on _"_Edit" to increase the gas price if the network is busy (visit [https://www.blocknative.com/gas-estimator](https://www.blocknative.com/gas-estimator) for current rates) and speed up the transaction completion.

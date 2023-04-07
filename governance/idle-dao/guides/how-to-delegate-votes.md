@@ -41,4 +41,4 @@ The upper part of the page shows the delegation feature. Here you can paste the 
 If you want to change the delegate or no proposals are active, click on the “Delegate” category in the menu on the left.\
 Here you can see how many IDLE tokens you are owning and set the new delegate or self-delegate the voting power.
 
-![](<../../../.gitbook/assets/image (83).png>)
+![](<../../../.gitbook/assets/image (83) (1).png>)

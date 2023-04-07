@@ -7,7 +7,7 @@ description: Products > Perpetual Yield Tranches > Covered risks
 Each Perpetual Yield Tranche is based on one or more yield sources, which are exposed to a set of dependencies and risks. Additionally, every PYT is subject to underlying strategy and [Idle PYTs infrastructure](../../developers/security/audits.md#perpetual-yield-tranches) risks.
 
 {% hint style="info" %}
-Given the nature of the two classes of tranches, which differ in terms of risks and gains opportunities, it is possible to explain their behaviour through two scenarios: a **Yield case** and a **Loss case**. **** See Yield and Loss scenarios in the [Overview](overview.md) section.&#x20;
+Given the nature of the two classes of tranches, which differ in terms of risks and gains opportunities, it is possible to explain their behaviour through two scenarios: a **Yield case** and a **Loss case**. See Yield and Loss scenarios in the [Overview](overview.md) section.&#x20;
 {% endhint %}
 
 In general, Senior PYTs holders always benefit from the payout priority (first in line to redeem their funds) after events that can cause _a decrease_ in:
@@ -63,7 +63,7 @@ Lending protocols are mainly classified into two categories based on the type of
 | Validator key management | Loss of multisig keys holding staked ETH  | Partial loss of funds | Yes      |
 | Slashing                 | Staking penalties for validators' network | Partial loss of funds | Yes      |
 
-NB - PYTs do not cover Senior **** LPs funds in case of events leading to a de-peg.
+NB - PYTs do not cover Senior LPs funds in case of events leading to a de-peg.
 
 ### Leveraged strategies
 

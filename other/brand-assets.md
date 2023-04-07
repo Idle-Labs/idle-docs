@@ -5,7 +5,7 @@ description: Other > Brand assets
 # Brand assets
 
 {% hint style="info" %}
-If you're creating **** a design or an animation about Idle, you can find Idle graphics guidelines below.
+If you're creating a design or an animation about Idle, you can find Idle graphics guidelines below.
 
 Click on the top-right corner, to pop out the PDF and download it.
 {% endhint %}
@@ -26,7 +26,7 @@ We believe that everyone deserves the best for their idle funds, both in terms o
 
 ### $IDLE logo kit
 
-****![](<../.gitbook/assets/image (56).png>)****
+![](<../.gitbook/assets/image (56).png>)
 
 **Name:** $IDLE governance token
 

@@ -27,7 +27,7 @@ Write a post labelled as follows: “**\[Gauges] - Proposal to add YOUR POOL NAM
 > Share the address of the pool and, if available, the address of the `LiquidityGaugeV3` contract.
 
 > _<mark style="color:blue;">**Next steps**</mark>_\
-> _<mark style="color:blue;">****</mark>_Inform the community when you plan to launch the Temperature check. The forum proposal can be moved to the temperature check phase at least after 3 days of discussion.
+> Inform the community when you plan to launch the Temperature check. The forum proposal can be moved to the temperature check phase at least after 3 days of discussion.
 
 ### **2. Temperature check**
 

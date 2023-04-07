@@ -57,7 +57,7 @@ Users $$x$$ and $$y$$ provide the same liquidity (100 stETH) in the senior tranc
 | $$y$$     | 100 stETH (AA\_wstETH) | $$\frac{100}{200} = 0.5 \to 50\%$$  |
 | LIDO pool | 200 stETH              | $$100\%$$                           |
 
-Now, let’s suppose that user __ $$x$$ owns the total supply of stkIDLE in the pool (100%). The gauges boost calculator, using Equation (1), will consider user $$x$$ as bringing 250 stETH of liquidity in the pool, consequently boosting $$x's$$ rewards by a multiplier of 1.42
+Now, let’s suppose that user $$x$$ owns the total supply of stkIDLE in the pool (100%). The gauges boost calculator, using Equation (1), will consider user $$x$$ as bringing 250 stETH of liquidity in the pool, consequently boosting $$x's$$ rewards by a multiplier of 1.42
 
 | User (stkIDLE)             | Boosted liquidity        | % pool holding                              |
 | -------------------------- | ------------------------ | ------------------------------------------- |

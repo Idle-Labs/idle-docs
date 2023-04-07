@@ -6,7 +6,7 @@ description: Other > Guides
 
 Currently available guides:
 
-[How to add **$IDLE** to _MetaMask?_](idle-on-ethereum/how-to-add-usdidle-to-metamask.md)__
+[How to add **$IDLE** to _MetaMask?_](idle-on-ethereum/how-to-add-usdidle-to-metamask.md)
 
 ## Products
 
@@ -17,10 +17,10 @@ Currently available guides:
 * [Add Polygon network](idle-on-polygon/add-polygon-network-to-metamask.md) to your wallet
   * Add _Polygon_ manually
   * Add _Polygon_ through _Chainlist_
-  * [Bridge your funds from Ethereum to _Polygon_](idle-on-polygon/bridge-usdidle-to-polygon.md)__
-  * [Deposit funds on Idle using _Polygon_](idle-on-polygon/deposit-funds-on-polygon.md)__
+  * [Bridge your funds from Ethereum to _Polygon_](idle-on-polygon/bridge-usdidle-to-polygon.md)
+  * [Deposit funds on Idle using _Polygon_](idle-on-polygon/deposit-funds-on-polygon.md)
   * [Add liquidity to _$IDLE_ pools](idle-on-polygon/add-liquidity-to-usdidle-pools.md)
-  * [Stake IDLE LP tokens on _Polygon_](idle-on-polygon/stake-idle-lp-tokens-on-polygon.md)__
+  * [Stake IDLE LP tokens on _Polygon_](idle-on-polygon/stake-idle-lp-tokens-on-polygon.md)
 
 ### [Perpetual Yield Tranches guides](../../products/perpetual-yield-tranches/guides/)
 

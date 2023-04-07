@@ -23,11 +23,11 @@ LP staking is a way to incentivize liquidity provisioning for IDLE/WETH pairs on
 
 💼 Program budget: **20,000 $IDLE**
 
-🔀 Staking model: [**Ampleforth Geyser model fork**](https://www.ampleforth.org/dapps/)****
+🔀 Staking model: [**Ampleforth Geyser model fork**](https://www.ampleforth.org/dapps/)
 
-🛠 Solidity code: [**Idle Geyser Github**](https://github.com/Idle-Finance/idle-geyser)****
+🛠 Solidity code: [**Idle Geyser Github**](https://github.com/Idle-Finance/idle-geyser)
 
-⛓ Contract addresses: [**TokenGeyser**](https://polygonscan.com/address/0x0ac74Fe6f3C9123254418EEfcE37E4f7271a2b72)**,** [**Tokenizer**](https://polygonscan.com/address/0x59CDF902b6A964CD5dB04d28f12b774bFB876Be9)****
+⛓ Contract addresses: [**TokenGeyser**](https://polygonscan.com/address/0x0ac74Fe6f3C9123254418EEfcE37E4f7271a2b72)**,** [**Tokenizer**](https://polygonscan.com/address/0x59CDF902b6A964CD5dB04d28f12b774bFB876Be9)
 {% endhint %}
 
 ### **How LP staking works**
@@ -40,7 +40,7 @@ The Geyser contract has a built-in mechanism intended to incentivize long-term l
 
 The reward multiplier linearly increases over the following periods:
 
-* 0-1 month ****   -> from 1x up to 2x
+* 0-1 month    -> from 1x up to 2x
 * 1-2 months  -> from 2x up to 3x
 * 2-3 months  -> 3x
 

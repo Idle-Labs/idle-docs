@@ -34,7 +34,7 @@ The dashboard will show your the claimable $IDLE amount and the previous claim c
 
 Once you have locked your $IDLE, you cannot revert the operation until the lock end date has been reached. You can instead&#x20;
 
-* _Increase Time_: increase the locking duration __&#x20;
+* _Increase Time_: increase the locking duration&#x20;
 * _Increase Amount_: increase the $IDLE locked
 
 Every time, you modify the _Time_ or _Amount_ the APR will be adjusted consequently.

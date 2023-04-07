@@ -85,7 +85,7 @@ Loopring is a decentralized Layer 2 AMM with high transaction throughput due to 
 
 **Tools:**&#x20;
 
-* ****[Sushiswap (Polygon) LP Staking Program Explanation](../../../other/archive/polygon-lp-staking-deprecated.md)
+* [Sushiswap (Polygon) LP Staking Program Explanation](../../../other/archive/polygon-lp-staking-deprecated.md)
 * [Sushi IDLE-WETH Analytics 1](https://analytics-polygon.sushi.com/pairs/0x5518a3af961eee8771657050c5cb23d2b3e2f6ee)
 * [How-to Guide](../../../other/guides/idle-on-polygon/add-liquidity-to-usdidle-pools.md)
 

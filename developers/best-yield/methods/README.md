@@ -8,15 +8,15 @@ Idle allows you to lend different underlying assets (e.g. _DAI_, _USDC_) through
 
 ### Core methods
 
-****[`mintIdleToken`](mintidletoken.md)**:** lends assets in Idle and receives IdleTokens back.
+[`mintIdleToken`](mintidletoken.md)**:** lends assets in Idle and receives IdleTokens back.
 
-****[`redeemIdleToken`](redeemidletoken-1.md)**:** redeems your assets and interests and burns IdleTokens.
+[`redeemIdleToken`](redeemidletoken-1.md)**:** redeems your assets and interests and burns IdleTokens.
 
-****[`redeemInterestBearingTokens`](redeeminterestbearingtokens.md)**:** redeems interest-bearing assets and burns IdleTokens.
+[`redeemInterestBearingTokens`](redeeminterestbearingtokens.md)**:** redeems interest-bearing assets and burns IdleTokens.
 
 [`rebalance`](rebalance.md)**:** reads allocations from IdleRebalancer and changes IdleToken pool allocations if needed.
 
-****[`tokenPrice`](tokenprice.md)**:** gets current IdleToken price without fees.
+[`tokenPrice`](tokenprice.md)**:** gets current IdleToken price without fees.
 
 [`getAPRs`](getaprs.md)**:** gets APRs from all implemented protocols.
 

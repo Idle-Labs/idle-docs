@@ -24,7 +24,7 @@ To deposit into the stETH PYTs, follow these two steps:
 
 After having staked ETH on Lido, the user can go back to Idle and enjoy the different risk-return profiles of the Perpetual Yield Tranches.&#x20;
 
-* Choose the Perpetual Yield Tranches __ side of preference selecting either _Senior_ or _Junior Tranches_ under the _Earn_ section in the top-bar
+* Choose the Perpetual Yield Tranches side of preference selecting either _Senior_ or _Junior Tranches_ under the _Earn_ section in the top-bar
 
 {% hint style="info" %}
 Using **Senior Tranches**, in case of hacks or losses, users' funds will be covered by the funds deposited in the Junior Tranche.

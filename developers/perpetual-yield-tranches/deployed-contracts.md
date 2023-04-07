@@ -136,6 +136,24 @@ The ABI of the Perpetual Yield Tranches contract can be found here: [JSON](https
 | Senior | AA\_morpho\_aWETH | [0x6c0c8708e2FD507B7057762739cb04cF01b98d7b](https://etherscan.io/address/0x6c0c8708e2FD507B7057762739cb04cF01b98d7b) |
 | Junior | BB\_morpho\_aWETH | [0xd69c52E6AF3aE708EE4b3d3e7C0C5b4CF4d6244B](https://etherscan.io/address/0xd69c52E6AF3aE708EE4b3d3e7C0C5b4CF4d6244B) |
 
+### Clearpool
+
+**USDC (Portofino)**
+
+| Side   | Ticker            | Address                                                                                                               |
+| ------ | ----------------- | --------------------------------------------------------------------------------------------------------------------- |
+| CDO    | cp\_POR\_USDC     | [0x1329E8DB9Ed7a44726572D44729427F132Fa290D](https://etherscan.io/address/0x1329e8db9ed7a44726572d44729427f132fa290d) |
+| Senior | AA\_cp\_POR\_USDC | [0x9CAcd44cfDf22731bc99FaCf3531C809d56BD4A2](https://etherscan.io/address/0x9cacd44cfdf22731bc99facf3531c809d56bd4a2) |
+| Junior | BB\_cp\_POR\_USDC | [0xf85fd280b301c0a6232d515001da8b6c8503d714](https://etherscan.io/address/0xf85fd280b301c0a6232d515001da8b6c8503d714) |
+
+**DAI (Portofino)**
+
+| Side   | Ticker           | Address                                                                                                               |
+| ------ | ---------------- | --------------------------------------------------------------------------------------------------------------------- |
+| CDO    | cp\_POR\_DAI     | [0x5dcA0B3Ed7594A6613c1A2acd367d56E1f74F92D](https://etherscan.io/address/0x5dca0b3ed7594a6613c1a2acd367d56e1f74f92d) |
+| Senior | AA\_cp\_POR\_DAI | [0x43eD68703006add5F99ce36b5182392362369C1](https://etherscan.io/address/0x43eD68703006add5F99ce36b5182392362369C1c)  |
+| Junior | BB\_cp\_POR\_DAI | [0x38d36353d07cfb92650822d9c31fb4ada1c73d6e](https://etherscan.io/address/0x38d36353d07cfb92650822d9c31fb4ada1c73d6e) |
+
 ### ERC-4626 wrappers for Tranche tokens
 
 where AA = Senior Tranche, BB = Junior Tranche.

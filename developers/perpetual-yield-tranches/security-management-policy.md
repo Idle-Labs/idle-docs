@@ -19,6 +19,6 @@ As part of the Security Management policy, there is one more function on the `Id
 The pause guardian can pause, unpause and call `emergencyShutdown`.\
 PYTs contracts can be paused during emergency situations.\
 \
-The pause guardian is currently the Idle Dev Multisig [`0xe8eA8bAE250028a8709A3841E0Ae1a44820d677b`](https://etherscan.io/address/0xe8eA8bAE250028a8709A3841E0Ae1a44820d677b)``
+The pause guardian is currently the Idle Dev Multisig [`0xe8eA8bAE250028a8709A3841E0Ae1a44820d677b`](https://etherscan.io/address/0xe8eA8bAE250028a8709A3841E0Ae1a44820d677b)
 {% endtab %}
 {% endtabs %}

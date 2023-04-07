@@ -14,7 +14,7 @@ This tutorial will guide users in the process of depositing new funds on the Cle
 
 Go to [Idle Finance](https://idle.finance/#/tranches/clearpool/USDC) and enjoy the different risk-return profiles of the Perpetual Yield Tranches.
 
-* Choose the Perpetual Yield Tranches __ side of preference selecting either _Senior_ or _Junior Tranches_ under the _Earn_ section in the top-bar
+* Choose the Perpetual Yield Tranches side of preference selecting either _Senior_ or _Junior Tranches_ under the _Earn_ section in the top-bar
 
 {% hint style="info" %}
 Using **Senior Tranches**, in case of hacks or losses, users' funds will be covered by the funds deposited in the Junior Tranche.

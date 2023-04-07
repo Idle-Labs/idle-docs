@@ -88,8 +88,11 @@ Morpho is a peer-to-peer layer built on top of the lending pools of Aave.
 {% tab title="Clearpool" %}
 #### Integrated assets
 
-* [USDC](https://etherscan.io/address/0xDBCEE5AE2E9DAf0F5d93473e08780C9f45DfEb93)
-* [DAI](https://etherscan.io/address/0xDcE26B2c78609b983cF91cCcD43E238353653b0E)
+* USDC
+* DAI
+* USDT
+
+Borrowers: [Portofino](https://www.portofino.tech/), [Fasanara](https://twitter.com/FasanaraDigital)
 {% endtab %}
 {% endtabs %}
 

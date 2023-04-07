@@ -12,7 +12,7 @@ The Idle DAO Treasury is composed of multiple Ethereum and Polygon addresses wit
 
 <summary>Ecosystem Fund</summary>
 
-Address: [`0xb0aa1f98523ec15932dd5faac5d86e57115571c7`](https://etherscan.io/address/0xb0aa1f98523ec15932dd5faac5d86e57115571c7)``
+Address: [`0xb0aa1f98523ec15932dd5faac5d86e57115571c7`](https://etherscan.io/address/0xb0aa1f98523ec15932dd5faac5d86e57115571c7)
 
 Owner: Timelock (DAO Governance)
 
@@ -24,7 +24,7 @@ Description: address with 15% of the total $IDLE supply to fund Idle DAO and com
 
 <summary>Long Term Rewards Fund</summary>
 
-Address: [`0x107a369bc066c77ff061c7d2420618a6ce31b925`](https://etherscan.io/address/0x107a369bc066c77ff061c7d2420618a6ce31b925)****
+Address: [`0x107a369bc066c77ff061c7d2420618a6ce31b925`](https://etherscan.io/address/0x107a369bc066c77ff061c7d2420618a6ce31b925)
 
 Owner: Timelock (DAO Governance)
 
@@ -36,7 +36,7 @@ Description: address with 20% of the total $IDLE supply to reward long-term ecos
 
 <summary>Fee Treasury</summary>
 
-Address: [`0x69a62c24f16d4914a48919613e8ee330641bcb94`](https://etherscan.io/address/0x69a62c24f16d4914a48919613e8ee330641bcb94)``
+Address: [`0x69a62c24f16d4914a48919613e8ee330641bcb94`](https://etherscan.io/address/0x69a62c24f16d4914a48919613e8ee330641bcb94)
 
 Owner: Timelock (DAO Governance)
 
@@ -48,7 +48,7 @@ Description: address collecting 20% of the protocol fees generated from the BY s
 
 <summary>Fee Collector</summary>
 
-Address: [`0xBecC659Bfc6EDcA552fa1A67451cC6b38a0108E4`](https://etherscan.io/address/0xbecc659bfc6edca552fa1a67451cc6b38a0108e4)``
+Address: [`0xBecC659Bfc6EDcA552fa1A67451cC6b38a0108E4`](https://etherscan.io/address/0xbecc659bfc6edca552fa1a67451cc6b38a0108e4)
 
 Owner: Timelock (DAO Governance)
 
@@ -60,7 +60,7 @@ Description: address collecting fees coming from Idle strategies on Ethereum and
 
 <summary>Sushi Collector</summary>
 
-Address: [`0x076ff8e6402b02855ff82119b53e59bbdd67f0ee`](https://etherscan.io/address/0x076ff8e6402b02855ff82119b53e59bbdd67f0ee)``
+Address: [`0x076ff8e6402b02855ff82119b53e59bbdd67f0ee`](https://etherscan.io/address/0x076ff8e6402b02855ff82119b53e59bbdd67f0ee)
 
 Owner: Timelock (DAO Governance)
 
@@ -86,7 +86,7 @@ Description: multisig wallet owning liquidity to fund Leagues contributors' rewa
 
 <summary>Fee Collector</summary>
 
-Address: [`0x1d60E17723f8Ca1F76F09126242AcD37a278b514`](https://polygonscan.com/address/0x1d60E17723f8Ca1F76F09126242AcD37a278b514)``
+Address: [`0x1d60E17723f8Ca1F76F09126242AcD37a278b514`](https://polygonscan.com/address/0x1d60E17723f8Ca1F76F09126242AcD37a278b514)
 
 Owner: Leagues members
 
@@ -98,7 +98,7 @@ Description: wallet owning the fees coming from Idle strategies on Polygon
 
 <summary>Treasury League multisig</summary>
 
-Address: [`0x61A944Ca131Ab78B23c8449e0A2eF935981D5cF6`](https://polygonscan.com/address/0x61A944Ca131Ab78B23c8449e0A2eF935981D5cF6)``
+Address: [`0x61A944Ca131Ab78B23c8449e0A2eF935981D5cF6`](https://polygonscan.com/address/0x61A944Ca131Ab78B23c8449e0A2eF935981D5cF6)
 
 Owner: Leagues members (4 signatures out of 11)
 
