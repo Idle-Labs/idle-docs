@@ -154,6 +154,14 @@ The ABI of the Perpetual Yield Tranches contract can be found here: [JSON](https
 | Senior | AA\_cp\_POR\_DAI | [0x43eD68703006add5F99ce36b5182392362369C1](https://etherscan.io/address/0x43eD68703006add5F99ce36b5182392362369C1c)  |
 | Junior | BB\_cp\_POR\_DAI | [0x38d36353d07cfb92650822d9c31fb4ada1c73d6e](https://etherscan.io/address/0x38d36353d07cfb92650822d9c31fb4ada1c73d6e) |
 
+**USDC (Fasanara)**
+
+| Side   | Ticker            | Address                                                                                                               |
+| ------ | ----------------- | --------------------------------------------------------------------------------------------------------------------- |
+| CDO    | cp\_FAS\_USDT     | [0xc4574C60a455655864aB80fa7638561A756C5E61](https://etherscan.io/address/0xc4574C60a455655864aB80fa7638561A756C5E61) |
+| Senior | AA\_cp\_FAS\_USDT | [0x0a6f2449C09769950cFb76f905Ad11c341541f70](https://etherscan.io/address/0x0a6f2449c09769950cfb76f905ad11c341541f70) |
+| Junior | BB\_cp\_FAS\_USDT | [0x3Eb6318b8D9f362a0e1D99F6032eDB1C4c602500](https://etherscan.io/address/0x3eb6318b8d9f362a0e1d99f6032edb1c4c602500) |
+
 ### ERC-4626 wrappers for Tranche tokens
 
 where AA = Senior Tranche, BB = Junior Tranche.
