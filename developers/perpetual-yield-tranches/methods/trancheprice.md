@@ -1,5 +1,5 @@
 ---
-description: Developers > Perpetual Yield Tranches > Methods > tranchePrice
+description: Developers > Yield Tranches > Methods > tranchePrice
 ---
 
 # tranchePrice

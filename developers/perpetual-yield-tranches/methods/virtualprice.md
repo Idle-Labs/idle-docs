@@ -1,12 +1,12 @@
 ---
-description: Developers > Perpetual Yield Tranches > Methods > virtualPrice
+description: Developers > Yield Tranches > Methods > virtualPrice
 ---
 
 # virtualPrice
 
 This method calculates the current tranches price considering the interest that is yet to be split (i.e. the interest generated since the last interaction done on depositXX/withdrawXX/harvest).
 
-This should always be >= of `tranchePrice`
+This should always be $$\geq$$ of `tranchePrice`
 
 ### Function
 

@@ -1,5 +1,5 @@
 ---
-description: Developers > Perpetual Yield Tranches > Methods > getCurrentAARatio
+description: Developers > Yield Tranches > Methods > getCurrentAARatio
 ---
 
 # getCurrentAARatio

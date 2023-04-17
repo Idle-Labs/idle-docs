@@ -1,15 +1,15 @@
 ---
-description: Developers > Perpetual Yield Tranches > Integration example
+description: Developers > Yield Tranches > Integration example
 ---
 
 # Integration example
 
 ## Routing Contract
 
-One way for external protocols to integrate Perpetual Yield Tranches is to create a Routing Contract around the [`IdleCDO`](https://github.com/Idle-Labs/idle-tranches/blob/master/contracts/IdleCDO.sol) contracts.
+One way for external protocols to integrate Yield Tranches is to create a Routing Contract around the [`IdleCDO`](https://github.com/Idle-Labs/idle-tranches/blob/master/contracts/IdleCDO.sol) contracts.
 
 {% hint style="info" %}
-Integrators use a routing contract to keep track of users' deposits in Perpetual Yield Tranches originally made through their platforms.
+Integrators use a routing contract to keep track of users' deposits in Yield Tranches originally made through their platforms.
 {% endhint %}
 
 ### How it works
@@ -20,8 +20,8 @@ Integrators use a routing contract to keep track of users' deposits in Perpetual
 
 ### Example
 
-An example of a Routing contract used by ShapeShift to integrate Best Yield and Perpetual Yield Tranches, with related tests, is available [on Github](https://github.com/shapeshift/idle-router).
+An example of a Routing contract used by ShapeShift to integrate Best Yield and Yield Tranches, with related tests, is available [on Github](https://github.com/shapeshift/idle-router).
 
 ### Integration Partners program
 
-Protocols deploying funds into the Perpetual Yield Tranches are eligible to join the [Integration Partners program](../../products/integration-partners-program/).
+Protocols deploying funds into the Yield Tranches are eligible to join the [Integration Partners program](../../products/integration-partners-program/).

@@ -1,6 +1,6 @@
 ---
-description: Developers > Perpetual Yield Tranches
+description: Developers > Yield Tranches
 ---
 
-# Perpetual Yield Tranches
+# Yield Tranches
 

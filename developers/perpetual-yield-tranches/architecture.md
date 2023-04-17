@@ -1,5 +1,5 @@
 ---
-description: Developers > Perpetual Yield Tranches > Architecture
+description: Developers > Yield Tranches > Architecture
 ---
 
 # Architecture
@@ -7,7 +7,7 @@ description: Developers > Perpetual Yield Tranches > Architecture
 The main contract used by users is called `IdleCDO` which allows depositing the underlying and mint tranche tokens (ERC-20), either AA or BB, and redeeming principal and interest from it.
 
 {% hint style="success" %}
-PYTs are also ERC-4626 compliant! Deployed wrappers can be found [here.](deployed-contracts.md#erc-4626-wrappers-for-tranche-tokens)
+YTs are also ERC-4626 compliant! Deployed wrappers can be found [here.](deployed-contracts.md#erc-4626-wrappers-for-tranche-tokens)
 {% endhint %}
 
 The IdleCDO contract pools users' funds together and uses `IIdleCDOStrategy` as a proxy for interacting with the underlying DeFi protocol to deposit funds and collect interest and rewards.

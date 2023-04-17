@@ -1,5 +1,5 @@
 ---
-description: Developers > Perpetual Yield Tranches > Methods > strategyToken
+description: Developers > Yield Tranches > Methods > strategyToken
 ---
 
 # strategyToken

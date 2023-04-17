@@ -1,5 +1,5 @@
 ---
-description: Developers > Perpetual Yield Tranches > Methods > lastNAVAA
+description: Developers > Yield Tranches > Methods > lastNAVAA
 ---
 
 # lastNAVAA

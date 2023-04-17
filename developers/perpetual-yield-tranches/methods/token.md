@@ -1,5 +1,5 @@
 ---
-description: Developers > Perpetual Yield Tranches > Methods > token
+description: Developers > Yield Tranches > Methods > token
 ---
 
 # token

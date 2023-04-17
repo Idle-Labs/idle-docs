@@ -1,5 +1,5 @@
 ---
-description: Developers > Perpetual Yield Tranches > Methods > depositBBnonpayable
+description: Developers > Yield Tranches > Methods > depositBBnonpayable
 ---
 
 # depositBB

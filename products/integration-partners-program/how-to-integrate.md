@@ -34,8 +34,8 @@ As an integration partner, the methods you should look for are
 
 ### Technical documentation
 
-More technical and detailed information regarding Idle strategies integration can be found in the [Developers chapter](broken-reference) under the [Best Yield](../../developers/best-yield/) and the [Perpetual Yield Tranches](../../developers/perpetual-yield-tranches/) documentation.&#x20;
+More technical and detailed information regarding Idle strategies integration can be found in the [Developers chapter](broken-reference) under the [Best Yield](../../developers/best-yield/) and the [Yield Tranches](../../developers/perpetual-yield-tranches/) documentation.&#x20;
 
 {% hint style="info" %}
-Best Yield and Perpetual Yield Tranches are [ERC-4626](../../developers/networks-and-codebase/erc-4626-standard.md) compatible and should ease the effort needed when integrating the strategies.&#x20;
+Best Yield and Yield Tranches are [ERC-4626](../../developers/networks-and-codebase/erc-4626-standard.md) compatible and should ease the effort needed when integrating the strategies.&#x20;
 {% endhint %}

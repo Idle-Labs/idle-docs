@@ -1,5 +1,5 @@
 ---
-description: Developers > Perpetual Yield Tranches > Methods > withdrawAA nonpayable
+description: Developers > Yield Tranches > Methods > withdrawAA nonpayable
 ---
 
 # withdrawAA

@@ -6,7 +6,7 @@ description: Governance > $IDLE staking > Gauges
 
 The gauge voting system allows stkIDLE holders to control IDLE emissions that go through gauges. In other words, by voting for a specific gauge, stkIDLE holders increase the amount of $IDLE tokens sent to the related staking contract with respect to the others.&#x20;
 
-$IDLE rewards distributed via Gauges are initially routed to the **Senior Tranche** of the [Perpetual Yield Tranches](../../../products/perpetual-yield-tranches/).
+$IDLE rewards distributed via Gauges are initially routed to the **Senior Tranche** of the [Perpetual Yield Tranches](../../../products/yield-tranches/).
 
 This system strongly favours LPs who continually lock their rewards into stkIDLE to increase their pool's gauge weight. Fundamentally, this allows stkIDLE holders, who are the most long term users of the protocol, to have complete control over the future $IDLE emission for Gauges.
 
@@ -29,7 +29,7 @@ When a user applies a new weight vote, it gets applied at the start of the next 
 The Idle protocol is distributing $IDLE to Perpetual Yield Tranches (PYT) via the `Controller` contract. The overall [$IDLE emission rate](../../idle/distribution.md) stays at 3,300 $IDLE per day (including both BY and PYT reward programs).
 
 {% hint style="warning" %}
-Currently, the **Senior class of** [**PYTs**](../../../products/perpetual-yield-tranches/) is eligible to receive gauge incentives.
+Currently, the **Senior class of** [**PYTs**](../../../products/yield-tranches/) is eligible to receive gauge incentives.
 {% endhint %}
 
 {% hint style="info" %}

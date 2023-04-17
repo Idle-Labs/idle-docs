@@ -8,7 +8,7 @@ description: Products > Integration Partners program > Overview > FAQs
 
 <summary>How do I earn fees?</summary>
 
-Include your wallet address as part of the deposit transaction data. More information regarding the input parameters of the deposit method can be found in the BY and PYTs Methods sections in the [Developers](broken-reference) chapter.
+Include your wallet address as part of the deposit transaction data. More information regarding the input parameters of the deposit method can be found in the BY and YTs Methods sections in the [Developers](broken-reference) chapter.
 
 </details>
 
@@ -42,7 +42,7 @@ Accrued shared fees that do not reach the minimum threshold are recorded in the 
 
 <summary>How is my reward tier calculated?</summary>
 
-Your tier is calculated as the average Partner Deposited Asset (PDA) value between the first deposit and the first payment. When the fee-sharing transaction is executed, the tier is then calculated in the timeframe between that day and the next payment.\
+Your tier is calculated as the average Partners' users deposit value between the first deposit and the first payment. When the fee-sharing transaction is executed, the tier is then calculated in the timeframe between that day and the next payment.\
 You can check some helpful examples [here](overview.md#fee-sharing-examples).
 
 </details>

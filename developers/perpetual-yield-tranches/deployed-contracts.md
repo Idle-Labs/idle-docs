@@ -1,22 +1,22 @@
 ---
-description: Developers > Perpetual Yield Tranches > Deployed contracts
+description: Developers > Yield Tranches > Deployed contracts
 ---
 
 # Deployed contracts
 
-You can find the currently deployed instances and ABIs of the Perpetual Yield Tranches contracts at the following addresses.
+You can find the currently deployed instances and ABIs of the Yield Tranches contracts at the following addresses.
 
 ## Ethereum
 
-### Perpetual Yield Tranches
+### Yield Tranches
 
-The table lists all the PYTs addresses currently available and the specific token addresses following this scheme:&#x20;
+The table lists all the YTs addresses currently available and the specific token addresses following this scheme:&#x20;
 
-* CDO = Main PYTs contract address
+* CDO = Main YTs contract address
 * Senior = Senior tranche LP token (AA)
 * Junior = Junior tranche LP token (BB)
 
-The ABI of the Perpetual Yield Tranches contract can be found here: [JSON](https://github.com/Idle-Labs/idle-tranches/blob/master/abi/IdleCDO.json).
+The ABI of the Yield Tranches contract can be found here: [JSON](https://github.com/Idle-Labs/idle-tranches/blob/master/abi/IdleCDO.json).
 
 ### Lido
 
@@ -275,7 +275,7 @@ Integrators that need other ERC-4626 wrappers can get in contact with the [Devel
 
 ## Polygon
 
-### Perpetual Yield Tranches
+### Yield Tranches
 
 | Contract          | Address                                                                                                               |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -283,6 +283,6 @@ Integrators that need other ERC-4626 wrappers can get in contact with the [Devel
 
 ### Deprecated strategies
 
-| Contract                          | Address                                                                                                                  |
-| --------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| Quickswap idleCSUNI-V2 AA/BB PYTs | [0xB144eE58679e15f1b25A5F6EfcEBDd0AB8c8BEF5](https://polygonscan.com/address/0xb144ee58679e15f1b25a5f6efcebdd0ab8c8bef5) |
+| Contract                         | Address                                                                                                                  |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| Quickswap idleCSUNI-V2 AA/BB YTs | [0xB144eE58679e15f1b25A5F6EfcEBDd0AB8c8BEF5](https://polygonscan.com/address/0xb144ee58679e15f1b25a5f6efcebdd0ab8c8bef5) |

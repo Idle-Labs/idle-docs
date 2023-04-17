@@ -1,5 +1,5 @@
 ---
-description: Developers > Perpetual Yield Tranches > Methods > strategy
+description: Developers > Yield Tranches > Methods > strategy
 ---
 
 # strategy

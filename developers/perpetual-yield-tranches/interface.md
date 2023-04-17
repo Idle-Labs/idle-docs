@@ -1,5 +1,5 @@
 ---
-description: Developers > Perpetual Yield Tranches > Interface
+description: Developers > Yield Tranches > Interface
 ---
 
 # Interface

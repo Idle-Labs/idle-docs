@@ -1,5 +1,5 @@
 ---
-description: Developers > Perpetual Yield Tranches > Methods > fee
+description: Developers > Yield Tranches > Methods > fee
 ---
 
 # fee

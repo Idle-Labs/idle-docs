@@ -1,5 +1,5 @@
 ---
-description: Developers > Perpetual Yield Tranches > Methods > AAstaking
+description: Developers > Yield Tranches > Methods > AAstaking
 ---
 
 # AAStaking

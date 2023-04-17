@@ -4,7 +4,7 @@ description: Integration Partners program > Integrators
 
 # Integrators
 
-Multiple partners have integrated either the Best Yield strategies or the Perpetual Yield Tranches. A list of current on-top integrators follows.
+Multiple partners have integrated either the Best Yield strategies or the Yield Tranches. A list of current on-top integrators follows.
 
 ### Current partners
 
@@ -17,7 +17,7 @@ Multiple partners have integrated either the Best Yield strategies or the Perpet
 * [Harvest](https://harvest.finance/)
 {% endtab %}
 
-{% tab title="Perpetual Yield Tranches" %}
+{% tab title="Yield Tranches" %}
 * [ShapeShift](https://shapeshift.com/)
 * [Swissborg](https://swissborg.com/)
 * [Spool](https://www.spool.fi/)

@@ -10,7 +10,7 @@ coverY: 4.810776138550352
 
 ### Welcome to the [I**dle**](https://idle.finance/) **Docs**
 
-The best place to find all the information you need to start using Idle Protocol and collaborate with the Idle DAO.
+The best place to find all the information you need to start using Idle protocol and collaborate with the Idle DAO.
 
 {% hint style="info" %}
 **The Idle protocols** and **DAO** compose a decentralized organization that builds financial infrastructure for Web3. Businesses of every size, from brand new DeFi protocols to FinTech companies, use our protocol to _maximize capital efficiency_ and _manage their treasuries_ within DeFi.
@@ -30,7 +30,7 @@ With _idle games_, active withdrawal from the game comprises an essential part o
 
 This mode of interaction is paradigmatic for the change of roles decentralised financial technologies have in our lives. Suddenly consumers could commission robo-advisors to move their cash to whoever is offering the best rates or to automatically refinance debt. Value-added services from multiple providers would be equally easy to access, meaning they would have to compete on price or terms. In other words, much like the open Internet, profits will be rapidly transformed into a consumer benefit.
 
-## Idle Docs Index
+## Idle docs Index
 
 There are 4 main chapters in the idle documentation. Each chapter starts with a broad introduction covering the sections and subsections that follow to help you better understand the arguments addressed and easily find the answers to your questions.
 
@@ -38,22 +38,22 @@ There are 4 main chapters in the idle documentation. Each chapter starts with a 
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-Presenting idle's product suite, i.e. [Best Yield](products/best-yield/) and [Perpetual Yield Tranches](products/perpetual-yield-tranches/) as well as Idle DAO to DAO [Integration programs](products/integration-partners-program/).
+Presenting Idle's product suite, i.e. [Best Yield](products/best-yield/) and [Yield Tranches](products/yield-tranches/) as well as Idle DAO to DAO [Integration programs](products/integration-partners-program/).
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-Presenting idle [codebase](https://app.gitbook.com/o/-LwFtoytYZh7kXPdZp-v/s/-Lw-v0NTae0RVW1spR9R/\~/changes/fwSWEoG7SDdqwHYUrlhF/developers/contracts-and-codebase) and developers materials linked to [Best Yield](https://app.gitbook.com/o/-LwFtoytYZh7kXPdZp-v/s/-Lw-v0NTae0RVW1spR9R/\~/changes/fwSWEoG7SDdqwHYUrlhF/developers/best-yield-strategy) and [Perpetual Yield Tranches](https://app.gitbook.com/o/-LwFtoytYZh7kXPdZp-v/s/-Lw-v0NTae0RVW1spR9R/\~/changes/fwSWEoG7SDdqwHYUrlhF/products/perpetual-yield-tranches).
+Presenting Idle [codebase](https://app.gitbook.com/o/-LwFtoytYZh7kXPdZp-v/s/-Lw-v0NTae0RVW1spR9R/\~/changes/fwSWEoG7SDdqwHYUrlhF/developers/contracts-and-codebase) and developers materials linked to [Best Yield](https://app.gitbook.com/o/-LwFtoytYZh7kXPdZp-v/s/-Lw-v0NTae0RVW1spR9R/\~/changes/fwSWEoG7SDdqwHYUrlhF/developers/best-yield-strategy) and [Yield Tranches](https://app.gitbook.com/o/-LwFtoytYZh7kXPdZp-v/s/-Lw-v0NTae0RVW1spR9R/\~/changes/fwSWEoG7SDdqwHYUrlhF/products/perpetual-yield-tranches).
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-Presenting [idle DAO](governance/idle-dao/) processes, [idle Leagues](governance/idle-dao/idle-leagues/) structure and [$IDLE token](governance/idle/).
+Presenting [Idle DAO](governance/idle-dao/) processes, [Idle Leagues](governance/idle-dao/idle-leagues/) structure and [$IDLE token](governance/idle/).
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-Presenting idle [glossary](other/golossary.md), additional [resources](other/resources.md), and [archive](other/archive/).&#x20;
+Presenting Idle [glossary](other/golossary.md), additional [resources](other/resources.md), and [archive](other/archive/).&#x20;

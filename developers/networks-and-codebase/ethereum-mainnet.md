@@ -8,7 +8,7 @@ You can find the currently deployed instances and ABIs of the product suite (lin
 
 ### [Best Yield](../best-yield/deployed-contracts.md#best-yield-strategy-v4)
 
-### [Perpetual Yield Tranches](../perpetual-yield-tranches/deployed-contracts.md#perpetual-yield-tranches)
+### [Yield Tranches](../perpetual-yield-tranches/deployed-contracts.md#perpetual-yield-tranches)
 
 ### [Gauges](../gauges/deployed-contracts.md)
 

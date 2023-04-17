@@ -1,5 +1,5 @@
 ---
-description: Developers > Perpetual Yield Tranches > Methods > getIncentiveTokens
+description: Developers > Yield Tranches > Methods > getIncentiveTokens
 ---
 
 # getIncentiveTokens

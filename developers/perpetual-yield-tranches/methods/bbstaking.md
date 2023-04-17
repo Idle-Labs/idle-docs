@@ -1,5 +1,5 @@
 ---
-description: Developers > Perpetual Yield Tranches > Methods > BBStaking
+description: Developers > Yield Tranches > Methods > BBStaking
 ---
 
 # BBStaking

@@ -31,9 +31,8 @@ To ensure a smooth onboarding on Idle, the user should meet the following requir
 
 1. Choose the _Best Yield_ strategy in the topbar under _Earn_. There are different [assets](../overview.md#protocols-and-assets) available (i.e. DAI, USDC, USDT) offering different _APY_s depending on supply and demand equilibria and the BY strategy chosen.&#x20;
 2. Next to each token listed, the user will see either a 🛡️ or a ⚡️symbol. These symbols describe the type of Best Yield strategy users will deposit in:
-   1. OG Best Yield
-   2. Senior Best Yield 🛡️
-   3. Junior Best Yield ⚡️
+   1. Senior Best Yield 🛡️
+   2. Junior Best Yield ⚡️
 3. The user should click on the asset he wishes to deposit.
 4. Insert the number of tokens in the right panel and click on deposit. The smart contract will automatically set the gas limit based on current data.&#x20;
    * First-time users will be asked to approve the token spending on the contract before depositing. The spending allowance can be unlimited or exact. Users can then check their spending limits on third-party tools such as [Revoke Cash](https://revoke.cash/).

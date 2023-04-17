@@ -8,7 +8,7 @@ description: Governance > Introduction
 
 The Governance chapter presents useful information related to the Idle DAO processes and $IDLE token. All the key initiatives concerning Idle Governance are discussed in the [Idle Governance Forum](https://gov.idle.finance/).
 
-{% embed url="https://gov.idle.finance" %}
+{% embed url="https://gov.idle.finance/" %}
 gov.idle.finance
 {% endembed %}
 
@@ -26,4 +26,4 @@ With a focus on Idle DAO [governance processes](idle-dao/governance-process/#1.-
 [idle](idle/)
 {% endcontent-ref %}
 
-With a focus on $IDLE token, its [distribution](idle/distribution.md) and [use-cases](idle/use-cases/).&#x20;
+With a focus on $IDLE token, its [distribution](idle/distribution.md) and [use cases](idle/use-cases/).&#x20;

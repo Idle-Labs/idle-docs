@@ -1,5 +1,5 @@
 ---
-description: Developers > Perpetual Yield Tranches > Methods > getContractValue
+description: Developers > Yield Tranches > Methods > getContractValue
 ---
 
 # getContractValue

@@ -22,7 +22,7 @@ Currently available guides:
   * [Add liquidity to _$IDLE_ pools](idle-on-polygon/add-liquidity-to-usdidle-pools.md)
   * [Stake IDLE LP tokens on _Polygon_](idle-on-polygon/stake-idle-lp-tokens-on-polygon.md)
 
-### [Perpetual Yield Tranches guides](../../products/perpetual-yield-tranches/guides/)
+### [Yield Tranches guides](../../products/yield-tranches/guides/)
 
 ## Governance
 

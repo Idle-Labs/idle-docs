@@ -1,5 +1,5 @@
 ---
-description: Developers > Perpetual Yield Tranches > Methods > withdrawBB
+description: Developers > Yield Tranches > Methods > withdrawBB
 ---
 
 # withdrawBB

@@ -1,25 +1,25 @@
 ---
-description: Developers > Perpetual Yield Tranches > Edge cases
+description: Developers > Yield Tranches > Edge cases
 ---
 
 # Edge cases
 
-In this section, we explain the Idle Perpetual Yield Tranches (PYTs) risk situations, whether they are managed and covered automatically, and what the procedure is case by case.
+In this section, we explain the Yield Tranches (YTs) risk situations, whether they are managed and covered automatically, and what the procedure is case by case.
 
 ### What if the underlying protocols’ contracts are hacked?&#x20;
 
-Each PYT contract (called `IdleCDO`) has an underlying token managed (eg, DAI) and an associated interest-bearing asset (eg, `idleDAI`) which is used through a specific strategy.
+Each YT contract (called `IdleCDO`) has an underlying token managed (e.g. DAI) and an associated interest-bearing asset (e.g. `idleDAI`) which is used through a specific strategy.
 
 {% hint style="warning" %}
-If the interest-bearing asset price decreases over time, this means that the underlying related protocol (accessed through a “strategy”) is hacked, and the PYT contract is automatically 'paused,' thus no redeems or deposits are allowed until the Idle governance reactivates those selectively (first for the senior tranches).
+If the interest-bearing asset price decreases over time, this means that the underlying related protocol (accessed through a “strategy”) is hacked, and the YTs contract is automatically "paused", thus no redeems or deposits are allowed until the Idle governance reactivates those selectively (first for the Senior tranches).
 {% endhint %}
 
-### What if the PYTs contract is hacked?&#x20;
+### What if the YTs contract is hacked?&#x20;
 
-If the PYT contract is hacked, there are no automatic triggers to block subsequent deposits and redeems. Nevertheless, the contract owner (currently the Idle Dev League multisig) or the Guardian can still pause the contract.
+If the YTs contract is hacked, there are no automatic triggers to block subsequent deposits and redeems. Nevertheless, the contract owner (currently the Idle Dev League multisig) or the Guardian can still pause the contract.
 
 {% hint style="warning" %}
-If the contract is manually paused or, in general, if Idle suffers an attack that is not automatically managed, and there are any funds left, those will get distributed to senior holders first.
+If the contract is manually paused or, in general, if Idle suffers an attack that is not automatically managed, and there are any funds left, those will get distributed to Senior holders first.
 {% endhint %}
 
 ### Up to which amount are the Senior Tranches covered?&#x20;

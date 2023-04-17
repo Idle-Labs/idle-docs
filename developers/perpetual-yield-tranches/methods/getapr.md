@@ -1,5 +1,5 @@
 ---
-description: Developers > Perpetual Yield Tranches > Methods > getAPR
+description: Developers > Yield Tranches > Methods > getAPR
 ---
 
 # getApr

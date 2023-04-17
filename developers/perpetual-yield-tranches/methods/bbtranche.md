@@ -1,5 +1,5 @@
 ---
-description: Developers > Perpetual Yield Tranches > Methods > BBTranche
+description: Developers > Yield Tranches > Methods > BBTranche
 ---
 
 # BBTranche

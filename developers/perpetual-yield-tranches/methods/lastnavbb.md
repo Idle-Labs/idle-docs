@@ -1,5 +1,5 @@
 ---
-description: Developers > Perpetual Yield Tranches > Methods > lastNAVBB
+description: Developers > Yield Tranches > Methods > lastNAVBB
 ---
 
 # lastNAVBB

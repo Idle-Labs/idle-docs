@@ -6,7 +6,7 @@ description: Integration Partners program > Overview
 
 This program is an opportunity to join the Idle ecosystem and receive a part of protocol fees for deposits that originate from your dApp, wallet, or payment gateway.
 
-Best Yield strategies and Perpetual Yield Tranches are deployed on the Ethereum and on the Polygon chain.
+Best Yield strategies and Yield Tranches are deployed on the Ethereum and on the Polygon chain.
 
 {% hint style="info" %}
 Partners can join the program anytime, and receive **up to 50%** of the generated fees by embedding their referral wallet into deposits routed via their product.

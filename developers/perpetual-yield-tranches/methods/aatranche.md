@@ -1,5 +1,5 @@
 ---
-description: Developers > Perpetual Yield Tranches > Methods > AATranche
+description: Developers > Yield Tranches > Methods > AATranche
 ---
 
 # AATranche

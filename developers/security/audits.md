@@ -16,7 +16,7 @@ Idle protocol `idleTokens` [Best Yield contracts](https://github.com/Idle-Labs/i
 {% endtab %}
 {% endtabs %}
 
-### Perpetual Yield Tranches
+### Yield Tranches
 
 {% tabs %}
 {% tab title="Consensys Diligence" %}

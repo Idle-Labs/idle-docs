@@ -52,13 +52,13 @@ Idle currently sets a 10% fee when deposited funds are withdrawn. For more infor
 
 </details>
 
-## [Perpetual Yield Tranches](../products/perpetual-yield-tranches/faqs.md)
+## [Yield Tranches](../products/yield-tranches/faqs.md)
 
 <details>
 
-<summary>What happens in the case of a default, hack to PYT funds?</summary>
+<summary>What happens in the case of a default, hack to YTs funds?</summary>
 
-Read the[ PYTs Edge Cases ](../developers/perpetual-yield-tranches/edge-cases.md)section to learn more about default or hack scenarios and how they would be managed.
+Read the[ YTs Edge Cases ](../developers/perpetual-yield-tranches/edge-cases.md)section to learn more about default or hack scenarios and how they would be managed.
 
 </details>
 
@@ -74,7 +74,7 @@ In this vision, Senior Tranche increases the security profile of the liquidity p
 
 <details>
 
-<summary>Is there a locking period when investing in PYT?</summary>
+<summary>Is there a locking period when investing in YTs?</summary>
 
 There are **no locking periods or epochs** and users are free to enter and exit at any time. The interest earned (and governance tokens, after being partially sold in the market) will be split between the two classes according to a predefined ratio called _trancheAPRSplitRatio_ (e.g. 10% interest to Senior tranche holders and 90% to Junior tranche).
 
@@ -90,7 +90,7 @@ There is no lockup period for staking.
 
 <details>
 
-<summary>How is the APY of PYT determined?</summary>
+<summary>How is the APY of YTs determined?</summary>
 
 The base APY, before being split between tranches, is provided by the underlying strategy that takes into account the reinvestment of the accrued governance tokens (except for eventual IDLE rewards). The actual APY of each tranche class is determined by the ratio between the current underlying TVL of Senior and Junior tranches (i.e. APY = share of yield allocated to senior tranches/Senior TVL). The APY has to be considered net of fees.&#x20;
 
@@ -169,7 +169,7 @@ You can check some helpful examples [here](../products/integration-partners-prog
 
 </details>
 
-### [<mark style="color:purple;">Polygon</mark>](broken-reference)<mark style="color:purple;"></mark>
+### [<mark style="color:purple;">Polygon</mark>](broken-reference)
 
 <details>
 

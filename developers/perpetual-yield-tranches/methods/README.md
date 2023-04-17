@@ -1,5 +1,5 @@
 ---
-description: Developers > Perpetual Yield Tranches > Methods
+description: Developers > Yield Tranches > Methods
 ---
 
 # Methods

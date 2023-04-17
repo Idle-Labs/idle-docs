@@ -6,7 +6,7 @@ description: Developers > Introduction
 
 <figure><img src="../.gitbook/assets/Developers.png" alt=""><figcaption></figcaption></figure>
 
-The Developers chapter presents technical information about Idle protocols (Best Yield and Perpetual Yield Tranches), as well as details about Idle [fees](../products/fees.md) and [security](broken-reference).
+The Developers chapter presents technical information about Idle protocols (Best Yield and Yield Tranches), as well as details about Idle [fees](../products/fees.md) and [security](broken-reference).
 
 All the key initiatives concerning the Idle codebase are available on the [Idle Labs GitHub ](https://github.com/idle-labs)and [Idle DAO Github](https://github.com/Idle-Finance).
 
@@ -34,7 +34,7 @@ With a focus on the codebase behind the Best Yield protocol, such as [architectu
 [perpetual-yield-tranches](perpetual-yield-tranches/)
 {% endcontent-ref %}
 
-With a focus on the codebase behind the Perpetual Yield Tranches protocol, such as [architecture](best-yield/architecture.md), [interface](perpetual-yield-tranches/methods/) and [methods](perpetual-yield-tranches/methods/).
+With a focus on the codebase behind the Yield Tranches protocol, such as [architecture](best-yield/architecture.md), [interface](perpetual-yield-tranches/methods/) and [methods](perpetual-yield-tranches/methods/).
 
 {% content-ref url="security/" %}
 [security](security/)

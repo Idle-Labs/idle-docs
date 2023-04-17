@@ -14,12 +14,11 @@ description: Other > Guides > Idle on Ethereum > Redeem funds
 
 ### Redeem only **farmed rewards**
 
-1.
-2. Click **"**_Show advanced options"_.
-3. Click the checkbox "_Redeem governance tokens only"_.
-4. Click "_Redeem Gov Tokens"_.
-5. Click "_Confirm"_ in your wallet to redeem the governance tokens.
-6. Go to the respective strategy page, look under "_Deposited assets"_ for the token you wish to redeem, and click "_Manage"_.
+1. Click **"**_Show advanced options"_.
+2. Click the checkbox "_Redeem governance tokens only"_.
+3. Click "_Redeem Gov Tokens"_.
+4. Click "_Confirm"_ in your wallet to redeem the governance tokens.
+5. Go to the respective strategy page, look under "_Deposited assets"_ for the token you wish to redeem, and click "_Manage"_.
    1. To redeem the deposited assets and any farmed governance tokens, you can either enter a specific amount by manually typing a value in the box, or select the predefined percentages to automatically calculate a value based on your balance, then click "_Redeem"_.
    2. Click "_Confirm_" to redeem the asset.
    3.  You will now own your tokenized asset and any redeemed governance tokens less the current performance fee that is taken from positive returns (performance fee does not apply to $IDLE).&#x20;
