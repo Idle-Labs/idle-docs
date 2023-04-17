@@ -18,7 +18,7 @@ To deposit into the stETH YTs, follow these two steps:
 1. Visit [Lido.fi](https://stake.lido.fi/) to stake your ETH
 2. Once staked, the user will own the stETH LP tokens
 
-![Lido staking dashboard](<../../../../.gitbook/assets/image (38) (1).png>)
+![Lido staking dashboard](<../../../../.gitbook/assets/image (38).png>)
 
 ### 2. Deposit Lido LP tokens in Idle's YTs
 

@@ -49,11 +49,13 @@ The ABI of the Best Yield contract can be found here: [JSON](https://github.com/
 
 Integrators that need other ERC-4626 wrappers can get in contact with the [Development League ](https://discord.gg/fJaBYmS)on Discord.
 
-| Type   | Ticker            | Address                                                                                                               |
-| ------ | ----------------- | --------------------------------------------------------------------------------------------------------------------- |
-| Junior | idleDAI\_JuniorW  | [0x0c80F31B840C6564e6c5E18f386FaD96b63514cA](https://etherscan.io/address/0x0c80F31B840C6564e6c5E18f386FaD96b63514cA) |
-| Junior | idleUSDC\_JuniorW | [0xc3dA79e0De523eEf7AC1e4ca9aBFE3aAc9973133](https://etherscan.io/address/0xc3dA79e0De523eEf7AC1e4ca9aBFE3aAc9973133) |
-| Junior | idleUSDT\_JuniorW | [0x544897a3b944fdeb1f94a0ed973ea31a80ae18e1](https://etherscan.io/address/0x544897a3b944fdeb1f94a0ed973ea31a80ae18e1) |
+idledaijunior: { idleTokenWrapper: '0x0c80F31B840C6564e6c5E18f386FaD96b63514cA', },
+
+| Type   | Ticker              | Address                                                                                                               |
+| ------ | ------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| Junior | idleDAI\_Junior\_w  | [0x0c80F31B840C6564e6c5E18f386FaD96b63514cA](https://etherscan.io/address/0x0c80F31B840C6564e6c5E18f386FaD96b63514cA) |
+| Junior | idleUSDC\_Junior\_w | [0xc3dA79e0De523eEf7AC1e4ca9aBFE3aAc9973133](https://etherscan.io/address/0xc3dA79e0De523eEf7AC1e4ca9aBFE3aAc9973133) |
+| Junior | idleUSDT\_Junior\_w | [0x544897a3b944fdeb1f94a0ed973ea31a80ae18e1](https://etherscan.io/address/0x544897a3b944fdeb1f94a0ed973ea31a80ae18e1) |
 
 ## Polygon
 

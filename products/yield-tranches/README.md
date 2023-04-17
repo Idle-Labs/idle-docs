@@ -4,7 +4,7 @@ description: Products > Yield Tranches
 
 # Yield Tranches
 
-<figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (38) (1).png" alt=""><figcaption></figcaption></figure>
 
 > _In the financial world, a tranche represents a product split that carries specific features like risk, yields, duration. They are often arranged together to create pools of diversified products or a basket of investments with similar characteristics (risk-return related)_.
 

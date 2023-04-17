@@ -154,7 +154,7 @@ The ABI of the Yield Tranches contract can be found here: [JSON](https://github.
 | Senior | AA\_cp\_POR\_DAI | [0x43eD68703006add5F99ce36b5182392362369C1](https://etherscan.io/address/0x43eD68703006add5F99ce36b5182392362369C1c)  |
 | Junior | BB\_cp\_POR\_DAI | [0x38d36353d07cfb92650822d9c31fb4ada1c73d6e](https://etherscan.io/address/0x38d36353d07cfb92650822d9c31fb4ada1c73d6e) |
 
-**USDC (Fasanara)**
+**USDT (Fasanara)**
 
 | Side   | Ticker            | Address                                                                                                               |
 | ------ | ----------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -168,14 +168,15 @@ where AA = Senior Tranche, BB = Junior Tranche.
 
 Integrators that need other ERC-4626 wrappers can get in contact with the [Development League ](https://discord.gg/fJaBYmS)on Discord.&#x20;
 
-| Side   | Ticker                 | Address                                                                                                               |
-| ------ | ---------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| Senior | AA\_euler\_eDAI\_stkW  | [0xC9C83bEBd31aff93a2353920F2513D372847A517](https://etherscan.io/address/0xC9C83bEBd31aff93a2353920F2513D372847A517) |
-| Senior | AA\_euler\_eUSDC\_stkW | [0x6C1a844E3077e6C39226C15b857436a6a92Be5C0](https://etherscan.io/address/0x6C1a844E3077e6C39226C15b857436a6a92Be5C0) |
-| Senior | AA\_euler\_eUSDT\_stkW | [0xAB3919896975F43A81325B0Ca98b72249E714e6C](https://etherscan.io/address/0xAB3919896975F43A81325B0Ca98b72249E714e6C) |
-| Senior | AA\_euler\_eWETH\_stkW | [0xC24e0dd3A0Bc6f19aEEc2d7985dd3940D59dB698](https://etherscan.io/address/0xC24e0dd3A0Bc6f19aEEc2d7985dd3940D59dB698) |
-| Junior | BB\_lido\_stETH\_W     | [0x79F05f75df6c156B2B98aC1FBfb3637fc1e6f048](https://etherscan.io/address/0x79F05f75df6c156B2B98aC1FBfb3637fc1e6f048) |
-| Junior | BB\_euler\_eUSDC\_stkW | [0xc6Ff7AA2CFF3ba1A4a8BC2C324e819c28D7e0495](https://etherscan.io/address/0xc6Ff7AA2CFF3ba1A4a8BC2C324e819c28D7e0495) |
+| Side   | Ticker               | Address                                                                                                               |
+| ------ | -------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| Senior | AA\_cp\_POR\_DAI\_w  | [0x79c4fE26f3b2809fD29Ec8588242036b8136f32D](https://etherscan.io/address/0x79c4fe26f3b2809fd29ec8588242036b8136f32d) |
+| Junior | BB\_cp\_POR\_DAI\_w  | [0xA9F908DA2E3Ec7475a743e97Bb5B06081B688aE4](https://etherscan.io/address/0xa9f908da2e3ec7475a743e97bb5b06081b688ae4) |
+| Senior | AA\_cp\_POR\_USDC\_w | [0x291eEcab3a2d3f403745968C14edBB227d183636](https://etherscan.io/address/0x291eecab3a2d3f403745968c14edbb227d183636) |
+| Junior | BB\_cp\_POR\_USDC\_w | [0xa35B7A9fe5DC4cD51bA47ACdf67B0f41c893329A](https://etherscan.io/address/0xa35b7a9fe5dc4cd51ba47acdf67b0f41c893329a) |
+| Senior | AA\_cp\_FAS\_USDT\_w | [0xcf96f4b91c6d424fb34aa9a33855b5c8ed1fe66d](https://etherscan.io/address/0xcf96f4b91c6d424fb34aa9a33855b5c8ed1fe66d) |
+| Junior | BB\_cp\_FAS\_USDT\_w | [0x28bC4D9aD73A761049c773038c344F54D906B152](https://etherscan.io/address/0x28bc4d9ad73a761049c773038c344f54d906b152) |
+| Junior | BB\_lido\_stETH\_w   | [0x79F05f75df6c156B2B98aC1FBfb3637fc1e6f048](https://etherscan.io/address/0x79F05f75df6c156B2B98aC1FBfb3637fc1e6f048) |
 
 ### Deprecated strategies
 
