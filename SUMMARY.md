@@ -102,6 +102,7 @@
   * [Smart contract audits](developers/security/audits.md)
   * [Immunefi bug bounty](developers/security/bug-bounty.md)
   * [Hats Finance vault](developers/security/hats-finance-vault.md)
+  * [Risk Framework](developers/security/risk-framework.md)
   * [Integration Standard Requirements](developers/security/integration-standard-requirements.md)
 
 ## 🏛 Governance
