@@ -16,7 +16,11 @@ description: Developers > Yield Tranches > Methods
 
 [`depositAA`](depositaa.md): transfers underlying from the user to the contract and mint AA tranche tokens for the user.
 
+[`depositAARef`](depositaaref.md): transfers underlying from the user to the contract (using a referral) and mint AA tranche tokens for the user.
+
 [`depositBB`](depositbb.md): transfers underlying from the user to the contract and mint BB tranche tokens for the user.
+
+[`depositBBRef`](depositbbref.md): transfers underlying from the user to the contract (using a referral) and mint BB tranche tokens for the user.
 
 [`fee`](fee.md): returns the Performance Fee.
 
