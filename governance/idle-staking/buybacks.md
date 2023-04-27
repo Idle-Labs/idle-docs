@@ -47,6 +47,7 @@ The cut-off date for the $IDLE distribution to stakers is around Wednesday/Thurs
 
 | Date                 | Amount          | Tx                                                                                                           |
 | -------------------- | --------------- | ------------------------------------------------------------------------------------------------------------ |
+| 2023-04-26 13:33 UTC | 6499.4481 IDLE  | [0x99fba...6a8d](https://etherscan.io/tx/0x99fbafe79a774d962693506ab9b977d1e8e58e1bcebf69b3182d4bfca4cc6a8d) |
 | 2023-03-06 16:52 UTC | 1616.9282 IDLE  | [0x5c110...4d49](https://etherscan.io/tx/0x5c11047c955919712bfba27c1b07a5bb53fe20cbfc795fae3186a87007274d49) |
 | 2023-01-29 13:46 UTC | 1860.5140 IDLE  | [0xf140b...50a6](https://etherscan.io/tx/0xf140bb1c67b042f8d052db0b511c1fdc6e372b0ad846e6959dccabb03ff950a6) |
 | 2023-01-07 18:31 UTC | 2000.3098 IDLE  | [0x70c14...5be7](https://etherscan.io/tx/0x70c146ae311318fec9236165cbfcb1b98ae15d3dd95d7cf4f0fde50f774d5be7) |
