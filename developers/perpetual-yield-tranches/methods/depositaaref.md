@@ -11,7 +11,7 @@ This method transfers `token` from the user to the contract and mint AA (Senior)
 ### Function
 
 ```solidity
-function depositAA(
+function depositAARef(
     uint256 _amount
     address _referral
 ) external returns (uint256)

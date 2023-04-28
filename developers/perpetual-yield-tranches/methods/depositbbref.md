@@ -11,7 +11,7 @@ This method transfers `token` from the user to the contract and mint BB (Junior)
 ### Function
 
 ```solidity
-function depositBB(
+function depositBBRef(
     uint256 _amount
     address _referral
 ) external returns (uint256)
