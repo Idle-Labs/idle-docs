@@ -74,7 +74,7 @@ Description: address collecting $SUSHI rewards from the [Onsen Program](https://
 
 Address: [`0xFb3bD022D5DAcF95eE28a6B07825D4Ff9C5b3814`](https://etherscan.io/address/0xFb3bD022D5DAcF95eE28a6B07825D4Ff9C5b3814)&#x20;
 
-Owner: Leagues members (4 signatures out of 11)
+Owner: Leagues members (3 signatures out of 6)
 
 Description: multisig wallet owning liquidity to fund Leagues contributors' rewards and operational expenses on Ethereum
 
