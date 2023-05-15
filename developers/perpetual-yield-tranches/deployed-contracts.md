@@ -38,14 +38,6 @@ The ABI of the Yield Tranches contract can be found here: [JSON](https://github.
 
 ### Euler
 
-**USDC**
-
-| Side   | Ticker           | Address                                                                                                               |
-| ------ | ---------------- | --------------------------------------------------------------------------------------------------------------------- |
-| CDO    | euler\_eUSDC     | [0xF5a3d259bFE7288284Bd41823eC5C8327a314054](https://etherscan.io/address/0xF5a3d259bFE7288284Bd41823eC5C8327a314054) |
-| Senior | AA\_euler\_eUSDC | [0x1e095cbf663491f15cc1bdb5919e701b27dde90c](https://etherscan.io/address/0x1e095cbf663491f15cc1bdb5919e701b27dde90c) |
-| Junior | BB\_euler\_eUSDC | [0xe11679cdb4587fee907d69e9ec4a7d3f0c2bcf3b](https://etherscan.io/address/0xe11679cdb4587fee907d69e9ec4a7d3f0c2bcf3b) |
-
 **DAI**
 
 | Side   | Ticker          | Address                                                                                                               |
@@ -53,6 +45,14 @@ The ABI of the Yield Tranches contract can be found here: [JSON](https://github.
 | CDO    | euler\_eDAI     | [0x46c1f702A6aAD1Fd810216A5fF15aaB1C62ca826](https://etherscan.io/address/0x46c1f702A6aAD1Fd810216A5fF15aaB1C62ca826) |
 | Senior | AA\_euler\_eDAI | [0x852c4d2823e98930388b5ce1ed106310b942bd5a](https://etherscan.io/address/0x852c4d2823e98930388b5ce1ed106310b942bd5a) |
 | Junior | BB\_euler\_eDAI | [0x6629baa8c7c6a84290bf9a885825e3540875219d](https://etherscan.io/address/0x6629baa8c7c6a84290bf9a885825e3540875219d) |
+
+**USDC**
+
+| Side   | Ticker           | Address                                                                                                               |
+| ------ | ---------------- | --------------------------------------------------------------------------------------------------------------------- |
+| CDO    | euler\_eUSDC     | [0xF5a3d259bFE7288284Bd41823eC5C8327a314054](https://etherscan.io/address/0xF5a3d259bFE7288284Bd41823eC5C8327a314054) |
+| Senior | AA\_euler\_eUSDC | [0x1e095cbf663491f15cc1bdb5919e701b27dde90c](https://etherscan.io/address/0x1e095cbf663491f15cc1bdb5919e701b27dde90c) |
+| Junior | BB\_euler\_eUSDC | [0xe11679cdb4587fee907d69e9ec4a7d3f0c2bcf3b](https://etherscan.io/address/0xe11679cdb4587fee907d69e9ec4a7d3f0c2bcf3b) |
 
 **USDT**
 
@@ -138,14 +138,6 @@ The ABI of the Yield Tranches contract can be found here: [JSON](https://github.
 
 ### Clearpool
 
-**USDC (Portofino)**
-
-| Side   | Ticker            | Address                                                                                                               |
-| ------ | ----------------- | --------------------------------------------------------------------------------------------------------------------- |
-| CDO    | cp\_POR\_USDC     | [0x1329E8DB9Ed7a44726572D44729427F132Fa290D](https://etherscan.io/address/0x1329e8db9ed7a44726572d44729427f132fa290d) |
-| Senior | AA\_cp\_POR\_USDC | [0x9CAcd44cfDf22731bc99FaCf3531C809d56BD4A2](https://etherscan.io/address/0x9cacd44cfdf22731bc99facf3531c809d56bd4a2) |
-| Junior | BB\_cp\_POR\_USDC | [0xf85fd280b301c0a6232d515001da8b6c8503d714](https://etherscan.io/address/0xf85fd280b301c0a6232d515001da8b6c8503d714) |
-
 **DAI (Portofino)**
 
 | Side   | Ticker           | Address                                                                                                               |
@@ -153,6 +145,14 @@ The ABI of the Yield Tranches contract can be found here: [JSON](https://github.
 | CDO    | cp\_POR\_DAI     | [0x5dcA0B3Ed7594A6613c1A2acd367d56E1f74F92D](https://etherscan.io/address/0x5dca0b3ed7594a6613c1a2acd367d56e1f74f92d) |
 | Senior | AA\_cp\_POR\_DAI | [0x43eD68703006add5F99ce36b5182392362369C1](https://etherscan.io/address/0x43eD68703006add5F99ce36b5182392362369C1c)  |
 | Junior | BB\_cp\_POR\_DAI | [0x38d36353d07cfb92650822d9c31fb4ada1c73d6e](https://etherscan.io/address/0x38d36353d07cfb92650822d9c31fb4ada1c73d6e) |
+
+**USDC (Portofino)**
+
+| Side   | Ticker            | Address                                                                                                               |
+| ------ | ----------------- | --------------------------------------------------------------------------------------------------------------------- |
+| CDO    | cp\_POR\_USDC     | [0x1329E8DB9Ed7a44726572D44729427F132Fa290D](https://etherscan.io/address/0x1329e8db9ed7a44726572d44729427f132fa290d) |
+| Senior | AA\_cp\_POR\_USDC | [0x9CAcd44cfDf22731bc99FaCf3531C809d56BD4A2](https://etherscan.io/address/0x9cacd44cfdf22731bc99facf3531c809d56bd4a2) |
+| Junior | BB\_cp\_POR\_USDC | [0xf85fd280b301c0a6232d515001da8b6c8503d714](https://etherscan.io/address/0xf85fd280b301c0a6232d515001da8b6c8503d714) |
 
 **USDT (Fasanara)**
 
