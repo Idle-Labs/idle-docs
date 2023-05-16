@@ -62,6 +62,10 @@ stMATIC YTs accept MATIC as the deposited asset to give users a seamless experie
 {% endtab %}
 
 {% tab title="Euler" %}
+{% hint style="info" %}
+Euler vauts are sunsetting and in withdrawal-only mode
+{% endhint %}
+
 #### Integrated assets
 
 * [DAI](https://etherscan.io/address/0x46c1f702a6aad1fd810216a5ff15aab1c62ca826)

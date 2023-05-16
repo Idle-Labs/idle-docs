@@ -55,7 +55,7 @@ Idle DAO has established a series of [Integration Standard Requirements](../../d
 
 * [Compound](https://compound.finance/)
 * [Aave](https://aave.com/)
-* [Senior tranches](../yield-tranches/overview.md#senior-tranches) of [Euler](https://www.euler.finance/) markets
+* [Senior tranches](../yield-tranches/overview.md#senior-tranches) of [Clearpool](https://clearpool.finance/) markets
 
 #### Integrated assets
 
@@ -68,7 +68,7 @@ Idle DAO has established a series of [Integration Standard Requirements](../../d
 {% tab title="Junior Best Yield" %}
 #### Integrated protocols
 
-* [Junior tranches](../yield-tranches/overview.md#senior-tranches) of [Euler](https://www.euler.finance/) and [Morpho](https://www.morpho.xyz/) markets
+* [Junior tranches](../yield-tranches/overview.md#senior-tranches) of [Clearpool](https://clearpool.finance/) and [Morpho](https://www.morpho.xyz/) markets
 
 #### Integrated assets
 

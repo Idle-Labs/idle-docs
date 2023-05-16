@@ -33,7 +33,7 @@ Please note that the gas limit should not be decreased to ensure that the transa
 
 <figure><img src="../../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Yield Tranches' (Senior) assets page</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Yield Tranches stETH (Senior) page</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Yield Tranches stETH (Senior) page</p></figcaption></figure>
 
 
 
