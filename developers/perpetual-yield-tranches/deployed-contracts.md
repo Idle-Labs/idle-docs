@@ -143,7 +143,7 @@ The ABI of the Yield Tranches contract can be found here: [JSON](https://github.
 | Side   | Ticker           | Address                                                                                                               |
 | ------ | ---------------- | --------------------------------------------------------------------------------------------------------------------- |
 | CDO    | cp\_POR\_DAI     | [0x5dcA0B3Ed7594A6613c1A2acd367d56E1f74F92D](https://etherscan.io/address/0x5dca0b3ed7594a6613c1a2acd367d56e1f74f92d) |
-| Senior | AA\_cp\_POR\_DAI | [0x43eD68703006add5F99ce36b5182392362369C1](https://etherscan.io/address/0x43eD68703006add5F99ce36b5182392362369C1c)  |
+| Senior | AA\_cp\_POR\_DAI | [0x43eD68703006add5F99ce36b5182392362369C1c](https://etherscan.io/address/0x43eD68703006add5F99ce36b5182392362369C1c) |
 | Junior | BB\_cp\_POR\_DAI | [0x38d36353d07cfb92650822d9c31fb4ada1c73d6e](https://etherscan.io/address/0x38d36353d07cfb92650822d9c31fb4ada1c73d6e) |
 
 **USDC (Portofino)**

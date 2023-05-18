@@ -19,6 +19,12 @@ Idle uses a [subgraph](https://thegraph.com/docs/about/introduction#what-the-gra
 
 ### Querying YTs
 
+{% hint style="info" %}
+Subgraph is case-sensitive. Remember to use all lowercase when inputting tranches' addresses.&#x20;
+{% endhint %}
+
+#### Example 1
+
 To obtain the latest _TrancheInfos_ you can use the following query
 
 ```graphql
@@ -28,6 +34,30 @@ To obtain the latest _TrancheInfos_ you can use the following query
         apr
         Tranche { 
             id 
+        }
+        timeStamp
+        blockNumber
+        totalSupply
+        virtualPrice
+    }
+}
+```
+
+#### Example 2
+
+To obtain the latest _TrancheInfos_ for a specific tranche add a `where` filter. Let's query for example the Clearpool Portofino DAI Senior tranche `0xfc96989b3df087c96c806318436b16e44c697102`
+
+```graphql
+{ 
+    trancheInfos(orderBy:"timeStamp", orderDirection:"desc", 
+                 where:{ Tranche:"0xfc96989b3df087c96c806318436b16e44c697102" }) { 
+        id
+        apr
+        Tranche { 
+            id 
+            CDO {
+              id
+            }
         }
         timeStamp
         blockNumber

@@ -49,8 +49,6 @@ The ABI of the Best Yield contract can be found here: [JSON](https://github.com/
 
 Integrators that need other ERC-4626 wrappers can get in contact with the [Development League ](https://discord.gg/fJaBYmS)on Discord.
 
-idledaijunior: { idleTokenWrapper: '0x0c80F31B840C6564e6c5E18f386FaD96b63514cA', },
-
 | Type   | Ticker              | Address                                                                                                               |
 | ------ | ------------------- | --------------------------------------------------------------------------------------------------------------------- |
 | Junior | idleDAI\_Junior\_w  | [0x0c80F31B840C6564e6c5E18f386FaD96b63514cA](https://etherscan.io/address/0x0c80F31B840C6564e6c5E18f386FaD96b63514cA) |
