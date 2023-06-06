@@ -24,6 +24,4 @@ function depositBB(
 
 ### Return values
 
-| Value  | Description              |
-| ------ | ------------------------ |
-| `_val` | BB tranche tokens minted |
+<table><thead><tr><th width="273">Value</th><th>Description</th></tr></thead><tbody><tr><td><code>_val</code></td><td>BB tranche tokens minted</td></tr></tbody></table>

@@ -18,12 +18,8 @@ function redeemIdleToken(
 
 ### **Parameters**
 
-| Parameter | Description                             |
-| --------- | --------------------------------------- |
-| `_amount` | The amount of $IDLE tokens to be burned |
+<table><thead><tr><th width="303">Parameter</th><th>Description</th></tr></thead><tbody><tr><td><code>_amount</code></td><td>The amount of $IDLE tokens to be burned</td></tr></tbody></table>
 
 ### **Return values**
 
-| Value            | Description                              |
-| ---------------- | ---------------------------------------- |
-| `redeemedTokens` | The amount of underlying tokens redeemed |
+<table><thead><tr><th width="307">Value</th><th>Description</th></tr></thead><tbody><tr><td><code>redeemedTokens</code></td><td>The amount of underlying tokens redeemed</td></tr></tbody></table>

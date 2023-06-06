@@ -15,6 +15,4 @@ function AATranche(
 
 ### Return values
 
-| Value          | Description                                       |
-| -------------- | ------------------------------------------------- |
-| `address _val` | Address of the AA Tranche token contract (ERC-20) |
+<table><thead><tr><th width="252">Value</th><th>Description</th></tr></thead><tbody><tr><td><code>address _val</code></td><td>Address of the AA Tranche token contract (ERC-20)</td></tr></tbody></table>

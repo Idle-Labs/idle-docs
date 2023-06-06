@@ -15,6 +15,4 @@ function token(
 
 ### Return values
 
-| Value  | Description                         |
-| ------ | ----------------------------------- |
-| `_val` | Underlying token address (e.g. DAI) |
+<table><thead><tr><th width="242">Value</th><th>Description</th></tr></thead><tbody><tr><td><code>_val</code></td><td>Underlying token address (e.g. DAI)</td></tr></tbody></table>

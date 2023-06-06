@@ -2,11 +2,7 @@
 
 ### Risk adjusted strategy
 
-| **Contract**                    | **ABI**                                                              | **Address**                                                                                                           |
-| ------------------------------- | -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| IdleDAI Risk Adjusted (IIP-14)  | [JSON](https://github.com/Idle-Labs/idle-contracts/tree/develop/abi) | [0xa14eA0E11121e6E951E87c66AFe460A00BCD6A16](http://etherscan.io/address/0xa14eA0E11121e6E951E87c66AFe460A00BCD6A16)  |
-| IdleUSDC Risk Adjusted (IIP-14) | [JSON](https://github.com/Idle-Labs/idle-contracts/tree/develop/abi) | [0x562C4fd96F0652F5Fcfa96b0a33088B5a6eAeE9B](https://etherscan.io/address/0x562c4fd96f0652f5fcfa96b0a33088b5a6eaee9b) |
-| IdleUSDT Risk Adjusted (IIP-14) | [JSON](https://github.com/Idle-Labs/idle-contracts/tree/develop/abi) | [0x28fAc5334C9f7262b3A3Fe707e250E01053e07b5](http://etherscan.io/address/0x28fAc5334C9f7262b3A3Fe707e250E01053e07b5)  |
+<table data-header-hidden><thead><tr><th width="264.1173184357542">CONTRACT</th><th width="150">ABI</th><th>ADDRESS</th></tr></thead><tbody><tr><td><strong>Contract</strong></td><td><strong>ABI</strong></td><td><strong>Address</strong></td></tr><tr><td>IdleDAI Risk Adjusted (IIP-14)</td><td><a href="https://github.com/Idle-Labs/idle-contracts/tree/develop/abi">JSON</a></td><td><a href="http://etherscan.io/address/0xa14eA0E11121e6E951E87c66AFe460A00BCD6A16">0xa14eA0E11121e6E951E87c66AFe460A00BCD6A16</a></td></tr><tr><td>IdleUSDC Risk Adjusted (IIP-14)</td><td><a href="https://github.com/Idle-Labs/idle-contracts/tree/develop/abi">JSON</a></td><td><a href="https://etherscan.io/address/0x562c4fd96f0652f5fcfa96b0a33088b5a6eaee9b">0x562C4fd96F0652F5Fcfa96b0a33088B5a6eAeE9B</a></td></tr><tr><td>IdleUSDT Risk Adjusted (IIP-14)</td><td><a href="https://github.com/Idle-Labs/idle-contracts/tree/develop/abi">JSON</a></td><td><a href="http://etherscan.io/address/0x28fAc5334C9f7262b3A3Fe707e250E01053e07b5">0x28fAc5334C9f7262b3A3Fe707e250E01053e07b5</a></td></tr></tbody></table>
 
 ### Best Yield V3
 

@@ -18,12 +18,8 @@ function virtualPrice(
 
 ### Parameters
 
-| Parameter  | Description                      |
-| ---------- | -------------------------------- |
-| `_tranche` | Address of the requested tranche |
+<table><thead><tr><th width="293">Parameter</th><th>Description</th></tr></thead><tbody><tr><td><code>_tranche</code></td><td>Address of the requested tranche</td></tr></tbody></table>
 
 ### Return values
 
-| Value           | Description                                                   |
-| --------------- | ------------------------------------------------------------- |
-| `_virtualPrice` | Tranche price considering all interest since last interaction |
+<table><thead><tr><th width="297">Value</th><th>Description</th></tr></thead><tbody><tr><td><code>_virtualPrice</code></td><td>Tranche price considering all interest since last interaction</td></tr></tbody></table>

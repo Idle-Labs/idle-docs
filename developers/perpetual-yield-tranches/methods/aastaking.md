@@ -15,6 +15,4 @@ function AAStaking(
 
 ### Return values
 
-| Value          | Description                                                                                                                     |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| `address _val` | Address of the StakingRewards contract for AA tranche staking (can be `address(0)` which means that staking is disabled for AA) |
+<table><thead><tr><th width="264">Value</th><th>Description</th></tr></thead><tbody><tr><td><code>address _val</code></td><td>Address of the StakingRewards contract for AA tranche staking (can be <code>address(0)</code> which means that staking is disabled for AA)</td></tr></tbody></table>

@@ -15,6 +15,4 @@ function getIncentiveTokens(
 
 ### Return values
 
-| Value             | Description                                            |
-| ----------------- | ------------------------------------------------------ |
-| `incentiveTokens` | Array with addresses of incentiveTokens (can be empty) |
+<table><thead><tr><th width="267">Value</th><th>Description</th></tr></thead><tbody><tr><td><code>incentiveTokens</code></td><td>Array with addresses of incentiveTokens (can be empty)</td></tr></tbody></table>

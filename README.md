@@ -38,7 +38,7 @@ There are 4 main chapters in the idle documentation. Each chapter starts with a 
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-Presenting Idle's product suite, i.e. [Best Yield](products/best-yield/) and [Yield Tranches](products/yield-tranches/) as well as Idle DAO to DAO [Integration programs](products/integration-partners-program/).
+Presenting Idle's product suite, i.e. [Best Yield](products/best-yield/) and [Yield Tranches](products/yield-tranches/) as well as Idle DAO to DAO [Integration programs](products/get-involved/integrators-program.md).
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)

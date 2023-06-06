@@ -16,12 +16,8 @@ function withdrawAA(
 
 ### Parameters
 
-| Parameter | Description                         |
-| --------- | ----------------------------------- |
-| `_amount` | Amount of AA tranche tokens to burn |
+<table><thead><tr><th width="263">Parameter</th><th>Description</th></tr></thead><tbody><tr><td><code>_amount</code></td><td>Amount of AA tranche tokens to burn</td></tr></tbody></table>
 
 ### Return values
 
-| Value       | Description                |
-| ----------- | -------------------------- |
-| `_withdraw` | Underlying tokens redeemed |
+<table><thead><tr><th width="265">Value</th><th>Description</th></tr></thead><tbody><tr><td><code>_withdraw</code></td><td>Underlying tokens redeemed</td></tr></tbody></table>

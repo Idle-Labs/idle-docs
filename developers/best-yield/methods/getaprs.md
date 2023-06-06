@@ -15,7 +15,4 @@ function getAPRs(
 
 ### Return values
 
-| Value       | Description                                                      |
-| ----------- | ---------------------------------------------------------------- |
-| `addresses` | An array of interest-bearing token addresses                     |
-| `aprs`      | An array of APRs (ordered with respect to the `addresses` array) |
+<table><thead><tr><th width="265">Value</th><th>Description</th></tr></thead><tbody><tr><td><code>addresses</code></td><td>An array of interest-bearing token addresses</td></tr><tr><td><code>aprs</code></td><td>An array of APRs (ordered with respect to the <code>addresses</code> array)</td></tr></tbody></table>

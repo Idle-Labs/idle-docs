@@ -19,13 +19,8 @@ function depositAARef(
 
 ### Parameters
 
-| Parameter   | Description                  |
-| ----------- | ---------------------------- |
-| `_amount`   | Amount of `token` to deposit |
-| `_referral` | Referral address             |
+<table><thead><tr><th width="303">Parameter</th><th>Description</th></tr></thead><tbody><tr><td><code>_amount</code></td><td>Amount of <code>token</code> to deposit</td></tr><tr><td><code>_referral</code></td><td>Referral address</td></tr></tbody></table>
 
 ### Return values
 
-| Value  | Description              |
-| ------ | ------------------------ |
-| `_val` | AA tranche tokens minted |
+<table><thead><tr><th width="307">Value</th><th>Description</th></tr></thead><tbody><tr><td><code>_val</code></td><td>AA tranche tokens minted</td></tr></tbody></table>

@@ -20,6 +20,4 @@ function redeemInterestBearingTokens(
 
 ### **Parameters**
 
-| Parameter | Description                           |
-| --------- | ------------------------------------- |
-| `_amount` | The amount of idleTokens to be burned |
+<table><thead><tr><th width="309">Parameter</th><th>Description</th></tr></thead><tbody><tr><td><code>_amount</code></td><td>The amount of idleTokens to be burned</td></tr></tbody></table>

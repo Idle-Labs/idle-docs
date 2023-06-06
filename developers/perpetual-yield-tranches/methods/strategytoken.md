@@ -15,6 +15,4 @@ function strategyToken(
 
 ### Return values
 
-| Value  | Description                                                                        |
-| ------ | ---------------------------------------------------------------------------------- |
-| `_val` | Address of the strategy token which represent the position in the lending provider |
+<table><thead><tr><th width="266">Value</th><th>Description</th></tr></thead><tbody><tr><td><code>_val</code></td><td>Address of the strategy token which represent the position in the lending provider</td></tr></tbody></table>

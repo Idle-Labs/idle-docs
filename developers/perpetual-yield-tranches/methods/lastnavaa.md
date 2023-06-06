@@ -15,6 +15,4 @@ function lastNAVAA(
 
 ### Return values
 
-| Value  | Description                                             |
-| ------ | ------------------------------------------------------- |
-| `_val` | last saved net asset value (in `token`) for AA tranches |
+<table><thead><tr><th width="247">Value</th><th>Description</th></tr></thead><tbody><tr><td><code>_val</code></td><td>last saved net asset value (in <code>token</code>) for AA tranches</td></tr></tbody></table>

@@ -124,7 +124,7 @@ You can always deposit in the Tranche of your preference. Staking is available o
 
 ## [Integration Partners programs](faqs.md#integration-partners-programs)
 
-### [Ethereum](../products/integration-partners-program/faqs.md)
+### [Ethereum](broken-reference)
 
 <details>
 
@@ -165,7 +165,7 @@ The Treasury League deploys a vesting contract for each partner. Deployment is e
 <summary>How is my reward tier calculated?</summary>
 
 Your tier is calculated as the average Partner Deposited Asset (PDA) value between the first deposit and the first payment. When the fee-sharing transaction is executed, the tier is then calculated in the timeframe between that day and the next payment.\
-You can check some helpful examples [here](../products/integration-partners-program/overview.md#fee-sharing-examples).
+You can check some helpful examples [here](broken-reference).
 
 </details>
 

@@ -15,6 +15,4 @@ function getAllocations(
 
 ### Return values
 
-| Value          | Description                                                                      |
-| -------------- | -------------------------------------------------------------------------------- |
-| `_allocations` | array with lending protocols allocations. Sum is always equal to `100000` (100%) |
+<table><thead><tr><th width="312">Value</th><th>Description</th></tr></thead><tbody><tr><td><code>_allocations</code></td><td>array with lending protocols allocations. Sum is always equal to <code>100000</code> (100%)</td></tr></tbody></table>

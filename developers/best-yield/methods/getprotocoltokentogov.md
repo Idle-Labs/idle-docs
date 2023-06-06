@@ -14,12 +14,8 @@ function getProtocolTokenToGov(
 
 ### Parameters
 
-| Parameter        | Description                                                  |
-| ---------------- | ------------------------------------------------------------ |
-| `_protocolToken` | Address of one of the interest-bearing tokens currently used |
+<table><thead><tr><th width="301">Parameter</th><th>Description</th></tr></thead><tbody><tr><td><code>_protocolToken</code></td><td>Address of one of the interest-bearing tokens currently used</td></tr></tbody></table>
 
 ### Return values
 
-| Value     | Description                                     |
-| --------- | ----------------------------------------------- |
-| `address` | An array of the address of the governance token |
+<table><thead><tr><th width="305">Value</th><th>Description</th></tr></thead><tbody><tr><td><code>address</code></td><td>An array of the address of the governance token</td></tr></tbody></table>

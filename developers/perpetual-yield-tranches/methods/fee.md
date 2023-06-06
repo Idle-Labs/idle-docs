@@ -15,6 +15,4 @@ function fee(
 
 ### Return values
 
-| Value  | Description                                                          |
-| ------ | -------------------------------------------------------------------- |
-| `_val` | The performance fee (relative to FULL\_ALLOC where 100% is `100000`) |
+<table><thead><tr><th width="264">Value</th><th>Description</th></tr></thead><tbody><tr><td><code>_val</code></td><td>The performance fee (relative to FULL_ALLOC where 100% is <code>100000</code>)</td></tr></tbody></table>

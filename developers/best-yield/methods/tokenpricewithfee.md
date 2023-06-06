@@ -16,12 +16,8 @@ function tokenPriceWithFee(
 
 ### Parameters
 
-| Parameter | Description             |
-| --------- | ----------------------- |
-| `_user`   | The address of the user |
+<table><thead><tr><th width="292">Parameter</th><th>Description</th></tr></thead><tbody><tr><td><code>_user</code></td><td>The address of the user</td></tr></tbody></table>
 
 ### Return values
 
-| Value       | Description                     |
-| ----------- | ------------------------------- |
-| `priceWFee` | The $IDLE token price with fees |
+<table><thead><tr><th width="302">Value</th><th>Description</th></tr></thead><tbody><tr><td><code>priceWFee</code></td><td>The $IDLE token price with fees</td></tr></tbody></table>

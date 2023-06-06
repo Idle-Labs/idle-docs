@@ -16,12 +16,8 @@ function withdrawBB(
 
 ### Parameters
 
-| Parameter | Description                         |
-| --------- | ----------------------------------- |
-| `_amount` | Amount of BB tranche tokens to burn |
+<table><thead><tr><th width="283">Parameter</th><th>Description</th></tr></thead><tbody><tr><td><code>_amount</code></td><td>Amount of BB tranche tokens to burn</td></tr></tbody></table>
 
 ### Return values
 
-| Value       | Description                |
-| ----------- | -------------------------- |
-| `_withdraw` | Underlying tokens redeemed |
+<table><thead><tr><th width="288">Value</th><th>Description</th></tr></thead><tbody><tr><td><code>_withdraw</code></td><td>Underlying tokens redeemed</td></tr></tbody></table>

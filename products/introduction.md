@@ -40,11 +40,11 @@ With a focus on [Yield Tranches](yield-tranches/), their underlying tokens, and 
 
 With a clear explanation of the fees applied to the Idle's strategies.
 
-{% content-ref url="integration-partners-program/" %}
-[integration-partners-program](integration-partners-program/)
+{% content-ref url="get-involved/integrators-program.md" %}
+[integrators-program.md](get-involved/integrators-program.md)
 {% endcontent-ref %}
 
-With a focus on the integration process for DAOs and DeFi platforms that want to leverage the Idle product suite, either on [Ethereum](integration-partners-program/overview.md) or [Polygon](broken-reference).
+With a focus on the integration process for DAOs and DeFi platforms that want to leverage the Idle product suite, either on [Ethereum](broken-reference) or [Polygon](broken-reference).
 
 ## IPFS interface
 

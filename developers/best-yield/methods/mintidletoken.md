@@ -26,14 +26,8 @@ function mintIdleToken(
 
 ### **Parameters**
 
-| Parameter             | Description                                                        |
-| --------------------- | ------------------------------------------------------------------ |
-| `_amount`             | The amount of underlying token to be lent                          |
-| `_skipWholeRebalance` | Boolean flag. Not used anymore so can receive either true or false |
-| `_referral`           | Address for an eventual future referral program                    |
+<table><thead><tr><th width="277">Parameter</th><th>Description</th></tr></thead><tbody><tr><td><code>_amount</code></td><td>The amount of underlying token to be lent</td></tr><tr><td><code>_skipWholeRebalance</code></td><td>Boolean flag. Not used anymore so can receive either true or false</td></tr><tr><td><code>_referral</code></td><td>Address for an eventual future referral program</td></tr></tbody></table>
 
 ### **Return values**
 
-| Value          | Description                       |
-| -------------- | --------------------------------- |
-| `mintedTokens` | The amount of $IDLE tokens minted |
+<table><thead><tr><th width="282">Value</th><th>Description</th></tr></thead><tbody><tr><td><code>mintedTokens</code></td><td>The amount of $IDLE tokens minted</td></tr></tbody></table>

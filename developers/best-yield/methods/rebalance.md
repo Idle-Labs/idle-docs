@@ -23,6 +23,4 @@ function rebalance(
 
 ### **Return values**
 
-| Value  | Description                                                          |
-| ------ | -------------------------------------------------------------------- |
-| `bool` | A boolean representing whether a rebalance has been performed or not |
+<table><thead><tr><th width="299">Value</th><th>Description</th></tr></thead><tbody><tr><td><code>bool</code></td><td>A boolean representing whether a rebalance has been performed or not</td></tr></tbody></table>

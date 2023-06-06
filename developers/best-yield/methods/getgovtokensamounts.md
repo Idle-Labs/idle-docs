@@ -16,12 +16,8 @@ function getGovTokensAmounts(
 
 ### **Parameters**
 
-| Parameter | Description             |
-| --------- | ----------------------- |
-| `_user`   | The address of the user |
+<table><thead><tr><th width="286">Parameter</th><th>Description</th></tr></thead><tbody><tr><td><code>_user</code></td><td>The address of the user</td></tr></tbody></table>
 
 ### **Return value**
 
-| Value      | Description                                                                                                                                                            |
-| ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `_amounts` | An array of gov tokens amounts ordered following the `govTokens` order of the storage variable of the contract containing all the governance token addresses supported |
+<table><thead><tr><th width="290">Value</th><th>Description</th></tr></thead><tbody><tr><td><code>_amounts</code></td><td>An array of gov tokens amounts ordered following the <code>govTokens</code> order of the storage variable of the contract containing all the governance token addresses supported</td></tr></tbody></table>

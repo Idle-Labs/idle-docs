@@ -24,19 +24,13 @@ Examples:
 
 YTs interact with a range of DeFi primitives, each with its own specific risks. Every primitive, though, share a number of common risks:
 
-| Risk           | Description                                          | Outcome                                      | Coverage |
-| -------------- | ---------------------------------------------------- | -------------------------------------------- | -------- |
-| Smart contract | Exploit of a bug in downstream yield protocols' code | Partial loss of funds                        | Yes      |
-| Governance     | Adverse changes to protocol parameter                | Partial loss of funds                        | Yes      |
-| Asset de-peg   | The peg of a token against another asset is lost     | Reduced value against other units of account | No       |
+<table><thead><tr><th>Risk</th><th width="184.0554663848362">Description</th><th width="174.06957708049114">Outcome</th><th width="150">Coverage</th></tr></thead><tbody><tr><td>Smart contract</td><td>Exploit of a bug in downstream yield protocols' code</td><td>Partial loss of funds</td><td>Yes</td></tr><tr><td>Governance</td><td>Adverse changes to protocol parameter</td><td>Partial loss of funds</td><td>Yes</td></tr><tr><td>Asset de-peg</td><td>The peg of a token against another asset is lost</td><td>Reduced value against other units of account</td><td>No</td></tr></tbody></table>
 
 A list of specific risks affecting _Automated Market Makers_, _Lending protocols_, _Liquid Staking protocols_, _Leveraged strategies_ and _Options strategies_ follows.
 
 ### Automated Market Makers
 
-| Risk             | Description                                      | Outcome                | Coverage |
-| ---------------- | ------------------------------------------------ | ---------------------- | -------- |
-| Impermanent loss | Change of the token price in the underlying pool | Reduced fiat ($) value | No       |
+<table><thead><tr><th>Risk</th><th width="184.0554663848362">Description</th><th width="174.06957708049114">Outcome</th><th width="150">Coverage</th></tr></thead><tbody><tr><td>Impermanent loss</td><td>Change of the token price in the underlying pool</td><td>Reduced fiat ($) value</td><td>No</td></tr></tbody></table>
 
 ### Lending Protocols&#x20;
 
@@ -44,35 +38,22 @@ Lending protocols are mainly classified into two categories based on the type of
 
 #### Overcollateralized lending
 
-| Risk                            | Description                           | Outcome           | Coverage |
-| ------------------------------- | ------------------------------------- | ----------------- | -------- |
-| Incorrect price feed            | Oracle manipulation or failure        | Bad debt creation | Yes      |
-| Unappropiate collateral factors | Generation of untenable positions     | Bad debt creation | Yes      |
-| Wrong liquidation               | Liquidation does not work as expected | Bad debt creation | Yes      |
+<table><thead><tr><th>Risk</th><th width="184.0554663848362">Description</th><th width="174.06957708049114">Outcome</th><th width="150">Coverage</th></tr></thead><tbody><tr><td>Incorrect price feed</td><td>Oracle manipulation or failure</td><td>Bad debt creation</td><td>Yes</td></tr><tr><td>Unappropiate collateral factors</td><td>Generation of untenable positions</td><td>Bad debt creation</td><td>Yes</td></tr><tr><td>Wrong liquidation</td><td>Liquidation does not work as expected</td><td>Bad debt creation</td><td>Yes</td></tr></tbody></table>
 
 #### **Undercollateralized lending**
 
-| Risk             | Description                                                | Outcome               | Coverage |
-| ---------------- | ---------------------------------------------------------- | --------------------- | -------- |
-| Borrower default | Borrower is not able to pay back the loan and is insolvent | Partial loss of funds | Yes      |
+<table><thead><tr><th>Risk</th><th width="184.0554663848362">Description</th><th width="174.06957708049114">Outcome</th><th width="150">Coverage</th></tr></thead><tbody><tr><td>Borrower default</td><td>Borrower is not able to pay back the loan and is insolvent</td><td>Partial loss of funds</td><td>Yes</td></tr></tbody></table>
 
 ### **Liquid staking protocols**
 
-| Risk                     | Description                               | Outcome               | Coverage |
-| ------------------------ | ----------------------------------------- | --------------------- | -------- |
-| Validator key management | Loss of multisig keys holding staked ETH  | Partial loss of funds | Yes      |
-| Slashing                 | Staking penalties for validators' network | Partial loss of funds | Yes      |
+<table><thead><tr><th>Risk</th><th width="184.0554663848362">Description</th><th width="174.06957708049114">Outcome</th><th width="150">Coverage</th></tr></thead><tbody><tr><td>Validator key management</td><td>Loss of multisig keys holding staked ETH</td><td>Partial loss of funds</td><td>Yes</td></tr><tr><td>Slashing</td><td>Staking penalties for validators' network</td><td>Partial loss of funds</td><td>Yes</td></tr></tbody></table>
 
 NB - YTs do not cover Senior LPs funds in case of events leading to a de-peg.
 
 ### Leveraged strategies
 
-| Risk        | Description                         | Outcome               | Coverage |
-| ----------- | ----------------------------------- | --------------------- | -------- |
-| Liquidation | Liquidation of the position at loss | Partial loss of funds | Yes      |
+<table><thead><tr><th>Risk</th><th width="184.0554663848362">Description</th><th width="174.06957708049114">Outcome</th><th width="150">Coverage</th></tr></thead><tbody><tr><td>Liquidation</td><td>Liquidation of the position at loss</td><td>Partial loss of funds</td><td>Yes</td></tr></tbody></table>
 
 ### **Options strategies**
 
-| Risk      | Description                             | Outcome               | Coverage |
-| --------- | --------------------------------------- | --------------------- | -------- |
-| Financial | The strategy generates negative returns | Partial loss of funds | Yes      |
+<table><thead><tr><th>Risk</th><th width="184.0554663848362">Description</th><th width="174.06957708049114">Outcome</th><th width="150">Coverage</th></tr></thead><tbody><tr><td>Financial</td><td>The strategy generates negative returns</td><td>Partial loss of funds</td><td>Yes</td></tr></tbody></table>

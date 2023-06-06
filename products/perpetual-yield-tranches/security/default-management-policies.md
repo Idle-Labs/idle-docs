@@ -14,11 +14,7 @@ Yield Tranches interact with the Clearpool uncollateralized markets and due to t
 
 Clearpool’s pools have a default mechanism based on each pool **utilization rate** which forces borrowers to repay loans if the pool’s utilization rate is too high.
 
-| Utilization rate | Pool status      | Time limit                       |
-| ---------------- | ---------------- | -------------------------------- |
-| < 95%            | Active           | No time limit                    |
-| > 95%            | High utilization | Until utilization = 99% or < 95% |
-| > 99%            | Warning          | 120 hours                        |
+<table><thead><tr><th width="205">Utilization rate</th><th width="228">Pool status</th><th>Time limit</th></tr></thead><tbody><tr><td>&#x3C; 95%</td><td>Active</td><td>No time limit</td></tr><tr><td>> 95%</td><td>High utilization</td><td>Until utilization = 99% or &#x3C; 95%</td></tr><tr><td>> 99%</td><td>Warning</td><td>120 hours</td></tr></tbody></table>
 
 Yield Tranches users can enter and exit the market anytime when the utilization rate of the underlying pool is lower than 99%. When the pool reaches 99% utilization, it enters automatically the _Warning_ mode and withdrawals for both borrowers and lenders will be halted.
 

@@ -16,12 +16,8 @@ function userAvgPrices(
 
 ### Parameters
 
-| Parameter | Description             |
-| --------- | ----------------------- |
-| `_user`   | The address of the user |
+<table><thead><tr><th width="305">Parameter</th><th>Description</th></tr></thead><tbody><tr><td><code>_user</code></td><td>The address of the user</td></tr></tbody></table>
 
 ### Return values
 
-| Value      | Description                             |
-| ---------- | --------------------------------------- |
-| `avgPrice` | The average price paid for $IDLE tokens |
+<table><thead><tr><th width="309">Value</th><th>Description</th></tr></thead><tbody><tr><td><code>avgPrice</code></td><td>The average price paid for $IDLE tokens</td></tr></tbody></table>

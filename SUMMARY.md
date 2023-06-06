@@ -25,11 +25,9 @@
       * [Clearpool USDC](products/yield-tranches/guides/live-yts-guides/clearpool-usdc.md)
   * [FAQs](products/yield-tranches/faqs.md)
 * [Fee structure](products/fees.md)
-* [Integration Partners program](products/integration-partners-program/README.md)
-  * [Overview](products/integration-partners-program/overview.md)
-  * [How to integrate](products/integration-partners-program/how-to-integrate.md)
-  * [Integrators](products/integration-partners-program/integrators.md)
-  * [FAQs](products/integration-partners-program/faqs.md)
+* [Get involved](products/get-involved/README.md)
+  * [Integrators program](products/get-involved/integrators-program.md)
+  * [Institutions program](products/get-involved/institutions-program.md)
 
 ## 💻 Developers
 

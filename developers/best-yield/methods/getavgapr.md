@@ -15,6 +15,4 @@ function getAvgAPR(
 
 ### Return values
 
-| Value    | Description                      |
-| -------- | -------------------------------- |
-| `avgApr` | The average APR for $IDLE tokens |
+<table><thead><tr><th width="286">Value</th><th>Description</th></tr></thead><tbody><tr><td><code>avgApr</code></td><td>The average APR for $IDLE tokens</td></tr></tbody></table>

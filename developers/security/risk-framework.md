@@ -15,12 +15,7 @@ This framework aims to standardize analyses of new underlying markets to be inte
 
 Risks affecting DeFi protocols can be segregated into **systemic risks** or risks that impact a large part or all of the DeFi ecosystem such as currency, regulatory and chain risks, and **idiosyncratic risks** or risks that impact a single protocol or group of protocols, such as smart contract, governance, market, financial and oracle risks.
 
-| Risk               | Metrics                                                                                                                     |
-| ------------------ | --------------------------------------------------------------------------------------------------------------------------- |
-| Smart contract     | Immutable or upgradeable SC, audits, track record of auditors, number of hacks and third-party protocol dependencies        |
-| Governance         | Team transparency, admin keys control, level of governance concentration and governance-related issues, emergency exit plan |
-| Market & Financial | Total Value Locked, complexity, longevity, tokenomics                                                                       |
-| Oracle             | Oracle dependencies, oracle fallbacks                                                                                       |
+<table><thead><tr><th width="208">Risk</th><th>Metrics</th></tr></thead><tbody><tr><td>Smart contract</td><td>Immutable or upgradeable SC, audits, track record of auditors, number of hacks and third-party protocol dependencies</td></tr><tr><td>Governance</td><td>Team transparency, admin keys control, level of governance concentration and governance-related issues, emergency exit plan</td></tr><tr><td>Market &#x26; Financial</td><td>Total Value Locked, complexity, longevity, tokenomics</td></tr><tr><td>Oracle</td><td>Oracle dependencies, oracle fallbacks</td></tr></tbody></table>
 
 ## Structure
 
@@ -74,15 +69,7 @@ Components:
 
 This review mainly focuses on smart contracts and market/financial risks.
 
-| Type                  | Description                                                             |
-| --------------------- | ----------------------------------------------------------------------- |
-| Audit                 | Number of audits and quality of auditors                                |
-| Bad debt, LP losses   | Severity of losses incurred, if any (% vs TVL)                          |
-| Bug bounty, Insurance | Size of bug bounty program                                              |
-| Protocol TVL          | Total value locked across all chains (average since protocol inception) |
-| Pool TVL              | Total value locked on Ethereum (average since pool inception)           |
-| Protocol longevity    | Months of activity                                                      |
-| Pool longevity        | Months of activity                                                      |
+<table><thead><tr><th width="235">Type</th><th>Description</th></tr></thead><tbody><tr><td>Audit</td><td>Number of audits and quality of auditors</td></tr><tr><td>Bad debt, LP losses</td><td>Severity of losses incurred, if any (% vs TVL)</td></tr><tr><td>Bug bounty, Insurance</td><td>Size of bug bounty program</td></tr><tr><td>Protocol TVL</td><td>Total value locked across all chains (average since protocol inception)</td></tr><tr><td>Pool TVL</td><td>Total value locked on Ethereum (average since pool inception)</td></tr><tr><td>Protocol longevity</td><td>Months of activity</td></tr><tr><td>Pool longevity</td><td>Months of activity</td></tr></tbody></table>
 
 ### 3. Strategy review
 
@@ -93,14 +80,7 @@ The Strategy component refers to specific risks related to each underlying marke
 * Best Yield: Aave, Compound and either Senior or Junior tranches.
 * Yield Tranches: Euler, Morpho, Lido and Clearpool.
 
-| Vertical                   | Metric                               |
-| -------------------------- | ------------------------------------ |
-| Overcollateralized lending | Collateral fully diluted value (FDV) |
-|                            | Maximum borrowed amount              |
-| Uncollateralized lending   | Credora's borrower capacity          |
-|                            | Credora's borrower rating            |
-| Liquid staking             | Validator concentration              |
-|                            | Validators key management            |
+<table><thead><tr><th width="249">Vertical</th><th>Metric</th></tr></thead><tbody><tr><td>Overcollateralized lending</td><td>Collateral fully diluted value (FDV)</td></tr><tr><td></td><td>Maximum borrowed amount</td></tr><tr><td>Uncollateralized lending</td><td>Credora's borrower capacity</td></tr><tr><td></td><td>Credora's borrower rating</td></tr><tr><td>Liquid staking</td><td>Validator concentration</td></tr><tr><td></td><td>Validators key management</td></tr></tbody></table>
 
 ### 4. Coverage
 

@@ -15,6 +15,4 @@ function getAllAvailableTokens(
 
 ### Return values
 
-| Value     | Description                                     |
-| --------- | ----------------------------------------------- |
-| `address` | An array of protocol tokens currently supported |
+<table><thead><tr><th width="290">Value</th><th>Description</th></tr></thead><tbody><tr><td><code>address</code></td><td>An array of protocol tokens currently supported</td></tr></tbody></table>

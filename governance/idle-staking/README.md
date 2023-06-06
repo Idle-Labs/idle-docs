@@ -11,7 +11,7 @@ sktIDLE holders have access to:
 * [Buybacks distribution](buybacks.md)
 
 {% hint style="info" %}
-The [Gauges voting](gauges/) and the [Liquidity providers rewards boost](boost.md) are currently paused after [IIP-31](https://gov.idle.finance/t/iip-31-idle-incentives-distribution-update-euler-staking-pyts-as-new-yield-sources-for-by/1107/3).
+The [Gauges voting](gauges/) and the [Liquidity providers' rewards boost](boost.md) are currently paused after [IIP-31](https://gov.idle.finance/t/iip-31-idle-incentives-distribution-update-euler-staking-pyts-as-new-yield-sources-for-by/1107/3).
 {% endhint %}
 
 ### Lock details
@@ -24,7 +24,7 @@ Depending on the lock time, a specific amount of stkIDLE is generated from the $
 | 1 $IDLE | 2 years      | 0.50 stkIDLE (50%) |
 | 1 $IDLE | 4 years      | 1 stkIDLE (100%)   |
 
-stkIDLE linearly decreases st from the lockup date to the end date. Only at the end of the lock time, it is possible to withdraw the starting locked $IDLE tokens. The general formula to compute the stkIDLE balance at any point in time is:
+stkIDLE linearly decreases from the lockup date to the end date. Only at the end of the lock time, it is possible to withdraw the starting locked $IDLE tokens. The general formula to compute the stkIDLE balance at any point in time is:
 
 $$
 Q_{\text{stkIDLE}} = \frac{\text{lock time remaining in seconds}}{\text{max lock time in seconds}} \times Q_{\text{IDLE lock}}

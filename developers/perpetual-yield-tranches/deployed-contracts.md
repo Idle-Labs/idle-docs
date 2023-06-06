@@ -22,145 +22,77 @@ The ABI of the Yield Tranches contract can be found here: [JSON](https://github.
 
 **stETH**
 
-| Side   | Ticker          | Address                                                                                                               |
-| ------ | --------------- | --------------------------------------------------------------------------------------------------------------------- |
-| CDO    | lido\_stETH     | [0x34dCd573C5dE4672C8248cd12A99f875Ca112Ad8](https://etherscan.io/address/0x34dCd573C5dE4672C8248cd12A99f875Ca112Ad8) |
-| Senior | AA\_lido\_stETH | [0x2688fc68c4eac90d9e5e1b94776cf14eade8d877](https://etherscan.io/address/0x2688fc68c4eac90d9e5e1b94776cf14eade8d877) |
-| Junior | BB\_lido\_stETH | [0x3a52fa30c33caf05faee0f9c5dfe5fd5fe8b3978](https://etherscan.io/address/0x3a52fa30c33caf05faee0f9c5dfe5fd5fe8b3978) |
+<table><thead><tr><th width="98.33333333333331">Side</th><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>lido_stETH</td><td><a href="https://etherscan.io/address/0x34dCd573C5dE4672C8248cd12A99f875Ca112Ad8">0x34dCd573C5dE4672C8248cd12A99f875Ca112Ad8</a></td></tr><tr><td>Senior</td><td>AA_lido_stETH</td><td><a href="https://etherscan.io/address/0x2688fc68c4eac90d9e5e1b94776cf14eade8d877">0x2688fc68c4eac90d9e5e1b94776cf14eade8d877</a></td></tr><tr><td>Junior</td><td>BB_lido_stETH</td><td><a href="https://etherscan.io/address/0x3a52fa30c33caf05faee0f9c5dfe5fd5fe8b3978">0x3a52fa30c33caf05faee0f9c5dfe5fd5fe8b3978</a></td></tr></tbody></table>
 
 **MATIC**
 
-| Side   | Ticker            | Address                                                                                                               |
-| ------ | ----------------- | --------------------------------------------------------------------------------------------------------------------- |
-| CDO    | lido\_MATIC       | [0xF87ec7e1Ee467d7d78862089B92dd40497cBa5B8](https://etherscan.io/address/0xF87ec7e1Ee467d7d78862089B92dd40497cBa5B8) |
-| Senior | AA\_lido\_stMATIC | [0xAEf4FCC4E5F2dc270760063446d4116D24704Ad1](https://etherscan.io/address/0xAEf4FCC4E5F2dc270760063446d4116D24704Ad1) |
-| Junior | BB\_lido\_stMATIC | [0x077212c69A66261CF7bD1fd3b5C5db7CfFA948Ee](https://etherscan.io/address/0x077212c69A66261CF7bD1fd3b5C5db7CfFA948Ee) |
+<table><thead><tr><th width="98.33333333333331">Side</th><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>lido_MATIC</td><td><a href="https://etherscan.io/address/0xF87ec7e1Ee467d7d78862089B92dd40497cBa5B8">0xF87ec7e1Ee467d7d78862089B92dd40497cBa5B8</a></td></tr><tr><td>Senior</td><td>AA_lido_stMATIC</td><td><a href="https://etherscan.io/address/0xAEf4FCC4E5F2dc270760063446d4116D24704Ad1">0xAEf4FCC4E5F2dc270760063446d4116D24704Ad1</a></td></tr><tr><td>Junior</td><td>BB_lido_stMATIC</td><td><a href="https://etherscan.io/address/0x077212c69A66261CF7bD1fd3b5C5db7CfFA948Ee">0x077212c69A66261CF7bD1fd3b5C5db7CfFA948Ee</a></td></tr></tbody></table>
 
 ### Euler
 
 **DAI**
 
-| Side   | Ticker          | Address                                                                                                               |
-| ------ | --------------- | --------------------------------------------------------------------------------------------------------------------- |
-| CDO    | euler\_eDAI     | [0x46c1f702A6aAD1Fd810216A5fF15aaB1C62ca826](https://etherscan.io/address/0x46c1f702A6aAD1Fd810216A5fF15aaB1C62ca826) |
-| Senior | AA\_euler\_eDAI | [0x852c4d2823e98930388b5ce1ed106310b942bd5a](https://etherscan.io/address/0x852c4d2823e98930388b5ce1ed106310b942bd5a) |
-| Junior | BB\_euler\_eDAI | [0x6629baa8c7c6a84290bf9a885825e3540875219d](https://etherscan.io/address/0x6629baa8c7c6a84290bf9a885825e3540875219d) |
+<table><thead><tr><th width="98.33333333333331">Side</th><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>euler_eDAI</td><td><a href="https://etherscan.io/address/0x46c1f702A6aAD1Fd810216A5fF15aaB1C62ca826">0x46c1f702A6aAD1Fd810216A5fF15aaB1C62ca826</a></td></tr><tr><td>Senior</td><td>AA_euler_eDAI</td><td><a href="https://etherscan.io/address/0x852c4d2823e98930388b5ce1ed106310b942bd5a">0x852c4d2823e98930388b5ce1ed106310b942bd5a</a></td></tr><tr><td>Junior</td><td>BB_euler_eDAI</td><td><a href="https://etherscan.io/address/0x6629baa8c7c6a84290bf9a885825e3540875219d">0x6629baa8c7c6a84290bf9a885825e3540875219d</a></td></tr></tbody></table>
 
 **USDC**
 
-| Side   | Ticker           | Address                                                                                                               |
-| ------ | ---------------- | --------------------------------------------------------------------------------------------------------------------- |
-| CDO    | euler\_eUSDC     | [0xF5a3d259bFE7288284Bd41823eC5C8327a314054](https://etherscan.io/address/0xF5a3d259bFE7288284Bd41823eC5C8327a314054) |
-| Senior | AA\_euler\_eUSDC | [0x1e095cbf663491f15cc1bdb5919e701b27dde90c](https://etherscan.io/address/0x1e095cbf663491f15cc1bdb5919e701b27dde90c) |
-| Junior | BB\_euler\_eUSDC | [0xe11679cdb4587fee907d69e9ec4a7d3f0c2bcf3b](https://etherscan.io/address/0xe11679cdb4587fee907d69e9ec4a7d3f0c2bcf3b) |
+<table><thead><tr><th width="98.33333333333331">Side</th><th width="200">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>euler_eUSDC</td><td><a href="https://etherscan.io/address/0xF5a3d259bFE7288284Bd41823eC5C8327a314054">0xF5a3d259bFE7288284Bd41823eC5C8327a314054</a></td></tr><tr><td>Senior</td><td>AA_euler_eUSDC</td><td><a href="https://etherscan.io/address/0x1e095cbf663491f15cc1bdb5919e701b27dde90c">0x1e095cbf663491f15cc1bdb5919e701b27dde90c</a></td></tr><tr><td>Junior</td><td>BB_euler_eUSDC</td><td><a href="https://etherscan.io/address/0xe11679cdb4587fee907d69e9ec4a7d3f0c2bcf3b">0xe11679cdb4587fee907d69e9ec4a7d3f0c2bcf3b</a></td></tr></tbody></table>
 
 **USDT**
 
-| Side   | Ticker           | Address                                                                                                               |
-| ------ | ---------------- | --------------------------------------------------------------------------------------------------------------------- |
-| CDO    | euler\_eUSDT     | [0xD5469DF8CA36E7EaeDB35D428F28E13380eC8ede](https://etherscan.io/address/0xD5469DF8CA36E7EaeDB35D428F28E13380eC8ede) |
-| Senior | AA\_euler\_eUSDT | [0xe0f126236d2a5b13f26e72cbb1d1ff5f297dda07](https://etherscan.io/address/0xe0f126236d2a5b13f26e72cbb1d1ff5f297dda07) |
-| Junior | BB\_euler\_eUSDT | [0xb1ec065abf6783bcce003b8d6b9f947129504854](https://etherscan.io/address/0xb1ec065abf6783bcce003b8d6b9f947129504854) |
+<table><thead><tr><th width="97.33333333333331">Side</th><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>euler_eUSDT</td><td><a href="https://etherscan.io/address/0xD5469DF8CA36E7EaeDB35D428F28E13380eC8ede">0xD5469DF8CA36E7EaeDB35D428F28E13380eC8ede</a></td></tr><tr><td>Senior</td><td>AA_euler_eUSDT</td><td><a href="https://etherscan.io/address/0xe0f126236d2a5b13f26e72cbb1d1ff5f297dda07">0xe0f126236d2a5b13f26e72cbb1d1ff5f297dda07</a></td></tr><tr><td>Junior</td><td>BB_euler_eUSDT</td><td><a href="https://etherscan.io/address/0xb1ec065abf6783bcce003b8d6b9f947129504854">0xb1ec065abf6783bcce003b8d6b9f947129504854</a></td></tr></tbody></table>
 
 **agEUR**
 
-| Side   | Ticker            | Address                                                                                                               |
-| ------ | ----------------- | --------------------------------------------------------------------------------------------------------------------- |
-| CDO    | euler\_eagEUR     | [0x2398Bc075fa62Ee88d7fAb6A18Cd30bFf869bDa4](https://etherscan.io/address/0x2398Bc075fa62Ee88d7fAb6A18Cd30bFf869bDa4) |
-| Senior | AA\_euler\_eagEUR | [0x624dfe05202b66d871b8b7c0e14ab29fc3a5120c](https://etherscan.io/address/0x624dfe05202b66d871b8b7c0e14ab29fc3a5120c) |
-| Junior | BB\_euler\_eagEUR | [0xcf5fd05f72ca777d71fb3e38f296aad7ce735cb7](https://etherscan.io/address/0xcf5fd05f72ca777d71fb3e38f296aad7ce735cb7) |
+<table><thead><tr><th width="97.33333333333331">Side</th><th width="199">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>euler_eagEUR</td><td><a href="https://etherscan.io/address/0x2398Bc075fa62Ee88d7fAb6A18Cd30bFf869bDa4">0x2398Bc075fa62Ee88d7fAb6A18Cd30bFf869bDa4</a></td></tr><tr><td>Senior</td><td>AA_euler_eagEUR</td><td><a href="https://etherscan.io/address/0x624dfe05202b66d871b8b7c0e14ab29fc3a5120c">0x624dfe05202b66d871b8b7c0e14ab29fc3a5120c</a></td></tr><tr><td>Junior</td><td>BB_euler_eagEUR</td><td><a href="https://etherscan.io/address/0xcf5fd05f72ca777d71fb3e38f296aad7ce735cb7">0xcf5fd05f72ca777d71fb3e38f296aad7ce735cb7</a></td></tr></tbody></table>
 
 **DAI staking**
 
-| Side   | Ticker               | Address                                                                                                               |
-| ------ | -------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| CDO    | euler\_eDAI\_stk     | [0x264E1552Ee99f57a7D9E1bD1130a478266870C39](https://etherscan.io/address/0x264E1552Ee99f57a7D9E1bD1130a478266870C39) |
-| Senior | AA\_euler\_eDAI\_stk | [0x62Eb6a8c7A555eae3e0B17D42CA9A3299af2787E](https://etherscan.io/address/0x62Eb6a8c7A555eae3e0B17D42CA9A3299af2787E) |
-| Junior | BB\_euler\_eDAI\_stk | [0x56263BDE26b72b3e3D26d8e03399a275Aa8Bbfb2](https://etherscan.io/address/0x56263BDE26b72b3e3D26d8e03399a275Aa8Bbfb2) |
+<table><thead><tr><th width="98.33333333333331">Side</th><th width="200">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>euler_eDAI_stk</td><td><a href="https://etherscan.io/address/0x264E1552Ee99f57a7D9E1bD1130a478266870C39">0x264E1552Ee99f57a7D9E1bD1130a478266870C39</a></td></tr><tr><td>Senior</td><td>AA_euler_eDAI_stk</td><td><a href="https://etherscan.io/address/0x62Eb6a8c7A555eae3e0B17D42CA9A3299af2787E">0x62Eb6a8c7A555eae3e0B17D42CA9A3299af2787E</a></td></tr><tr><td>Junior</td><td>BB_euler_eDAI_stk</td><td><a href="https://etherscan.io/address/0x56263BDE26b72b3e3D26d8e03399a275Aa8Bbfb2">0x56263BDE26b72b3e3D26d8e03399a275Aa8Bbfb2</a></td></tr></tbody></table>
 
 **USDC staking**
 
-| Side   | Ticker                | Address                                                                                                               |
-| ------ | --------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| CDO    | euler\_eUSDC\_stk     | [0xf615a552c000B114DdAa09636BBF4205De49333c](https://etherscan.io/address/0xf615a552c000B114DdAa09636BBF4205De49333c) |
-| Senior | AA\_euler\_eUSDC\_stk | [0x1AF0294524093BFdF5DA5135853dC2fC678C12f7](https://etherscan.io/address/0x1AF0294524093BFdF5DA5135853dC2fC678C12f7) |
-| Junior | BB\_euler\_eUSDC\_stk | [0x271db794317B44827EfE81DeC6193fFc277050F6](https://etherscan.io/address/0x271db794317B44827EfE81DeC6193fFc277050F6) |
+<table><thead><tr><th width="98.33333333333331">Side</th><th width="200">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>euler_eUSDC_stk</td><td><a href="https://etherscan.io/address/0xf615a552c000B114DdAa09636BBF4205De49333c">0xf615a552c000B114DdAa09636BBF4205De49333c</a></td></tr><tr><td>Senior</td><td>AA_euler_eUSDC_stk</td><td><a href="https://etherscan.io/address/0x1AF0294524093BFdF5DA5135853dC2fC678C12f7">0x1AF0294524093BFdF5DA5135853dC2fC678C12f7</a></td></tr><tr><td>Junior</td><td>BB_euler_eUSDC_stk</td><td><a href="https://etherscan.io/address/0x271db794317B44827EfE81DeC6193fFc277050F6">0x271db794317B44827EfE81DeC6193fFc277050F6</a></td></tr></tbody></table>
 
 **USDT staking**
 
-| Side   | Ticker                | Address                                                                                                               |
-| ------ | --------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| CDO    | euler\_eUSDT\_stk     | [0x860B1d25903DbDFFEC579d30012dA268aEB0d621](https://etherscan.io/address/0x860B1d25903DbDFFEC579d30012dA268aEB0d621) |
-| Senior | AA\_euler\_eUSDT\_stk | [0x6796FCd41e4fb26855Bb9BDD7Cad41128Da1Fd59](https://etherscan.io/address/0x6796FCd41e4fb26855Bb9BDD7Cad41128Da1Fd59) |
-| Junior | BB\_euler\_eUSDT\_stk | [0x00B80FCCA0fE4fDc3940295AA213738435B0f94e](https://etherscan.io/address/0x00B80FCCA0fE4fDc3940295AA213738435B0f94e) |
+<table><thead><tr><th width="97.33333333333331">Side</th><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>euler_eUSDT_stk</td><td><a href="https://etherscan.io/address/0x860B1d25903DbDFFEC579d30012dA268aEB0d621">0x860B1d25903DbDFFEC579d30012dA268aEB0d621</a></td></tr><tr><td>Senior</td><td>AA_euler_eUSDT_stk</td><td><a href="https://etherscan.io/address/0x6796FCd41e4fb26855Bb9BDD7Cad41128Da1Fd59">0x6796FCd41e4fb26855Bb9BDD7Cad41128Da1Fd59</a></td></tr><tr><td>Junior</td><td>BB_euler_eUSDT_stk</td><td><a href="https://etherscan.io/address/0x00B80FCCA0fE4fDc3940295AA213738435B0f94e">0x00B80FCCA0fE4fDc3940295AA213738435B0f94e</a></td></tr></tbody></table>
 
 **WETH staking**
 
-| Side   | Ticker                | Address                                                                                                               |
-| ------ | --------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| CDO    | euler\_eWETH\_stk     | [0xec964d06cD71a68531fC9D083a142C48441F391C](https://etherscan.io/address/0xec964d06cD71a68531fC9D083a142C48441F391C) |
-| Senior | AA\_euler\_eWETH\_stk | [0x2B7Da260F101Fb259710c0a4f2EfEf59f41C0810](https://etherscan.io/address/0x2B7Da260F101Fb259710c0a4f2EfEf59f41C0810) |
-| Junior | BB\_euler\_eWETH\_stk | [0x2e80225f383F858E8737199D3496c5Cf827670a5](https://etherscan.io/address/0x2e80225f383F858E8737199D3496c5Cf827670a5) |
+<table><thead><tr><th width="97.33333333333331">Side</th><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>euler_eWETH_stk</td><td><a href="https://etherscan.io/address/0xec964d06cD71a68531fC9D083a142C48441F391C">0xec964d06cD71a68531fC9D083a142C48441F391C</a></td></tr><tr><td>Senior</td><td>AA_euler_eWETH_stk</td><td><a href="https://etherscan.io/address/0x2B7Da260F101Fb259710c0a4f2EfEf59f41C0810">0x2B7Da260F101Fb259710c0a4f2EfEf59f41C0810</a></td></tr><tr><td>Junior</td><td>BB_euler_eWETH_stk</td><td><a href="https://etherscan.io/address/0x2e80225f383F858E8737199D3496c5Cf827670a5">0x2e80225f383F858E8737199D3496c5Cf827670a5</a></td></tr></tbody></table>
 
 ### Morpho
 
 **DAI (Aave)**
 
-| Side   | Ticker           | Address                                                                                                               |
-| ------ | ---------------- | --------------------------------------------------------------------------------------------------------------------- |
-| CDO    | morpho\_aDAI     | [0xDB82dDcb7e2E4ac3d13eBD1516CBfDb7b7CE0ffc](https://etherscan.io/address/0xDB82dDcb7e2E4ac3d13eBD1516CBfDb7b7CE0ffc) |
-| Senior | AA\_morpho\_aDAI | [0x69d87d0056256e3df7Be9b4c8D6429B4b8207C5E](https://etherscan.io/address/0x69d87d0056256e3df7Be9b4c8D6429B4b8207C5E) |
-| Junior | BB\_morpho\_aDAI | [0xB098AF638aF0c4Fa3edb1A24f807E9c22dA0fE73](https://etherscan.io/address/0xB098AF638aF0c4Fa3edb1A24f807E9c22dA0fE73) |
+<table><thead><tr><th width="97.33333333333331">Side</th><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>morpho_aDAI</td><td><a href="https://etherscan.io/address/0xDB82dDcb7e2E4ac3d13eBD1516CBfDb7b7CE0ffc">0xDB82dDcb7e2E4ac3d13eBD1516CBfDb7b7CE0ffc</a></td></tr><tr><td>Senior</td><td>AA_morpho_aDAI</td><td><a href="https://etherscan.io/address/0x69d87d0056256e3df7Be9b4c8D6429B4b8207C5E">0x69d87d0056256e3df7Be9b4c8D6429B4b8207C5E</a></td></tr><tr><td>Junior</td><td>BB_morpho_aDAI</td><td><a href="https://etherscan.io/address/0xB098AF638aF0c4Fa3edb1A24f807E9c22dA0fE73">0xB098AF638aF0c4Fa3edb1A24f807E9c22dA0fE73</a></td></tr></tbody></table>
 
 **USDC (Aave)**
 
-| Side   | Ticker            | Address                                                                                                               |
-| ------ | ----------------- | --------------------------------------------------------------------------------------------------------------------- |
-| CDO    | morpho\_aUSDC     | [0x9C13Ff045C0a994AF765585970A5818E1dB580F8](https://etherscan.io/address/0x9C13Ff045C0a994AF765585970A5818E1dB580F8) |
-| Senior | AA\_morpho\_aUSDC | [0x376B2dCF9eBd3067BB89eb6D1020FbE604092212](https://etherscan.io/address/0x376B2dCF9eBd3067BB89eb6D1020FbE604092212) |
-| Junior | BB\_morpho\_aUSDC | [0x86a40De6d77331788Ba24a85221fb8DBFcBC9bF0](https://etherscan.io/address/0x86a40De6d77331788Ba24a85221fb8DBFcBC9bF0) |
+<table><thead><tr><th width="97.33333333333331">Side</th><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>morpho_aUSDC</td><td><a href="https://etherscan.io/address/0x9C13Ff045C0a994AF765585970A5818E1dB580F8">0x9C13Ff045C0a994AF765585970A5818E1dB580F8</a></td></tr><tr><td>Senior</td><td>AA_morpho_aUSDC</td><td><a href="https://etherscan.io/address/0x376B2dCF9eBd3067BB89eb6D1020FbE604092212">0x376B2dCF9eBd3067BB89eb6D1020FbE604092212</a></td></tr><tr><td>Junior</td><td>BB_morpho_aUSDC</td><td><a href="https://etherscan.io/address/0x86a40De6d77331788Ba24a85221fb8DBFcBC9bF0">0x86a40De6d77331788Ba24a85221fb8DBFcBC9bF0</a></td></tr></tbody></table>
 
 **USDT (Aave)**
 
-| Side   | Ticker            | Address                                                                                                               |
-| ------ | ----------------- | --------------------------------------------------------------------------------------------------------------------- |
-| CDO    | morpho\_aUSDT     | [0x440ceAd9C0A0f4ddA1C81b892BeDc9284Fc190dd](https://etherscan.io/address/0x440ceAd9C0A0f4ddA1C81b892BeDc9284Fc190dd) |
-| Senior | AA\_morpho\_aUSDT | [0x745e005a5dF03bDE0e55be811350acD6316894E1](https://etherscan.io/address/0x745e005a5dF03bDE0e55be811350acD6316894E1) |
-| Junior | BB\_morpho\_aUSDT | [0xF0C177229Ae1cd41BF48dF6241fae3e6A14A6967](https://etherscan.io/address/0xF0C177229Ae1cd41BF48dF6241fae3e6A14A6967) |
+<table><thead><tr><th width="97.33333333333331">Side</th><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>morpho_aUSDT</td><td><a href="https://etherscan.io/address/0x440ceAd9C0A0f4ddA1C81b892BeDc9284Fc190dd">0x440ceAd9C0A0f4ddA1C81b892BeDc9284Fc190dd</a></td></tr><tr><td>Senior</td><td>AA_morpho_aUSDT</td><td><a href="https://etherscan.io/address/0x745e005a5dF03bDE0e55be811350acD6316894E1">0x745e005a5dF03bDE0e55be811350acD6316894E1</a></td></tr><tr><td>Junior</td><td>BB_morpho_aUSDT</td><td><a href="https://etherscan.io/address/0xF0C177229Ae1cd41BF48dF6241fae3e6A14A6967">0xF0C177229Ae1cd41BF48dF6241fae3e6A14A6967</a></td></tr></tbody></table>
 
 **WETH (Aave)**
 
-| Side   | Ticker            | Address                                                                                                               |
-| ------ | ----------------- | --------------------------------------------------------------------------------------------------------------------- |
-| CDO    | morpho\_aWETH     | [0xb3F717a5064D2CBE1b8999Fdfd3F8f3DA98339a6](https://etherscan.io/address/0xb3F717a5064D2CBE1b8999Fdfd3F8f3DA98339a6) |
-| Senior | AA\_morpho\_aWETH | [0x6c0c8708e2FD507B7057762739cb04cF01b98d7b](https://etherscan.io/address/0x6c0c8708e2FD507B7057762739cb04cF01b98d7b) |
-| Junior | BB\_morpho\_aWETH | [0xd69c52E6AF3aE708EE4b3d3e7C0C5b4CF4d6244B](https://etherscan.io/address/0xd69c52E6AF3aE708EE4b3d3e7C0C5b4CF4d6244B) |
+<table><thead><tr><th width="97.33333333333331">Side</th><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>morpho_aWETH</td><td><a href="https://etherscan.io/address/0xb3F717a5064D2CBE1b8999Fdfd3F8f3DA98339a6">0xb3F717a5064D2CBE1b8999Fdfd3F8f3DA98339a6</a></td></tr><tr><td>Senior</td><td>AA_morpho_aWETH</td><td><a href="https://etherscan.io/address/0x6c0c8708e2FD507B7057762739cb04cF01b98d7b">0x6c0c8708e2FD507B7057762739cb04cF01b98d7b</a></td></tr><tr><td>Junior</td><td>BB_morpho_aWETH</td><td><a href="https://etherscan.io/address/0xd69c52E6AF3aE708EE4b3d3e7C0C5b4CF4d6244B">0xd69c52E6AF3aE708EE4b3d3e7C0C5b4CF4d6244B</a></td></tr></tbody></table>
 
 ### Clearpool
 
 **DAI (Portofino)**
 
-| Side   | Ticker           | Address                                                                                                               |
-| ------ | ---------------- | --------------------------------------------------------------------------------------------------------------------- |
-| CDO    | cp\_POR\_DAI     | [0x5dcA0B3Ed7594A6613c1A2acd367d56E1f74F92D](https://etherscan.io/address/0x5dca0b3ed7594a6613c1a2acd367d56e1f74f92d) |
-| Senior | AA\_cp\_POR\_DAI | [0x43eD68703006add5F99ce36b5182392362369C1c](https://etherscan.io/address/0x43eD68703006add5F99ce36b5182392362369C1c) |
-| Junior | BB\_cp\_POR\_DAI | [0x38d36353d07cfb92650822d9c31fb4ada1c73d6e](https://etherscan.io/address/0x38d36353d07cfb92650822d9c31fb4ada1c73d6e) |
+<table><thead><tr><th width="98.33333333333331">Side</th><th width="197">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>cp_POR_DAI</td><td><a href="https://etherscan.io/address/0x5dca0b3ed7594a6613c1a2acd367d56e1f74f92d">0x5dcA0B3Ed7594A6613c1A2acd367d56E1f74F92D</a></td></tr><tr><td>Senior</td><td>AA_cp_POR_DAI</td><td><a href="https://etherscan.io/address/0x43eD68703006add5F99ce36b5182392362369C1c">0x43eD68703006add5F99ce36b5182392362369C1c</a></td></tr><tr><td>Junior</td><td>BB_cp_POR_DAI</td><td><a href="https://etherscan.io/address/0x38d36353d07cfb92650822d9c31fb4ada1c73d6e">0x38d36353d07cfb92650822d9c31fb4ada1c73d6e</a></td></tr></tbody></table>
 
 **USDC (Portofino)**
 
-| Side   | Ticker            | Address                                                                                                               |
-| ------ | ----------------- | --------------------------------------------------------------------------------------------------------------------- |
-| CDO    | cp\_POR\_USDC     | [0x1329E8DB9Ed7a44726572D44729427F132Fa290D](https://etherscan.io/address/0x1329e8db9ed7a44726572d44729427f132fa290d) |
-| Senior | AA\_cp\_POR\_USDC | [0x9CAcd44cfDf22731bc99FaCf3531C809d56BD4A2](https://etherscan.io/address/0x9cacd44cfdf22731bc99facf3531c809d56bd4a2) |
-| Junior | BB\_cp\_POR\_USDC | [0xf85fd280b301c0a6232d515001da8b6c8503d714](https://etherscan.io/address/0xf85fd280b301c0a6232d515001da8b6c8503d714) |
+<table><thead><tr><th width="98.33333333333331">Side</th><th width="197">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>cp_POR_USDC</td><td><a href="https://etherscan.io/address/0x1329e8db9ed7a44726572d44729427f132fa290d">0x1329E8DB9Ed7a44726572D44729427F132Fa290D</a></td></tr><tr><td>Senior</td><td>AA_cp_POR_USDC</td><td><a href="https://etherscan.io/address/0x9cacd44cfdf22731bc99facf3531c809d56bd4a2">0x9CAcd44cfDf22731bc99FaCf3531C809d56BD4A2</a></td></tr><tr><td>Junior</td><td>BB_cp_POR_USDC</td><td><a href="https://etherscan.io/address/0xf85fd280b301c0a6232d515001da8b6c8503d714">0xf85fd280b301c0a6232d515001da8b6c8503d714</a></td></tr></tbody></table>
 
 **USDT (Fasanara)**
 
-| Side   | Ticker            | Address                                                                                                               |
-| ------ | ----------------- | --------------------------------------------------------------------------------------------------------------------- |
-| CDO    | cp\_FAS\_USDT     | [0xc4574C60a455655864aB80fa7638561A756C5E61](https://etherscan.io/address/0xc4574C60a455655864aB80fa7638561A756C5E61) |
-| Senior | AA\_cp\_FAS\_USDT | [0x0a6f2449C09769950cFb76f905Ad11c341541f70](https://etherscan.io/address/0x0a6f2449c09769950cfb76f905ad11c341541f70) |
-| Junior | BB\_cp\_FAS\_USDT | [0x3Eb6318b8D9f362a0e1D99F6032eDB1C4c602500](https://etherscan.io/address/0x3eb6318b8d9f362a0e1d99f6032edb1c4c602500) |
+<table><thead><tr><th width="98.33333333333331">Side</th><th width="197">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>cp_FAS_USDT</td><td><a href="https://etherscan.io/address/0xc4574C60a455655864aB80fa7638561A756C5E61">0xc4574C60a455655864aB80fa7638561A756C5E61</a></td></tr><tr><td>Senior</td><td>AA_cp_FAS_USDT</td><td><a href="https://etherscan.io/address/0x0a6f2449c09769950cfb76f905ad11c341541f70">0x0a6f2449C09769950cFb76f905Ad11c341541f70</a></td></tr><tr><td>Junior</td><td>BB_cp_FAS_USDT</td><td><a href="https://etherscan.io/address/0x3eb6318b8d9f362a0e1d99f6032edb1c4c602500">0x3Eb6318b8D9f362a0e1D99F6032eDB1C4c602500</a></td></tr></tbody></table>
 
 ### ERC-4626 wrappers for Tranche tokens
 
@@ -168,15 +100,7 @@ where AA = Senior Tranche, BB = Junior Tranche.
 
 Integrators that need other ERC-4626 wrappers can get in contact with the [Development League ](https://discord.gg/fJaBYmS)on Discord.&#x20;
 
-| Side   | Ticker               | Address                                                                                                               |
-| ------ | -------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| Senior | AA\_cp\_POR\_DAI\_w  | [0x79c4fE26f3b2809fD29Ec8588242036b8136f32D](https://etherscan.io/address/0x79c4fe26f3b2809fd29ec8588242036b8136f32d) |
-| Junior | BB\_cp\_POR\_DAI\_w  | [0xA9F908DA2E3Ec7475a743e97Bb5B06081B688aE4](https://etherscan.io/address/0xa9f908da2e3ec7475a743e97bb5b06081b688ae4) |
-| Senior | AA\_cp\_POR\_USDC\_w | [0x291eEcab3a2d3f403745968C14edBB227d183636](https://etherscan.io/address/0x291eecab3a2d3f403745968c14edbb227d183636) |
-| Junior | BB\_cp\_POR\_USDC\_w | [0xa35B7A9fe5DC4cD51bA47ACdf67B0f41c893329A](https://etherscan.io/address/0xa35b7a9fe5dc4cd51ba47acdf67b0f41c893329a) |
-| Senior | AA\_cp\_FAS\_USDT\_w | [0xcf96f4b91c6d424fb34aa9a33855b5c8ed1fe66d](https://etherscan.io/address/0xcf96f4b91c6d424fb34aa9a33855b5c8ed1fe66d) |
-| Junior | BB\_cp\_FAS\_USDT\_w | [0x28bC4D9aD73A761049c773038c344F54D906B152](https://etherscan.io/address/0x28bc4d9ad73a761049c773038c344f54d906b152) |
-| Junior | BB\_lido\_stETH\_w   | [0x79F05f75df6c156B2B98aC1FBfb3637fc1e6f048](https://etherscan.io/address/0x79F05f75df6c156B2B98aC1FBfb3637fc1e6f048) |
+<table><thead><tr><th width="96.33333333333331">Side</th><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>Senior</td><td>AA_cp_POR_DAI_w</td><td><a href="https://etherscan.io/address/0x79c4fe26f3b2809fd29ec8588242036b8136f32d">0x79c4fE26f3b2809fD29Ec8588242036b8136f32D</a></td></tr><tr><td>Junior</td><td>BB_cp_POR_DAI_w</td><td><a href="https://etherscan.io/address/0xa9f908da2e3ec7475a743e97bb5b06081b688ae4">0xA9F908DA2E3Ec7475a743e97Bb5B06081B688aE4</a></td></tr><tr><td>Senior</td><td>AA_cp_POR_USDC_w</td><td><a href="https://etherscan.io/address/0x291eecab3a2d3f403745968c14edbb227d183636">0x291eEcab3a2d3f403745968C14edBB227d183636</a></td></tr><tr><td>Junior</td><td>BB_cp_POR_USDC_w</td><td><a href="https://etherscan.io/address/0xa35b7a9fe5dc4cd51ba47acdf67b0f41c893329a">0xa35B7A9fe5DC4cD51bA47ACdf67B0f41c893329A</a></td></tr><tr><td>Senior</td><td>AA_cp_FAS_USDT_w</td><td><a href="https://etherscan.io/address/0xcf96f4b91c6d424fb34aa9a33855b5c8ed1fe66d">0xcf96f4b91c6d424fb34aa9a33855b5c8ed1fe66d</a></td></tr><tr><td>Junior</td><td>BB_cp_FAS_USDT_w</td><td><a href="https://etherscan.io/address/0x28bc4d9ad73a761049c773038c344f54d906b152">0x28bC4D9aD73A761049c773038c344F54D906B152</a></td></tr><tr><td>Junior</td><td>BB_lido_stETH_w</td><td><a href="https://etherscan.io/address/0x79F05f75df6c156B2B98aC1FBfb3637fc1e6f048">0x79F05f75df6c156B2B98aC1FBfb3637fc1e6f048</a></td></tr></tbody></table>
 
 ### Deprecated strategies
 
@@ -184,106 +108,58 @@ Integrators that need other ERC-4626 wrappers can get in contact with the [Devel
 
 **DAI**
 
-| Side   | Ticker             | Address                                                                                                               |
-| ------ | ------------------ | --------------------------------------------------------------------------------------------------------------------- |
-| CDO    | idle\_DAIYield     | [0xd0DbcD556cA22d3f3c142e9a3220053FD7a247BC](https://etherscan.io/address/0xd0DbcD556cA22d3f3c142e9a3220053FD7a247BC) |
-| Senior | AA\_idle\_DAIYield | [0xE9ada97bDB86d827ecbaACCa63eBcD8201D8b12E](https://etherscan.io/address/0xE9ada97bDB86d827ecbaACCa63eBcD8201D8b12E) |
-| Junior | BB\_idle\_DAIYield | [0x730348a54bA58F64295154F0662A08Cbde1225c2](https://etherscan.io/address/0x730348a54bA58F64295154F0662A08Cbde1225c2) |
+<table><thead><tr><th width="98.33333333333331">Side</th><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>idle_DAIYield</td><td><a href="https://etherscan.io/address/0xd0DbcD556cA22d3f3c142e9a3220053FD7a247BC">0xd0DbcD556cA22d3f3c142e9a3220053FD7a247BC</a></td></tr><tr><td>Senior</td><td>AA_idle_DAIYield</td><td><a href="https://etherscan.io/address/0xE9ada97bDB86d827ecbaACCa63eBcD8201D8b12E">0xE9ada97bDB86d827ecbaACCa63eBcD8201D8b12E</a></td></tr><tr><td>Junior</td><td>BB_idle_DAIYield</td><td><a href="https://etherscan.io/address/0x730348a54bA58F64295154F0662A08Cbde1225c2">0x730348a54bA58F64295154F0662A08Cbde1225c2</a></td></tr></tbody></table>
 
 **FEI**
 
-| Side   | Ticker             | Address                                                                                                               |
-| ------ | ------------------ | --------------------------------------------------------------------------------------------------------------------- |
-| CDO    | idle\_FEIYield     | [0x77648a2661687ef3b05214d824503f6717311596](https://etherscan.io/address/0x77648a2661687ef3b05214d824503f6717311596) |
-| Senior | AA\_idle\_FEIYield | [0x9cE3a740Df498646939BcBb213A66BBFa1440af6](https://etherscan.io/address/0x9cE3a740Df498646939BcBb213A66BBFa1440af6) |
-| Junior | BB\_idle\_FEIYield | [0x2490D810BF6429264397Ba721A488b0C439aA745](deployed-contracts.md#ethereum)                                          |
+<table><thead><tr><th width="98.33333333333331">Side</th><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>idle_FEIYield</td><td><a href="https://etherscan.io/address/0x77648a2661687ef3b05214d824503f6717311596">0x77648a2661687ef3b05214d824503f6717311596</a></td></tr><tr><td>Senior</td><td>AA_idle_FEIYield</td><td><a href="https://etherscan.io/address/0x9cE3a740Df498646939BcBb213A66BBFa1440af6">0x9cE3a740Df498646939BcBb213A66BBFa1440af6</a></td></tr><tr><td>Junior</td><td>BB_idle_FEIYield</td><td><a href="deployed-contracts.md#ethereum">0x2490D810BF6429264397Ba721A488b0C439aA745</a></td></tr></tbody></table>
 
 ### Convex
 
 **FRAX-3Crv**
 
-| Side   | Ticker               | Address                                                                                                               |
-| ------ | -------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| CDO    | convex\_frax3Crv     | [0x4CCaf1392a17203eDAb55a1F2aF3079A8Ac513E7](https://etherscan.io/address/0x4CCaf1392a17203eDAb55a1F2aF3079A8Ac513E7) |
-| Senior | AA\_convex\_frax3Crv | [0x15794da4dcf34e674c18bbfaf4a67ff6189690f5](https://etherscan.io/address/0x15794da4dcf34e674c18bbfaf4a67ff6189690f5) |
-| Junior | BB\_convex\_frax3Crv | [0x18cf59480d8c16856701f66028444546b7041307](https://etherscan.io/address/0x18cf59480d8c16856701f66028444546b7041307) |
+<table><thead><tr><th width="98.33333333333331">Side</th><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>convex_frax3Crv</td><td><a href="https://etherscan.io/address/0x4CCaf1392a17203eDAb55a1F2aF3079A8Ac513E7">0x4CCaf1392a17203eDAb55a1F2aF3079A8Ac513E7</a></td></tr><tr><td>Senior</td><td>AA_convex_frax3Crv</td><td><a href="https://etherscan.io/address/0x15794da4dcf34e674c18bbfaf4a67ff6189690f5">0x15794da4dcf34e674c18bbfaf4a67ff6189690f5</a></td></tr><tr><td>Junior</td><td>BB_convex_frax3Crv</td><td><a href="https://etherscan.io/address/0x18cf59480d8c16856701f66028444546b7041307">0x18cf59480d8c16856701f66028444546b7041307</a></td></tr></tbody></table>
 
 **ste-3Crv**
 
-| Side   | Ticker             | Address                                                                                                               |
-| ------ | ------------------ | --------------------------------------------------------------------------------------------------------------------- |
-| CDO    | convex\_steCRV     | [0x7EcFC031758190eb1cb303D8238D553b1D4Bc8ef](https://etherscan.io/address/0x7EcFC031758190eb1cb303D8238D553b1D4Bc8ef) |
-| Senior | AA\_convex\_steCRV | [0x060a53bcfdc0452f35ebd2196c6914e0152379a6](https://etherscan.io/address/0x060a53bcfdc0452f35ebd2196c6914e0152379a6) |
-| Junior | BB\_convex\_steCRV | [0xd83246d2bcbc00e85e248a6e9aa35d0a1548968e](https://etherscan.io/address/0xd83246d2bcbc00e85e248a6e9aa35d0a1548968e) |
+<table><thead><tr><th width="98.33333333333331">Side</th><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>convex_steCRV</td><td><a href="https://etherscan.io/address/0x7EcFC031758190eb1cb303D8238D553b1D4Bc8ef">0x7EcFC031758190eb1cb303D8238D553b1D4Bc8ef</a></td></tr><tr><td>Senior</td><td>AA_convex_steCRV</td><td><a href="https://etherscan.io/address/0x060a53bcfdc0452f35ebd2196c6914e0152379a6">0x060a53bcfdc0452f35ebd2196c6914e0152379a6</a></td></tr><tr><td>Junior</td><td>BB_convex_steCRV</td><td><a href="https://etherscan.io/address/0xd83246d2bcbc00e85e248a6e9aa35d0a1548968e">0xd83246d2bcbc00e85e248a6e9aa35d0a1548968e</a></td></tr></tbody></table>
 
 **alUSD-3Crv**
 
-| Side   | Ticker                | Address                                                                                                               |
-| ------ | --------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| CDO    | convex\_alusd3crv     | [0x008C589c471fd0a13ac2B9338B69f5F7a1A843e1](https://etherscan.io/address/0x008C589c471fd0a13ac2B9338B69f5F7a1A843e1) |
-| Senior | AA\_convex\_alusd3crv | [0x790e38d85a364dd03f682f5ecdc88f8ff7299908](https://etherscan.io/address/0x790e38d85a364dd03f682f5ecdc88f8ff7299908) |
-| Junior | BB\_convex\_alusd3crv | [0xa0e8c9088afb3fa0f40ecdf8b551071c34aa1aa4](https://etherscan.io/address/0xa0e8c9088afb3fa0f40ecdf8b551071c34aa1aa4) |
+<table><thead><tr><th width="98.33333333333331">Side</th><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>convex_alusd3crv</td><td><a href="https://etherscan.io/address/0x008C589c471fd0a13ac2B9338B69f5F7a1A843e1">0x008C589c471fd0a13ac2B9338B69f5F7a1A843e1</a></td></tr><tr><td>Senior</td><td>AA_convex_alusd3crv</td><td><a href="https://etherscan.io/address/0x790e38d85a364dd03f682f5ecdc88f8ff7299908">0x790e38d85a364dd03f682f5ecdc88f8ff7299908</a></td></tr><tr><td>Junior</td><td>BB_convex_alusd3crv</td><td><a href="https://etherscan.io/address/0xa0e8c9088afb3fa0f40ecdf8b551071c34aa1aa4">0xa0e8c9088afb3fa0f40ecdf8b551071c34aa1aa4</a></td></tr></tbody></table>
 
 **3EUR**
 
-| Side   | Ticker           | Address                                                                                                               |
-| ------ | ---------------- | --------------------------------------------------------------------------------------------------------------------- |
-| CDO    | convex\_3eur     | [0x858F5A3a5C767F8965cF7b77C51FD178C4A92F05](https://etherscan.io/address/0x858F5A3a5C767F8965cF7b77C51FD178C4A92F05) |
-| Senior | AA\_convex\_3eur | [0x158e04225777bbea34d2762b5df9ebd695c158d2](https://etherscan.io/address/0x158e04225777bbea34d2762b5df9ebd695c158d2) |
-| Junior | BB\_convex\_3eur | [0x3061c652b49ae901bbecf622624cc9f633d01bbd](https://etherscan.io/address/0x3061c652b49ae901bbecf622624cc9f633d01bbd) |
+<table><thead><tr><th width="98.33333333333331">Side</th><th width="199">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>convex_3eur</td><td><a href="https://etherscan.io/address/0x858F5A3a5C767F8965cF7b77C51FD178C4A92F05">0x858F5A3a5C767F8965cF7b77C51FD178C4A92F05</a></td></tr><tr><td>Senior</td><td>AA_convex_3eur</td><td><a href="https://etherscan.io/address/0x158e04225777bbea34d2762b5df9ebd695c158d2">0x158e04225777bbea34d2762b5df9ebd695c158d2</a></td></tr><tr><td>Junior</td><td>BB_convex_3eur</td><td><a href="https://etherscan.io/address/0x3061c652b49ae901bbecf622624cc9f633d01bbd">0x3061c652b49ae901bbecf622624cc9f633d01bbd</a></td></tr></tbody></table>
 
 **pBTC-Crv**
 
-| Side   | Ticker              | Address                                                                                                               |
-| ------ | ------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| CDO    | convex\_pbtccrv     | [0xf324Dca1Dc621FCF118690a9c6baE40fbD8f09b7](https://etherscan.io/address/0xf324Dca1Dc621FCF118690a9c6baE40fbD8f09b7) |
-| Senior | AA\_convex\_pbtccrv | [0x4657b96d587c4d46666c244b40216beeea437d0d](https://etherscan.io/address/0x4657b96d587c4d46666c244b40216beeea437d0d) |
-| Junior | BB\_convex\_pbtccrv | [0x3872418402d1e967889ac609731fc9e11f438de5](https://etherscan.io/address/0x3872418402d1e967889ac609731fc9e11f438de5) |
+<table><thead><tr><th width="99.33333333333331">Side</th><th width="197">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>convex_pbtccrv</td><td><a href="https://etherscan.io/address/0xf324Dca1Dc621FCF118690a9c6baE40fbD8f09b7">0xf324Dca1Dc621FCF118690a9c6baE40fbD8f09b7</a></td></tr><tr><td>Senior</td><td>AA_convex_pbtccrv</td><td><a href="https://etherscan.io/address/0x4657b96d587c4d46666c244b40216beeea437d0d">0x4657b96d587c4d46666c244b40216beeea437d0d</a></td></tr><tr><td>Junior</td><td>BB_convex_pbtccrv</td><td><a href="https://etherscan.io/address/0x3872418402d1e967889ac609731fc9e11f438de5">0x3872418402d1e967889ac609731fc9e11f438de5</a></td></tr></tbody></table>
 
 **MIM-3Crv**
 
-| Side   | Ticker              | Address                                                                                                               |
-| ------ | ------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| CDO    | convex\_mim3Crv     | [0x151e89e117728ac6c93aae94c621358b0ebd1866](https://etherscan.io/address/0x151e89e117728ac6c93aae94c621358b0ebd1866) |
-| Senior | AA\_convex\_mim3Crv | [0xFC96989b3Df087C96C806318436B16e44c697102](https://etherscan.io/address/0xFC96989b3Df087C96C806318436B16e44c697102) |
-| Junior | BB\_convex\_mim3Crv | [0x5346217536852CD30A5266647ccBB6f73449Cbd1](https://etherscan.io/address/0x5346217536852CD30A5266647ccBB6f73449Cbd1) |
+<table><thead><tr><th width="98.33333333333331">Side</th><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>convex_mim3Crv</td><td><a href="https://etherscan.io/address/0x151e89e117728ac6c93aae94c621358b0ebd1866">0x151e89e117728ac6c93aae94c621358b0ebd1866</a></td></tr><tr><td>Senior</td><td>AA_convex_mim3Crv</td><td><a href="https://etherscan.io/address/0xFC96989b3Df087C96C806318436B16e44c697102">0xFC96989b3Df087C96C806318436B16e44c697102</a></td></tr><tr><td>Junior</td><td>BB_convex_mim3Crv</td><td><a href="https://etherscan.io/address/0x5346217536852CD30A5266647ccBB6f73449Cbd1">0x5346217536852CD30A5266647ccBB6f73449Cbd1</a></td></tr></tbody></table>
 
 **mUSD-3Crv**
 
-| Side   | Ticker               | Address                                                                                                               |
-| ------ | -------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| CDO    | convex\_musd3Crv     | [0x16d88C635e1B439D8678e7BAc689ac60376fBfA6](https://etherscan.io/address/0x16d88C635e1B439D8678e7BAc689ac60376fBfA6) |
-| Senior | AA\_convex\_musd3Crv | [0x4585F56B06D098D4EDBFc5e438b8897105991c6A](https://etherscan.io/address/0x4585F56B06D098D4EDBFc5e438b8897105991c6A) |
-| Junior | BB\_convex\_musd3Crv | [0xFb08404617B6afab0b19f6cEb2Ef9E07058D043C](https://etherscan.io/address/0xFb08404617B6afab0b19f6cEb2Ef9E07058D043C) |
+<table><thead><tr><th width="96.33333333333331">Side</th><th width="203">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>convex_musd3Crv</td><td><a href="https://etherscan.io/address/0x16d88C635e1B439D8678e7BAc689ac60376fBfA6">0x16d88C635e1B439D8678e7BAc689ac60376fBfA6</a></td></tr><tr><td>Senior</td><td>AA_convex_musd3Crv</td><td><a href="https://etherscan.io/address/0x4585F56B06D098D4EDBFc5e438b8897105991c6A">0x4585F56B06D098D4EDBFc5e438b8897105991c6A</a></td></tr><tr><td>Junior</td><td>BB_convex_musd3Crv</td><td><a href="https://etherscan.io/address/0xFb08404617B6afab0b19f6cEb2Ef9E07058D043C">0xFb08404617B6afab0b19f6cEb2Ef9E07058D043C</a></td></tr></tbody></table>
 
 ### Clearpool
 
 **USDC (Wintermute)**
 
-| Side   | Ticker            | Address                                                                                                               |
-| ------ | ----------------- | --------------------------------------------------------------------------------------------------------------------- |
-| CDO    | cp\_WIN\_USDC     | [0xDBCEE5AE2E9DAf0F5d93473e08780C9f45DfEb93](https://etherscan.io/address/0xDBCEE5AE2E9DAf0F5d93473e08780C9f45DfEb93) |
-| Senior | AA\_cp\_WIN\_USDC | [0xb86264c21418aa75f7c337b1821ccb4ff4d57673](https://etherscan.io/address/0xb86264c21418aa75f7c337b1821ccb4ff4d57673) |
-| Junior | BB\_cp\_WIN\_USDC | [0x4d9d9aa17c3fcea05f20a87fc1991a045561167d](https://etherscan.io/address/0x4d9d9aa17c3fcea05f20a87fc1991a045561167d) |
+<table><thead><tr><th width="98.33333333333331">Side</th><th width="197">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>cp_WIN_USDC</td><td><a href="https://etherscan.io/address/0xDBCEE5AE2E9DAf0F5d93473e08780C9f45DfEb93">0xDBCEE5AE2E9DAf0F5d93473e08780C9f45DfEb93</a></td></tr><tr><td>Senior</td><td>AA_cp_WIN_USDC</td><td><a href="https://etherscan.io/address/0xb86264c21418aa75f7c337b1821ccb4ff4d57673">0xb86264c21418aa75f7c337b1821ccb4ff4d57673</a></td></tr><tr><td>Junior</td><td>BB_cp_WIN_USDC</td><td><a href="https://etherscan.io/address/0x4d9d9aa17c3fcea05f20a87fc1991a045561167d">0x4d9d9aa17c3fcea05f20a87fc1991a045561167d</a></td></tr></tbody></table>
 
 **DAI (Folkvang)**
 
-| Side   | Ticker           | Address                                                                                                               |
-| ------ | ---------------- | --------------------------------------------------------------------------------------------------------------------- |
-| CDO    | cp\_FOL\_DAI     | [0xDcE26B2c78609b983cF91cCcD43E238353653b0E](https://etherscan.io/address/0xDcE26B2c78609b983cF91cCcD43E238353653b0E) |
-| Senior | AA\_cp\_FOL\_DAI | [0x1692F6574a6758ADfbD12544e209146dD4510BD7](https://etherscan.io/address/0x1692F6574a6758ADfbD12544e209146dD4510BD7) |
-| Junior | BB\_cp\_FOL\_DAI | [0xCb980b5A4f5BdB81d0B4b97A9eDe64578ba9D48A](https://etherscan.io/address/0xCb980b5A4f5BdB81d0B4b97A9eDe64578ba9D48A) |
+<table><thead><tr><th width="98.33333333333331">Side</th><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>cp_FOL_DAI</td><td><a href="https://etherscan.io/address/0xDcE26B2c78609b983cF91cCcD43E238353653b0E">0xDcE26B2c78609b983cF91cCcD43E238353653b0E</a></td></tr><tr><td>Senior</td><td>AA_cp_FOL_DAI</td><td><a href="https://etherscan.io/address/0x1692F6574a6758ADfbD12544e209146dD4510BD7">0x1692F6574a6758ADfbD12544e209146dD4510BD7</a></td></tr><tr><td>Junior</td><td>BB_cp_FOL_DAI</td><td><a href="https://etherscan.io/address/0xCb980b5A4f5BdB81d0B4b97A9eDe64578ba9D48A">0xCb980b5A4f5BdB81d0B4b97A9eDe64578ba9D48A</a></td></tr></tbody></table>
 
 ## Polygon
 
 ### Yield Tranches
 
-| Contract          | Address                                                                                                               |
-| ----------------- | --------------------------------------------------------------------------------------------------------------------- |
-| Idle CDO registry | [0x84FDeE80F18957A041354E99C7eB407467D94d8E](https://etherscan.io/address/0x84FDeE80F18957A041354E99C7eB407467D94d8E) |
+<table><thead><tr><th width="299.50164149548493">Contract</th><th>Address</th></tr></thead><tbody><tr><td>Idle CDO registry</td><td><a href="https://etherscan.io/address/0x84FDeE80F18957A041354E99C7eB407467D94d8E">0x84FDeE80F18957A041354E99C7eB407467D94d8E</a></td></tr></tbody></table>
 
 ### Deprecated strategies
 
-| Contract                         | Address                                                                                                                  |
-| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| Quickswap idleCSUNI-V2 AA/BB YTs | [0xB144eE58679e15f1b25A5F6EfcEBDd0AB8c8BEF5](https://polygonscan.com/address/0xb144ee58679e15f1b25a5f6efcebdd0ab8c8bef5) |
+<table><thead><tr><th width="301">Contract</th><th>Address</th></tr></thead><tbody><tr><td>Quickswap idleCSUNI-V2 AA/BB YTs</td><td><a href="https://polygonscan.com/address/0xb144ee58679e15f1b25a5f6efcebdd0ab8c8bef5">0xB144eE58679e15f1b25A5F6EfcEBDd0AB8c8BEF5</a></td></tr></tbody></table>

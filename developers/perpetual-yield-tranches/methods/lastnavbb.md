@@ -15,6 +15,4 @@ function lastNAVBB(
 
 ### Return values
 
-| Value  | Description                                             |
-| ------ | ------------------------------------------------------- |
-| `_val` | last saved net asset value (in `token`) for BB tranches |
+<table><thead><tr><th width="276">Value</th><th>Description</th></tr></thead><tbody><tr><td><code>_val</code></td><td>last saved net asset value (in <code>token</code>) for BB tranches</td></tr></tbody></table>

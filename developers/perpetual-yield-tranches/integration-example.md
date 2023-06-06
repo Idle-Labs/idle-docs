@@ -24,4 +24,4 @@ An example of a Routing contract used by ShapeShift to integrate Best Yield and 
 
 ### Integration Partners program
 
-Protocols deploying funds into the Yield Tranches are eligible to join the [Integration Partners program](../../products/integration-partners-program/).
+Protocols deploying funds into the Yield Tranches are eligible to join the [Integration Partners program](../../products/get-involved/integrators-program.md).

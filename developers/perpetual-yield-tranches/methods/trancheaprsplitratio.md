@@ -15,6 +15,4 @@ function trancheAPRSplitRatio(
 
 ### Return values
 
-| Value  | Description                                                                        |
-| ------ | ---------------------------------------------------------------------------------- |
-| `_val` | Percentage of interest that will go to AA tranche holders (where 100% is `100000`) |
+<table><thead><tr><th width="276">Value</th><th>Description</th></tr></thead><tbody><tr><td><code>_val</code></td><td>Percentage of interest that will go to AA tranche holders (where 100% is <code>100000</code>)</td></tr></tbody></table>

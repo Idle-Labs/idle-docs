@@ -15,6 +15,4 @@ function strategy(
 
 ### Return values
 
-| Value  | Description                                 |
-| ------ | ------------------------------------------- |
-| `_val` | Address of the strategy used to lend funds. |
+<table><thead><tr><th width="270">Value</th><th>Description</th></tr></thead><tbody><tr><td><code>_val</code></td><td>Address of the strategy used to lend funds.</td></tr></tbody></table>

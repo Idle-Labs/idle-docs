@@ -16,12 +16,8 @@ function tranchePrice(
 
 ### Parameters
 
-| Parameter  | Description     |
-| ---------- | --------------- |
-| `_tranche` | Tranche address |
+<table><thead><tr><th width="264">Parameter</th><th>Description</th></tr></thead><tbody><tr><td><code>_tranche</code></td><td>Tranche address</td></tr></tbody></table>
 
 ### Return values
 
-| Value           | Description                                                                                                                                                                    |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| `_tranchePrice` | <p>Last saved tranche price. </p><p>This price gets updated right before each deposit and redeems call in order to split the interest accrued since the last interaction. </p> |
+<table><thead><tr><th width="266">Value</th><th>Description</th></tr></thead><tbody><tr><td><code>_tranchePrice</code></td><td><p>Last saved tranche price. </p><p>This price gets updated right before each deposit and redeems call in order to split the interest accrued since the last interaction. </p></td></tr></tbody></table>

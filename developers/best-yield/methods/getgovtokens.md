@@ -15,6 +15,4 @@ function getGovTokens(
 
 ### Return values
 
-| Value     | Description                            |
-| --------- | -------------------------------------- |
-| `address` | An array of governance token addresses |
+<table><thead><tr><th width="289">Value</th><th>Description</th></tr></thead><tbody><tr><td><code>address</code></td><td>An array of governance token addresses</td></tr></tbody></table>

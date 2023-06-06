@@ -15,6 +15,4 @@ function getCurrentAARatio(
 
 ### Return values
 
-| Value  | Description                    |
-| ------ | ------------------------------ |
-| `_val` | Current AA tranche split ratio |
+<table><thead><tr><th width="258">Value</th><th>Description</th></tr></thead><tbody><tr><td><code>_val</code></td><td>Current AA tranche split ratio</td></tr></tbody></table>

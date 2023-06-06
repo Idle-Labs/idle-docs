@@ -16,12 +16,8 @@ function getApr(
 
 ### Parameters
 
-| Parameter  | Description                    |
-| ---------- | ------------------------------ |
-| `_tranche` | AA or BB Tranche token address |
+<table><thead><tr><th width="276">Parameter</th><th>Description</th></tr></thead><tbody><tr><td><code>_tranche</code></td><td>AA or BB Tranche token address</td></tr></tbody></table>
 
 ### Return values
 
-| Value  | Description                  |
-| ------ | ---------------------------- |
-| `_val` | APR for the specific tranche |
+<table><thead><tr><th width="278">Value</th><th>Description</th></tr></thead><tbody><tr><td><code>_val</code></td><td>APR for the specific tranche</td></tr></tbody></table>
