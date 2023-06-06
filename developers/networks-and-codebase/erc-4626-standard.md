@@ -30,4 +30,4 @@ All ERC-4626 tokenized Vaults must implement ERC-20’s optional metadata extens
 
 All deployed Best Yield strategies ERC-4626 wrappers can be found [here](../best-yield/deployed-contracts.md#erc-4626-wrappers-for-best-yield-tokens).
 
-All deployed Yield Tranches ERC-4626 wrappers can be found [here.](../perpetual-yield-tranches/deployed-contracts.md#erc-4626-wrappers-for-tranche-tokens)
+All deployed Yield Tranches ERC-4626 wrappers can be found [here.](../yield-tranches/deployed-contracts.md#erc-4626-wrappers-for-tranche-tokens)

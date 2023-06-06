@@ -17,7 +17,7 @@ All admin powers have been transferred to $IDLE holders, allowing the community 
 {% hint style="warning" %}
 The ability to pause deposit and rebalance actions are still in place for security purposes in case of emergencies and are maintained by the Guardian multi-sig. The `guardian` can be changed at any time by the governance with a proposal.
 
-The Security Management Policy for the protocol is further explained [here for BY](../../developers/best-yield/security-management-policy.md) and [here for PYT](../../developers/perpetual-yield-tranches/security-management-policy.md).
+The Security Management Policy for the protocol is further explained [here for BY](../../developers/best-yield/security-management-policy.md) and [here for PYT](../../developers/yield-tranches/security-management-policy.md).
 {% endhint %}
 
 In early 2021, Idle DAO decided to implement a [**Leagues (subDAOs) model**](idle-leagues/), as a solution to the scaling problems that DAOs face.&#x20;

@@ -15,7 +15,7 @@ The Idle protocol is governed and upgraded by $IDLE token-holders, using three d
 {% hint style="info" %}
 Together, these contracts allow the community to propose, vote and implement changes to the contracts owned by the _Timelock_. The ownership of _idleTokens_ from BY strategies, _idleCDO_ from PYTs, and the _IdleController_ contracts have been all transferred to the _Timelock_ contract.
 
-The _Timelock_ contract can modify system parameters, logic, and contracts in a 'time-delayed, opt-out' upgrade pattern, as reported here [\[1\]](../../developers/best-yield/security-management-policy.md), [\[2\]](../../developers/perpetual-yield-tranches/security-management-policy.md).
+The _Timelock_ contract can modify system parameters, logic, and contracts in a 'time-delayed, opt-out' upgrade pattern, as reported here [\[1\]](../../developers/best-yield/security-management-policy.md), [\[2\]](../../developers/yield-tranches/security-management-policy.md).
 {% endhint %}
 
 When a proposal is created, the community can submit their votes during a _3-day voting period_.\

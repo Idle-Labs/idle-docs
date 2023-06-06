@@ -30,11 +30,11 @@ With a focus on all the Idle smart contracts links on-chain.
 
 With a focus on the codebase behind the Best Yield protocol, such as [architecture](best-yield/architecture.md), [interface](best-yield/interface.md) and [methods](best-yield/methods/).
 
-{% content-ref url="perpetual-yield-tranches/" %}
-[perpetual-yield-tranches](perpetual-yield-tranches/)
+{% content-ref url="yield-tranches/" %}
+[yield-tranches](yield-tranches/)
 {% endcontent-ref %}
 
-With a focus on the codebase behind the Yield Tranches protocol, such as [architecture](best-yield/architecture.md), [interface](perpetual-yield-tranches/methods/) and [methods](perpetual-yield-tranches/methods/).
+With a focus on the codebase behind the Yield Tranches protocol, such as [architecture](best-yield/architecture.md), [interface](yield-tranches/methods/) and [methods](yield-tranches/methods/).
 
 {% content-ref url="security/" %}
 [security](security/)

@@ -58,7 +58,7 @@ Idle currently sets a 10% fee when deposited funds are withdrawn. For more infor
 
 <summary>What happens in the case of a default, hack to YTs funds?</summary>
 
-Read the[ YTs Edge Cases ](../developers/perpetual-yield-tranches/edge-cases.md)section to learn more about default or hack scenarios and how they would be managed.
+Read the[ YTs Edge Cases ](../developers/yield-tranches/edge-cases.md)section to learn more about default or hack scenarios and how they would be managed.
 
 </details>
 

@@ -67,9 +67,9 @@ As an integrator partner, the methods you should look for are
 
 #### **Yield Tranches**
 
-* [`depositAARef`](../../developers/perpetual-yield-tranches/methods/depositaaref.md) or [`depositBBRef`](../../developers/perpetual-yield-tranches/methods/depositbbref.md) methods depending on which side of the tranche you want to integrate, Senior (AA) or Junior (BB).&#x20;
+* [`depositAARef`](../../developers/yield-tranches/methods/depositaaref.md) or [`depositBBRef`](../../developers/yield-tranches/methods/depositbbref.md) methods depending on which side of the tranche you want to integrate, Senior (AA) or Junior (BB).&#x20;
 
-The Developers chapter under the [Best Yield](../../developers/best-yield/) and the [Yield Tranches](../../developers/perpetual-yield-tranches/) sections provides more technical and detailed information regarding the strategies.
+The Developers chapter under the [Best Yield](../../developers/best-yield/) and the [Yield Tranches](../../developers/yield-tranches/) sections provides more technical and detailed information regarding the strategies.
 
 </details>
 

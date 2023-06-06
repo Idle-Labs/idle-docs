@@ -18,10 +18,10 @@ Idle Leagues are looking forward to supporting your integration ideas.
 
 ## Technical documentation
 
-[Tranches documentation](../../developers/perpetual-yield-tranches/) in the [Developers](broken-reference) chapter is a valuable source of information to deepen the knowledge about PYT [architecture](../../developers/perpetual-yield-tranches/architecture.md), [interface and methods](../../developers/perpetual-yield-tranches/methods/), and more.
+[Tranches documentation](../../developers/yield-tranches/) in the [Developers](broken-reference) chapter is a valuable source of information to deepen the knowledge about PYT [architecture](../../developers/yield-tranches/architecture.md), [interface and methods](../../developers/yield-tranches/methods/), and more.
 
-{% content-ref url="../../developers/perpetual-yield-tranches/" %}
-[perpetual-yield-tranches](../../developers/perpetual-yield-tranches/)
+{% content-ref url="../../developers/yield-tranches/" %}
+[yield-tranches](../../developers/yield-tranches/)
 {% endcontent-ref %}
 
 

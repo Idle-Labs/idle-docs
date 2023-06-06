@@ -67,11 +67,11 @@ _Example_ `app.idle.finance/#/earn/protected-yield/0x3eb6318b8d9f362a0e1d99f6032
 
 #### **Yield Tranches**
 
-Please append your address in the Idle's pool URL as a referral during the deposit process `?_referral=ADDRESS`  or use the functions [`depositAARef`](../../developers/perpetual-yield-tranches/methods/depositaaref.md), [`depositBBRef`](../../developers/perpetual-yield-tranches/methods/depositbbref.md) depending on your interest in depositing into the Senior (AA) or the Junior (BB) side.&#x20;
+Please append your address in the Idle's pool URL as a referral during the deposit process `?_referral=ADDRESS`  or use the functions [`depositAARef`](../../developers/yield-tranches/methods/depositaaref.md), [`depositBBRef`](../../developers/yield-tranches/methods/depositbbref.md) depending on your interest in depositing into the Senior (AA) or the Junior (BB) side.&#x20;
 
 _Example_ `app.idle.finance/#/earn/protected-yield/0x3eb6318b8d9f362a0e1d99f6032edb1c4c602500?_referral=ADDRESS`
 
-The Developers chapter under the [Best Yield](../../developers/best-yield/) and the [Yield Tranches](../../developers/perpetual-yield-tranches/) sections provides more technical and detailed information regarding the strategies.
+The Developers chapter under the [Best Yield](../../developers/best-yield/) and the [Yield Tranches](../../developers/yield-tranches/) sections provides more technical and detailed information regarding the strategies.
 
 </details>
 
