@@ -6,7 +6,7 @@ description: Products > Institutions program
 
 <figure><img src="../../.gitbook/assets/Institutional.png" alt=""><figcaption></figcaption></figure>
 
-The **Institutions program** is suited for liquidity providers that deposit in size, i.e. >$500k, into Idle's strategies. Any depositor that embeds his wallet address can earn up to a 50% profit share from the contributed TVL.
+The **Institutions program** is suited for liquidity providers that deposit in size, i.e. >$500k, into Idle's strategies. Any depositors that embed their wallet address can earn up to a <mark style="color:blue;">**50% profit share**</mark> from the contributed TVL.
 
 {% hint style="info" %}
 If you are interested in leveraging this program, we’d love to hear from you! \
@@ -20,6 +20,12 @@ Best Yield strategies and Yield Tranches are deployed on the Ethereum and the Po
 The [Treasury League](../../governance/idle-dao/idle-leagues/treasury-league.md) periodically executes reward transfers, which will then be replaced by an automated on-chain fee-sharing mechanism.
 
 {% tabs %}
+{% tab title="Tiers" %}
+These nine tiers of fee sharing apply to both the Ethereum and the Polygon Integration Partners programs.
+
+<table><thead><tr><th data-type="number">Tier</th><th align="right">Partner's TVL</th><th align="right">Fee share</th></tr></thead><tbody><tr><td>1</td><td align="right">$1 - 5m</td><td align="right">10%</td></tr><tr><td>2</td><td align="right">$5 - 10m</td><td align="right">15%</td></tr><tr><td>3</td><td align="right">$10 - 50m</td><td align="right">20%</td></tr><tr><td>4</td><td align="right">$50 - 100m</td><td align="right">25%</td></tr><tr><td>5</td><td align="right">$100 - 200m</td><td align="right">30%</td></tr><tr><td>6</td><td align="right">$200 - 400m</td><td align="right">35%</td></tr><tr><td>7</td><td align="right">$400 - 700m</td><td align="right">40%</td></tr><tr><td>8</td><td align="right">$700m - 1b</td><td align="right">45%</td></tr><tr><td>9</td><td align="right">> $1b</td><td align="right">50%</td></tr></tbody></table>
+{% endtab %}
+
 {% tab title="Ethereum program" %}
 The Ethereum program distributes the rewards on a monthly basis through a [vesting contract](https://legacy.idle.finance/#/tools/b2b-vesting-contract) available under the [Tool section of the legacy app](https://legacy.idle.finance/#/tools/b2b-vesting-contract). Tokens are vested on a linear basis over a 3-month period.&#x20;
 
@@ -47,12 +53,6 @@ Integrators can use the following Dune dashboards to track the rewards of the pr
 
 {% embed url="https://dune.com/idle.finance/integration-partners-program-polygon" %}
 {% endtab %}
-
-{% tab title="Tiers" %}
-These nine tiers of fee sharing apply to both the Ethereum and the Polygon Integration Partners programs.
-
-<table><thead><tr><th data-type="number">Tier</th><th align="right">Partner's TVL</th><th align="right">Fee share</th></tr></thead><tbody><tr><td>1</td><td align="right">$1 - 5m</td><td align="right">10%</td></tr><tr><td>2</td><td align="right">$5 - 10m</td><td align="right">15%</td></tr><tr><td>3</td><td align="right">$10 - 50m</td><td align="right">20%</td></tr><tr><td>4</td><td align="right">$50 - 100m</td><td align="right">25%</td></tr><tr><td>5</td><td align="right">$100 - 200m</td><td align="right">30%</td></tr><tr><td>6</td><td align="right">$200 - 400m</td><td align="right">35%</td></tr><tr><td>7</td><td align="right">$400 - 700m</td><td align="right">40%</td></tr><tr><td>8</td><td align="right">$700m - 1b</td><td align="right">45%</td></tr><tr><td>9</td><td align="right">> $1b</td><td align="right">50%</td></tr></tbody></table>
-{% endtab %}
 {% endtabs %}
 
 <details>
@@ -71,7 +71,7 @@ Please append your address in the Idle's pool URL as a referral during the depos
 
 _Example_ `app.idle.finance/#/earn/protected-yield/0x3eb6318b8d9f362a0e1d99f6032edb1c4c602500?_referral=ADDRESS`
 
-The Developers chapter under the [Best Yield](../../developers/best-yield/) and the [Yield Tranches](../../developers/yield-tranches/) sections provides more technical and detailed information regarding the strategies.
+The [Best Yield](../../developers/best-yield/) and the [Yield Tranches](../../developers/yield-tranches/) sections under the Developers chapter provide more technical and detailed information regarding the strategies.
 
 </details>
 

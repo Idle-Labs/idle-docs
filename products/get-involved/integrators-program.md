@@ -6,7 +6,7 @@ description: Products > Integrators program
 
 <figure><img src="../../.gitbook/assets/Integrators.png" alt=""><figcaption></figcaption></figure>
 
-The **Integrators program** allows DeFi protocols to efficiently integrate the Idle product suite into their own services and workflow. Any partner that integrates Idle products can earn up to a 50% profit share from the contributed TVL originating from dApps, wallets, or payment gateways.
+The **Integrators program** allows DeFi protocols to efficiently integrate the Idle product suite into their own services and workflow. Any partners that integrate Idle products can earn up to a <mark style="color:blue;">**50% profit share**</mark> from the contributed TVL originating from dApps, wallets, or payment gateways.
 
 {% hint style="info" %}
 If you are interested in partnering with us, we’d love to hear from you! \
@@ -20,6 +20,12 @@ Best Yield strategies and Yield Tranches are deployed on the Ethereum and on the
 The [Treasury League](../../governance/idle-dao/idle-leagues/treasury-league.md) periodically execute reward transfers, which will then be replaced by an automated on-chain fee-sharing mechanism.
 
 {% tabs %}
+{% tab title="Tiers" %}
+These nine tiers of fee sharing apply to both the Ethereum and the Polygon Integration Partners programs.
+
+<table><thead><tr><th data-type="number">Tier</th><th align="right">Partner's TVL</th><th align="right">Fee share</th></tr></thead><tbody><tr><td>1</td><td align="right">$1 - 5m</td><td align="right">10%</td></tr><tr><td>2</td><td align="right">$5 - 10m</td><td align="right">15%</td></tr><tr><td>3</td><td align="right">$10 - 50m</td><td align="right">20%</td></tr><tr><td>4</td><td align="right">$50 - 100m</td><td align="right">25%</td></tr><tr><td>5</td><td align="right">$100 - 200m</td><td align="right">30%</td></tr><tr><td>6</td><td align="right">$200 - 400m</td><td align="right">35%</td></tr><tr><td>7</td><td align="right">$400 - 700m</td><td align="right">40%</td></tr><tr><td>8</td><td align="right">$700m - 1b</td><td align="right">45%</td></tr><tr><td>9</td><td align="right">> $1b</td><td align="right">50%</td></tr></tbody></table>
+{% endtab %}
+
 {% tab title="Ethereum program" %}
 The Ethereum program distributes the rewards on a monthly basis through a [vesting contract](https://legacy.idle.finance/#/tools/b2b-vesting-contract) available under the [Tool section of the legacy app](https://legacy.idle.finance/#/tools/b2b-vesting-contract). Tokens are vested on a linear basis over a 3-month period.&#x20;
 
@@ -47,12 +53,6 @@ Integrators can use the following Dune dashboards to track the rewards of the pr
 
 {% embed url="https://dune.com/idle.finance/integration-partners-program-polygon" %}
 {% endtab %}
-
-{% tab title="Tiers" %}
-These nine tiers of fee sharing apply to both the Ethereum and the Polygon Integration Partners programs.
-
-<table><thead><tr><th data-type="number">Tier</th><th align="right">Partner's TVL</th><th align="right">Fee share</th></tr></thead><tbody><tr><td>1</td><td align="right">$1 - 5m</td><td align="right">10%</td></tr><tr><td>2</td><td align="right">$5 - 10m</td><td align="right">15%</td></tr><tr><td>3</td><td align="right">$10 - 50m</td><td align="right">20%</td></tr><tr><td>4</td><td align="right">$50 - 100m</td><td align="right">25%</td></tr><tr><td>5</td><td align="right">$100 - 200m</td><td align="right">30%</td></tr><tr><td>6</td><td align="right">$200 - 400m</td><td align="right">35%</td></tr><tr><td>7</td><td align="right">$400 - 700m</td><td align="right">40%</td></tr><tr><td>8</td><td align="right">$700m - 1b</td><td align="right">45%</td></tr><tr><td>9</td><td align="right">> $1b</td><td align="right">50%</td></tr></tbody></table>
-{% endtab %}
 {% endtabs %}
 
 <details>
@@ -69,7 +69,7 @@ As an integrator partner, the methods you should look for are
 
 * [`depositAARef`](../../developers/yield-tranches/methods/depositaaref.md) or [`depositBBRef`](../../developers/yield-tranches/methods/depositbbref.md) methods depending on which side of the tranche you want to integrate, Senior (AA) or Junior (BB).&#x20;
 
-The Developers chapter under the [Best Yield](../../developers/best-yield/) and the [Yield Tranches](../../developers/yield-tranches/) sections provides more technical and detailed information regarding the strategies.
+The [Best Yield](../../developers/best-yield/) and the [Yield Tranches](../../developers/yield-tranches/) sections under the Developers chapter provide more technical and detailed information regarding the strategies.
 
 </details>
 
@@ -100,6 +100,7 @@ A list of current on-top integrators follows.
 * [Enzyme](https://enzyme.finance/)
 * [Yearn](https://yearn.finance/)
 * [Harvest](https://harvest.finance/)
+* [Balancer](https://balancer.fi/)
 
 **Yield Tranches**
 
