@@ -76,7 +76,7 @@ Address: [`0xFb3bD022D5DAcF95eE28a6B07825D4Ff9C5b3814`](https://etherscan.io/add
 
 Owner: Leagues members (3 signatures out of 6)
 
-Description: multisig wallet owning liquidity to fund Leagues contributors' rewards and operational expenses on Ethereum
+Description: multisig wallet owning liquidity to fund Leagues contributors' rewards and operational expenses on Ethereum. Used to collect fees of strategies in beta.&#x20;
 
 </details>
 
@@ -103,5 +103,19 @@ Address: [`0x61A944Ca131Ab78B23c8449e0A2eF935981D5cF6`](https://polygonscan.com/
 Owner: Leagues members (4 signatures out of 11)
 
 Description: wallet owning liquidity to fund Leagues contributors' rewards and operational expenses on Polygon.
+
+</details>
+
+#### Polygon zkEVM
+
+<details>
+
+<summary>Treasury League multisig</summary>
+
+Address: [`0x13854835c508FC79C3E5C5Abf7afa54b4CcC1Fdf`](https://zkevm.polygonscan.com/address/0x13854835c508FC79C3E5C5Abf7afa54b4CcC1Fdf)
+
+Owner: Leagues members (3 signatures out of 5)
+
+Description: wallet owning liquidity to fund operational expenses on Polygon. It is used also to collect the fees from the strategies deployed on the chain.&#x20;
 
 </details>
