@@ -81,8 +81,20 @@ The [Best Yield](../../developers/best-yield/) and the [Yield Tranches](../../de
 
 Idle is a battle-tested protocol since 2019 with a strong focus on protocol safety and the continuous development of its products suite.
 
-* Overperforming yields for a suite of assets
-* High-security standards
+**Best Yield**
+
+* Get access to a seamless yield generation from multiple underlying sources with just one deposit, on autopilot
+* Optimize capital allocation in the best-performing strategies
+* Deposit single-sided assets, with no impermanent loss
+* Save money, with Idle subsidizing rebalance's fees
+* Redeem funds anytime, as BYs have no locking periods or epochs
+
+**Yield Tranches**
+
+* Get access to risk-adjusted profiles benefitting from coverage features via Senior or boosted yields via Junior
+* Increase returns thanks to periodic compounding and avoid losing money during swaps due to sandwich attacks
+* Simplify taxation and asset reporting by managing only one LP token
+* Redeem funds anytime, as YTs have no locking periods or epochs
 
 </details>
 

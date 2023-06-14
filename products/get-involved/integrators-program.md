@@ -79,10 +79,20 @@ The [Best Yield](../../developers/best-yield/) and the [Yield Tranches](../../de
 
 Idle is a battle-tested protocol since 2019 with a strong focus on protocol safety and the continuous development of its products suite. Starting a partnership with Idle would bring to the partner value, a solid reputation from the DeFi industry and would open the door to effortless financial autonomy opportunities.
 
-* Competitive yields for a suite of assets
-* High-security standards
-* Reduced implementation costs
-* ERC-4626 strategies to ease integration effort
+**Best Yield**
+
+* Get access to a seamless yield generation from multiple underlying sources with just one integration
+* Optimize capital allocation in the best-performing strategies
+* Deposit single-sided assets, with no impermanent loss
+* Save money, with Idle subsidizing rebalance's fees
+* Save time, with Idle taking care of underlying codebase upgrades
+
+**Yield Tranches**
+
+* Get access to risk-adjusted profiles to accommodate a wider audience, introducing coverage features and yield boosts
+* Simplify integration, as Idle strategies are compatible with the ERC-4626 standard
+* Increase returns thanks to periodic compounding
+* Do not lock your users' funds, as YTs have no locking periods or epochs
 
 </details>
 
