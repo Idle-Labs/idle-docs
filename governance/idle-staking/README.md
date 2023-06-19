@@ -6,12 +6,8 @@ description: Governance > $IDLE staking
 
 Staking allows users to lock their $IDLE for a flexible period (up to 4 years) in return for a series of benefits. The contracts for IDLE staking are based on the [Curve VotingEscrow contracts](https://curve.readthedocs.io/), decided via [community vote](./#undefined).&#x20;
 
-sktIDLE holders have access to:
-
-* [Buybacks distribution](buybacks.md)
-
 {% hint style="info" %}
-The [Gauges voting](gauges/) and the [Liquidity providers' rewards boost](boost.md) are currently paused after [IIP-31](https://gov.idle.finance/t/iip-31-idle-incentives-distribution-update-euler-staking-pyts-as-new-yield-sources-for-by/1107/3).
+The [Gauges voting](gauges/) and the [Liquidity providers' rewards boost](boost.md) are currently paused after [IIP-31](https://gov.idle.finance/t/iip-31-idle-incentives-distribution-update-euler-staking-pyts-as-new-yield-sources-for-by/1107/3). The staking reward program for stkIDLE holders is paused following [IIP-36](https://gov.idle.finance/t/iip-36-update-best-yield-usdc-weth-yield-sources-and-pause-the-staking-rewards-for-idle-stakers/1171).
 {% endhint %}
 
 ### Lock details

@@ -28,40 +28,6 @@ The ABI of the Yield Tranches contract can be found here: [JSON](https://github.
 
 <table><thead><tr><th width="98.33333333333331">Side</th><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>lido_MATIC</td><td><a href="https://etherscan.io/address/0xF87ec7e1Ee467d7d78862089B92dd40497cBa5B8">0xF87ec7e1Ee467d7d78862089B92dd40497cBa5B8</a></td></tr><tr><td>Senior</td><td>AA_lido_stMATIC</td><td><a href="https://etherscan.io/address/0xAEf4FCC4E5F2dc270760063446d4116D24704Ad1">0xAEf4FCC4E5F2dc270760063446d4116D24704Ad1</a></td></tr><tr><td>Junior</td><td>BB_lido_stMATIC</td><td><a href="https://etherscan.io/address/0x077212c69A66261CF7bD1fd3b5C5db7CfFA948Ee">0x077212c69A66261CF7bD1fd3b5C5db7CfFA948Ee</a></td></tr></tbody></table>
 
-### Euler
-
-**DAI**
-
-<table><thead><tr><th width="98.33333333333331">Side</th><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>euler_eDAI</td><td><a href="https://etherscan.io/address/0x46c1f702A6aAD1Fd810216A5fF15aaB1C62ca826">0x46c1f702A6aAD1Fd810216A5fF15aaB1C62ca826</a></td></tr><tr><td>Senior</td><td>AA_euler_eDAI</td><td><a href="https://etherscan.io/address/0x852c4d2823e98930388b5ce1ed106310b942bd5a">0x852c4d2823e98930388b5ce1ed106310b942bd5a</a></td></tr><tr><td>Junior</td><td>BB_euler_eDAI</td><td><a href="https://etherscan.io/address/0x6629baa8c7c6a84290bf9a885825e3540875219d">0x6629baa8c7c6a84290bf9a885825e3540875219d</a></td></tr></tbody></table>
-
-**USDC**
-
-<table><thead><tr><th width="98.33333333333331">Side</th><th width="200">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>euler_eUSDC</td><td><a href="https://etherscan.io/address/0xF5a3d259bFE7288284Bd41823eC5C8327a314054">0xF5a3d259bFE7288284Bd41823eC5C8327a314054</a></td></tr><tr><td>Senior</td><td>AA_euler_eUSDC</td><td><a href="https://etherscan.io/address/0x1e095cbf663491f15cc1bdb5919e701b27dde90c">0x1e095cbf663491f15cc1bdb5919e701b27dde90c</a></td></tr><tr><td>Junior</td><td>BB_euler_eUSDC</td><td><a href="https://etherscan.io/address/0xe11679cdb4587fee907d69e9ec4a7d3f0c2bcf3b">0xe11679cdb4587fee907d69e9ec4a7d3f0c2bcf3b</a></td></tr></tbody></table>
-
-**USDT**
-
-<table><thead><tr><th width="97.33333333333331">Side</th><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>euler_eUSDT</td><td><a href="https://etherscan.io/address/0xD5469DF8CA36E7EaeDB35D428F28E13380eC8ede">0xD5469DF8CA36E7EaeDB35D428F28E13380eC8ede</a></td></tr><tr><td>Senior</td><td>AA_euler_eUSDT</td><td><a href="https://etherscan.io/address/0xe0f126236d2a5b13f26e72cbb1d1ff5f297dda07">0xe0f126236d2a5b13f26e72cbb1d1ff5f297dda07</a></td></tr><tr><td>Junior</td><td>BB_euler_eUSDT</td><td><a href="https://etherscan.io/address/0xb1ec065abf6783bcce003b8d6b9f947129504854">0xb1ec065abf6783bcce003b8d6b9f947129504854</a></td></tr></tbody></table>
-
-**agEUR**
-
-<table><thead><tr><th width="97.33333333333331">Side</th><th width="199">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>euler_eagEUR</td><td><a href="https://etherscan.io/address/0x2398Bc075fa62Ee88d7fAb6A18Cd30bFf869bDa4">0x2398Bc075fa62Ee88d7fAb6A18Cd30bFf869bDa4</a></td></tr><tr><td>Senior</td><td>AA_euler_eagEUR</td><td><a href="https://etherscan.io/address/0x624dfe05202b66d871b8b7c0e14ab29fc3a5120c">0x624dfe05202b66d871b8b7c0e14ab29fc3a5120c</a></td></tr><tr><td>Junior</td><td>BB_euler_eagEUR</td><td><a href="https://etherscan.io/address/0xcf5fd05f72ca777d71fb3e38f296aad7ce735cb7">0xcf5fd05f72ca777d71fb3e38f296aad7ce735cb7</a></td></tr></tbody></table>
-
-**DAI staking**
-
-<table><thead><tr><th width="98.33333333333331">Side</th><th width="200">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>euler_eDAI_stk</td><td><a href="https://etherscan.io/address/0x264E1552Ee99f57a7D9E1bD1130a478266870C39">0x264E1552Ee99f57a7D9E1bD1130a478266870C39</a></td></tr><tr><td>Senior</td><td>AA_euler_eDAI_stk</td><td><a href="https://etherscan.io/address/0x62Eb6a8c7A555eae3e0B17D42CA9A3299af2787E">0x62Eb6a8c7A555eae3e0B17D42CA9A3299af2787E</a></td></tr><tr><td>Junior</td><td>BB_euler_eDAI_stk</td><td><a href="https://etherscan.io/address/0x56263BDE26b72b3e3D26d8e03399a275Aa8Bbfb2">0x56263BDE26b72b3e3D26d8e03399a275Aa8Bbfb2</a></td></tr></tbody></table>
-
-**USDC staking**
-
-<table><thead><tr><th width="98.33333333333331">Side</th><th width="200">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>euler_eUSDC_stk</td><td><a href="https://etherscan.io/address/0xf615a552c000B114DdAa09636BBF4205De49333c">0xf615a552c000B114DdAa09636BBF4205De49333c</a></td></tr><tr><td>Senior</td><td>AA_euler_eUSDC_stk</td><td><a href="https://etherscan.io/address/0x1AF0294524093BFdF5DA5135853dC2fC678C12f7">0x1AF0294524093BFdF5DA5135853dC2fC678C12f7</a></td></tr><tr><td>Junior</td><td>BB_euler_eUSDC_stk</td><td><a href="https://etherscan.io/address/0x271db794317B44827EfE81DeC6193fFc277050F6">0x271db794317B44827EfE81DeC6193fFc277050F6</a></td></tr></tbody></table>
-
-**USDT staking**
-
-<table><thead><tr><th width="97.33333333333331">Side</th><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>euler_eUSDT_stk</td><td><a href="https://etherscan.io/address/0x860B1d25903DbDFFEC579d30012dA268aEB0d621">0x860B1d25903DbDFFEC579d30012dA268aEB0d621</a></td></tr><tr><td>Senior</td><td>AA_euler_eUSDT_stk</td><td><a href="https://etherscan.io/address/0x6796FCd41e4fb26855Bb9BDD7Cad41128Da1Fd59">0x6796FCd41e4fb26855Bb9BDD7Cad41128Da1Fd59</a></td></tr><tr><td>Junior</td><td>BB_euler_eUSDT_stk</td><td><a href="https://etherscan.io/address/0x00B80FCCA0fE4fDc3940295AA213738435B0f94e">0x00B80FCCA0fE4fDc3940295AA213738435B0f94e</a></td></tr></tbody></table>
-
-**WETH staking**
-
-<table><thead><tr><th width="97.33333333333331">Side</th><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>euler_eWETH_stk</td><td><a href="https://etherscan.io/address/0xec964d06cD71a68531fC9D083a142C48441F391C">0xec964d06cD71a68531fC9D083a142C48441F391C</a></td></tr><tr><td>Senior</td><td>AA_euler_eWETH_stk</td><td><a href="https://etherscan.io/address/0x2B7Da260F101Fb259710c0a4f2EfEf59f41C0810">0x2B7Da260F101Fb259710c0a4f2EfEf59f41C0810</a></td></tr><tr><td>Junior</td><td>BB_euler_eWETH_stk</td><td><a href="https://etherscan.io/address/0x2e80225f383F858E8737199D3496c5Cf827670a5">0x2e80225f383F858E8737199D3496c5Cf827670a5</a></td></tr></tbody></table>
-
 ### Morpho
 
 **DAI (Aave)**
@@ -106,58 +72,6 @@ Integrators that need other ERC-4626 wrappers can get in contact with the [Devel
 
 <table><thead><tr><th width="96.33333333333331">Side</th><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>Senior</td><td>AA_cp_POR_DAI_w</td><td><a href="https://etherscan.io/address/0x79c4fe26f3b2809fd29ec8588242036b8136f32d">0x79c4fE26f3b2809fD29Ec8588242036b8136f32D</a></td></tr><tr><td>Junior</td><td>BB_cp_POR_DAI_w</td><td><a href="https://etherscan.io/address/0xa9f908da2e3ec7475a743e97bb5b06081b688ae4">0xA9F908DA2E3Ec7475a743e97Bb5B06081B688aE4</a></td></tr><tr><td>Senior</td><td>AA_cp_POR_USDC_w</td><td><a href="https://etherscan.io/address/0x291eecab3a2d3f403745968c14edbb227d183636">0x291eEcab3a2d3f403745968C14edBB227d183636</a></td></tr><tr><td>Junior</td><td>BB_cp_POR_USDC_w</td><td><a href="https://etherscan.io/address/0xa35b7a9fe5dc4cd51ba47acdf67b0f41c893329a">0xa35B7A9fe5DC4cD51bA47ACdf67B0f41c893329A</a></td></tr><tr><td>Senior</td><td>AA_cp_FAS_USDC_w</td><td><a href="https://etherscan.io/address/0x3E9A5c91eC8b5022E88d1C2599fE3CD98406D898">0x3E9A5c91eC8b5022E88d1C2599fE3CD98406D898</a></td></tr><tr><td>Junior</td><td>BB_cp_FAS_USDC_w</td><td><a href="https://etherscan.io/address/0xC72e841B460Ec6D3e969e5C457A1961463e12e00">0xC72e841B460Ec6D3e969e5C457A1961463e12e00</a></td></tr><tr><td>Senior</td><td>AA_cp_FAS_USDT_w</td><td><a href="https://etherscan.io/address/0xcf96f4b91c6d424fb34aa9a33855b5c8ed1fe66d">0xcf96f4b91c6d424fb34aa9a33855b5c8ed1fe66d</a></td></tr><tr><td>Junior</td><td>BB_cp_FAS_USDT_w</td><td><a href="https://etherscan.io/address/0x28bc4d9ad73a761049c773038c344f54d906b152">0x28bC4D9aD73A761049c773038c344F54D906B152</a></td></tr><tr><td>Junior</td><td>BB_lido_stETH_w</td><td><a href="https://etherscan.io/address/0x79F05f75df6c156B2B98aC1FBfb3637fc1e6f048">0x79F05f75df6c156B2B98aC1FBfb3637fc1e6f048</a></td></tr></tbody></table>
 
-### Deprecated strategies
-
-### Idle
-
-**DAI**
-
-<table><thead><tr><th width="98.33333333333331">Side</th><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>idle_DAIYield</td><td><a href="https://etherscan.io/address/0xd0DbcD556cA22d3f3c142e9a3220053FD7a247BC">0xd0DbcD556cA22d3f3c142e9a3220053FD7a247BC</a></td></tr><tr><td>Senior</td><td>AA_idle_DAIYield</td><td><a href="https://etherscan.io/address/0xE9ada97bDB86d827ecbaACCa63eBcD8201D8b12E">0xE9ada97bDB86d827ecbaACCa63eBcD8201D8b12E</a></td></tr><tr><td>Junior</td><td>BB_idle_DAIYield</td><td><a href="https://etherscan.io/address/0x730348a54bA58F64295154F0662A08Cbde1225c2">0x730348a54bA58F64295154F0662A08Cbde1225c2</a></td></tr></tbody></table>
-
-**FEI**
-
-<table><thead><tr><th width="98.33333333333331">Side</th><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>idle_FEIYield</td><td><a href="https://etherscan.io/address/0x77648a2661687ef3b05214d824503f6717311596">0x77648a2661687ef3b05214d824503f6717311596</a></td></tr><tr><td>Senior</td><td>AA_idle_FEIYield</td><td><a href="https://etherscan.io/address/0x9cE3a740Df498646939BcBb213A66BBFa1440af6">0x9cE3a740Df498646939BcBb213A66BBFa1440af6</a></td></tr><tr><td>Junior</td><td>BB_idle_FEIYield</td><td><a href="deployed-contracts.md#ethereum">0x2490D810BF6429264397Ba721A488b0C439aA745</a></td></tr></tbody></table>
-
-### Convex
-
-**FRAX-3Crv**
-
-<table><thead><tr><th width="98.33333333333331">Side</th><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>convex_frax3Crv</td><td><a href="https://etherscan.io/address/0x4CCaf1392a17203eDAb55a1F2aF3079A8Ac513E7">0x4CCaf1392a17203eDAb55a1F2aF3079A8Ac513E7</a></td></tr><tr><td>Senior</td><td>AA_convex_frax3Crv</td><td><a href="https://etherscan.io/address/0x15794da4dcf34e674c18bbfaf4a67ff6189690f5">0x15794da4dcf34e674c18bbfaf4a67ff6189690f5</a></td></tr><tr><td>Junior</td><td>BB_convex_frax3Crv</td><td><a href="https://etherscan.io/address/0x18cf59480d8c16856701f66028444546b7041307">0x18cf59480d8c16856701f66028444546b7041307</a></td></tr></tbody></table>
-
-**ste-3Crv**
-
-<table><thead><tr><th width="98.33333333333331">Side</th><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>convex_steCRV</td><td><a href="https://etherscan.io/address/0x7EcFC031758190eb1cb303D8238D553b1D4Bc8ef">0x7EcFC031758190eb1cb303D8238D553b1D4Bc8ef</a></td></tr><tr><td>Senior</td><td>AA_convex_steCRV</td><td><a href="https://etherscan.io/address/0x060a53bcfdc0452f35ebd2196c6914e0152379a6">0x060a53bcfdc0452f35ebd2196c6914e0152379a6</a></td></tr><tr><td>Junior</td><td>BB_convex_steCRV</td><td><a href="https://etherscan.io/address/0xd83246d2bcbc00e85e248a6e9aa35d0a1548968e">0xd83246d2bcbc00e85e248a6e9aa35d0a1548968e</a></td></tr></tbody></table>
-
-**alUSD-3Crv**
-
-<table><thead><tr><th width="98.33333333333331">Side</th><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>convex_alusd3crv</td><td><a href="https://etherscan.io/address/0x008C589c471fd0a13ac2B9338B69f5F7a1A843e1">0x008C589c471fd0a13ac2B9338B69f5F7a1A843e1</a></td></tr><tr><td>Senior</td><td>AA_convex_alusd3crv</td><td><a href="https://etherscan.io/address/0x790e38d85a364dd03f682f5ecdc88f8ff7299908">0x790e38d85a364dd03f682f5ecdc88f8ff7299908</a></td></tr><tr><td>Junior</td><td>BB_convex_alusd3crv</td><td><a href="https://etherscan.io/address/0xa0e8c9088afb3fa0f40ecdf8b551071c34aa1aa4">0xa0e8c9088afb3fa0f40ecdf8b551071c34aa1aa4</a></td></tr></tbody></table>
-
-**3EUR**
-
-<table><thead><tr><th width="98.33333333333331">Side</th><th width="199">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>convex_3eur</td><td><a href="https://etherscan.io/address/0x858F5A3a5C767F8965cF7b77C51FD178C4A92F05">0x858F5A3a5C767F8965cF7b77C51FD178C4A92F05</a></td></tr><tr><td>Senior</td><td>AA_convex_3eur</td><td><a href="https://etherscan.io/address/0x158e04225777bbea34d2762b5df9ebd695c158d2">0x158e04225777bbea34d2762b5df9ebd695c158d2</a></td></tr><tr><td>Junior</td><td>BB_convex_3eur</td><td><a href="https://etherscan.io/address/0x3061c652b49ae901bbecf622624cc9f633d01bbd">0x3061c652b49ae901bbecf622624cc9f633d01bbd</a></td></tr></tbody></table>
-
-**pBTC-Crv**
-
-<table><thead><tr><th width="99.33333333333331">Side</th><th width="197">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>convex_pbtccrv</td><td><a href="https://etherscan.io/address/0xf324Dca1Dc621FCF118690a9c6baE40fbD8f09b7">0xf324Dca1Dc621FCF118690a9c6baE40fbD8f09b7</a></td></tr><tr><td>Senior</td><td>AA_convex_pbtccrv</td><td><a href="https://etherscan.io/address/0x4657b96d587c4d46666c244b40216beeea437d0d">0x4657b96d587c4d46666c244b40216beeea437d0d</a></td></tr><tr><td>Junior</td><td>BB_convex_pbtccrv</td><td><a href="https://etherscan.io/address/0x3872418402d1e967889ac609731fc9e11f438de5">0x3872418402d1e967889ac609731fc9e11f438de5</a></td></tr></tbody></table>
-
-**MIM-3Crv**
-
-<table><thead><tr><th width="98.33333333333331">Side</th><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>convex_mim3Crv</td><td><a href="https://etherscan.io/address/0x151e89e117728ac6c93aae94c621358b0ebd1866">0x151e89e117728ac6c93aae94c621358b0ebd1866</a></td></tr><tr><td>Senior</td><td>AA_convex_mim3Crv</td><td><a href="https://etherscan.io/address/0xFC96989b3Df087C96C806318436B16e44c697102">0xFC96989b3Df087C96C806318436B16e44c697102</a></td></tr><tr><td>Junior</td><td>BB_convex_mim3Crv</td><td><a href="https://etherscan.io/address/0x5346217536852CD30A5266647ccBB6f73449Cbd1">0x5346217536852CD30A5266647ccBB6f73449Cbd1</a></td></tr></tbody></table>
-
-**mUSD-3Crv**
-
-<table><thead><tr><th width="96.33333333333331">Side</th><th width="203">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>convex_musd3Crv</td><td><a href="https://etherscan.io/address/0x16d88C635e1B439D8678e7BAc689ac60376fBfA6">0x16d88C635e1B439D8678e7BAc689ac60376fBfA6</a></td></tr><tr><td>Senior</td><td>AA_convex_musd3Crv</td><td><a href="https://etherscan.io/address/0x4585F56B06D098D4EDBFc5e438b8897105991c6A">0x4585F56B06D098D4EDBFc5e438b8897105991c6A</a></td></tr><tr><td>Junior</td><td>BB_convex_musd3Crv</td><td><a href="https://etherscan.io/address/0xFb08404617B6afab0b19f6cEb2Ef9E07058D043C">0xFb08404617B6afab0b19f6cEb2Ef9E07058D043C</a></td></tr></tbody></table>
-
-### Clearpool
-
-**USDC (Wintermute)**
-
-<table><thead><tr><th width="98.33333333333331">Side</th><th width="197">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>cp_WIN_USDC</td><td><a href="https://etherscan.io/address/0xDBCEE5AE2E9DAf0F5d93473e08780C9f45DfEb93">0xDBCEE5AE2E9DAf0F5d93473e08780C9f45DfEb93</a></td></tr><tr><td>Senior</td><td>AA_cp_WIN_USDC</td><td><a href="https://etherscan.io/address/0xb86264c21418aa75f7c337b1821ccb4ff4d57673">0xb86264c21418aa75f7c337b1821ccb4ff4d57673</a></td></tr><tr><td>Junior</td><td>BB_cp_WIN_USDC</td><td><a href="https://etherscan.io/address/0x4d9d9aa17c3fcea05f20a87fc1991a045561167d">0x4d9d9aa17c3fcea05f20a87fc1991a045561167d</a></td></tr></tbody></table>
-
-**DAI (Folkvang)**
-
-<table><thead><tr><th width="98.33333333333331">Side</th><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>cp_FOL_DAI</td><td><a href="https://etherscan.io/address/0xDcE26B2c78609b983cF91cCcD43E238353653b0E">0xDcE26B2c78609b983cF91cCcD43E238353653b0E</a></td></tr><tr><td>Senior</td><td>AA_cp_FOL_DAI</td><td><a href="https://etherscan.io/address/0x1692F6574a6758ADfbD12544e209146dD4510BD7">0x1692F6574a6758ADfbD12544e209146dD4510BD7</a></td></tr><tr><td>Junior</td><td>BB_cp_FOL_DAI</td><td><a href="https://etherscan.io/address/0xCb980b5A4f5BdB81d0B4b97A9eDe64578ba9D48A">0xCb980b5A4f5BdB81d0B4b97A9eDe64578ba9D48A</a></td></tr></tbody></table>
-
 ## Polygon
 
 ### Yield Tranches
@@ -166,4 +80,108 @@ Integrators that need other ERC-4626 wrappers can get in contact with the [Devel
 
 ### Deprecated strategies
 
-<table><thead><tr><th width="301">Contract</th><th>Address</th></tr></thead><tbody><tr><td>Quickswap idleCSUNI-V2 AA/BB YTs</td><td><a href="https://polygonscan.com/address/0xb144ee58679e15f1b25a5f6efcebdd0ab8c8bef5">0xB144eE58679e15f1b25A5F6EfcEBDd0AB8c8BEF5</a></td></tr></tbody></table>
+The expandable lists all the YTs addresses deprecated and the specific token addresses following this scheme:&#x20;
+
+1. CDO = Main YTs contract address
+2. Senior = Senior tranche LP token (AA)
+3. Junior = Junior tranche LP token (BB)
+
+{% tabs %}
+{% tab title="Idle" %}
+#### Ethereum
+
+**DAI**
+
+<table><thead><tr><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>idle_DAIYield</td><td><a href="https://etherscan.io/address/0xd0DbcD556cA22d3f3c142e9a3220053FD7a247BC">0xd0DbcD556cA22d3f3c142e9a3220053FD7a247BC</a></td></tr><tr><td>AA_idle_DAIYield</td><td><a href="https://etherscan.io/address/0xE9ada97bDB86d827ecbaACCa63eBcD8201D8b12E">0xE9ada97bDB86d827ecbaACCa63eBcD8201D8b12E</a></td></tr><tr><td>BB_idle_DAIYield</td><td><a href="https://etherscan.io/address/0x730348a54bA58F64295154F0662A08Cbde1225c2">0x730348a54bA58F64295154F0662A08Cbde1225c2</a></td></tr></tbody></table>
+
+**FEI**
+
+<table><thead><tr><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>idle_FEIYield</td><td><a href="https://etherscan.io/address/0x77648a2661687ef3b05214d824503f6717311596">0x77648a2661687ef3b05214d824503f6717311596</a></td></tr><tr><td>AA_idle_FEIYield</td><td><a href="https://etherscan.io/address/0x9cE3a740Df498646939BcBb213A66BBFa1440af6">0x9cE3a740Df498646939BcBb213A66BBFa1440af6</a></td></tr><tr><td>BB_idle_FEIYield</td><td><a href="deployed-contracts.md#ethereum">0x2490D810BF6429264397Ba721A488b0C439aA745</a></td></tr></tbody></table>
+{% endtab %}
+
+{% tab title="Convex" %}
+#### Ethereum
+
+**FRAX-3Crv**
+
+<table><thead><tr><th width="215">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>convex_frax3Crv</td><td><a href="https://etherscan.io/address/0x4CCaf1392a17203eDAb55a1F2aF3079A8Ac513E7">0x4CCaf1392a17203eDAb55a1F2aF3079A8Ac513E7</a></td></tr><tr><td>AA_convex_frax3Crv</td><td><a href="https://etherscan.io/address/0x15794da4dcf34e674c18bbfaf4a67ff6189690f5">0x15794da4dcf34e674c18bbfaf4a67ff6189690f5</a></td></tr><tr><td>BB_convex_frax3Crv</td><td><a href="https://etherscan.io/address/0x18cf59480d8c16856701f66028444546b7041307">0x18cf59480d8c16856701f66028444546b7041307</a></td></tr></tbody></table>
+
+**ste-3Crv**
+
+<table><thead><tr><th width="213">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>convex_steCRV</td><td><a href="https://etherscan.io/address/0x7EcFC031758190eb1cb303D8238D553b1D4Bc8ef">0x7EcFC031758190eb1cb303D8238D553b1D4Bc8ef</a></td></tr><tr><td>AA_convex_steCRV</td><td><a href="https://etherscan.io/address/0x060a53bcfdc0452f35ebd2196c6914e0152379a6">0x060a53bcfdc0452f35ebd2196c6914e0152379a6</a></td></tr><tr><td>BB_convex_steCRV</td><td><a href="https://etherscan.io/address/0xd83246d2bcbc00e85e248a6e9aa35d0a1548968e">0xd83246d2bcbc00e85e248a6e9aa35d0a1548968e</a></td></tr></tbody></table>
+
+**alUSD-3Crv**
+
+<table><thead><tr><th width="214">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>convex_alusd3crv</td><td><a href="https://etherscan.io/address/0x008C589c471fd0a13ac2B9338B69f5F7a1A843e1">0x008C589c471fd0a13ac2B9338B69f5F7a1A843e1</a></td></tr><tr><td>AA_convex_alusd3crv</td><td><a href="https://etherscan.io/address/0x790e38d85a364dd03f682f5ecdc88f8ff7299908">0x790e38d85a364dd03f682f5ecdc88f8ff7299908</a></td></tr><tr><td>BB_convex_alusd3crv</td><td><a href="https://etherscan.io/address/0xa0e8c9088afb3fa0f40ecdf8b551071c34aa1aa4">0xa0e8c9088afb3fa0f40ecdf8b551071c34aa1aa4</a></td></tr></tbody></table>
+
+**3EUR**
+
+<table><thead><tr><th width="216">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>convex_3eur</td><td><a href="https://etherscan.io/address/0x858F5A3a5C767F8965cF7b77C51FD178C4A92F05">0x858F5A3a5C767F8965cF7b77C51FD178C4A92F05</a></td></tr><tr><td>AA_convex_3eur</td><td><a href="https://etherscan.io/address/0x158e04225777bbea34d2762b5df9ebd695c158d2">0x158e04225777bbea34d2762b5df9ebd695c158d2</a></td></tr><tr><td>BB_convex_3eur</td><td><a href="https://etherscan.io/address/0x3061c652b49ae901bbecf622624cc9f633d01bbd">0x3061c652b49ae901bbecf622624cc9f633d01bbd</a></td></tr></tbody></table>
+
+**pBTC-Crv**
+
+<table><thead><tr><th width="217">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>convex_pbtccrv</td><td><a href="https://etherscan.io/address/0xf324Dca1Dc621FCF118690a9c6baE40fbD8f09b7">0xf324Dca1Dc621FCF118690a9c6baE40fbD8f09b7</a></td></tr><tr><td>AA_convex_pbtccrv</td><td><a href="https://etherscan.io/address/0x4657b96d587c4d46666c244b40216beeea437d0d">0x4657b96d587c4d46666c244b40216beeea437d0d</a></td></tr><tr><td>BB_convex_pbtccrv</td><td><a href="https://etherscan.io/address/0x3872418402d1e967889ac609731fc9e11f438de5">0x3872418402d1e967889ac609731fc9e11f438de5</a></td></tr></tbody></table>
+
+**MIM-3Crv**
+
+<table><thead><tr><th width="220">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>convex_mim3Crv</td><td><a href="https://etherscan.io/address/0x151e89e117728ac6c93aae94c621358b0ebd1866">0x151e89e117728ac6c93aae94c621358b0ebd1866</a></td></tr><tr><td>AA_convex_mim3Crv</td><td><a href="https://etherscan.io/address/0xFC96989b3Df087C96C806318436B16e44c697102">0xFC96989b3Df087C96C806318436B16e44c697102</a></td></tr><tr><td>BB_convex_mim3Crv</td><td><a href="https://etherscan.io/address/0x5346217536852CD30A5266647ccBB6f73449Cbd1">0x5346217536852CD30A5266647ccBB6f73449Cbd1</a></td></tr></tbody></table>
+
+**mUSD-3Crv**
+
+<table><thead><tr><th width="225">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>convex_musd3Crv</td><td><a href="https://etherscan.io/address/0x16d88C635e1B439D8678e7BAc689ac60376fBfA6">0x16d88C635e1B439D8678e7BAc689ac60376fBfA6</a></td></tr><tr><td>AA_convex_musd3Crv</td><td><a href="https://etherscan.io/address/0x4585F56B06D098D4EDBFc5e438b8897105991c6A">0x4585F56B06D098D4EDBFc5e438b8897105991c6A</a></td></tr><tr><td>BB_convex_musd3Crv</td><td><a href="https://etherscan.io/address/0xFb08404617B6afab0b19f6cEb2Ef9E07058D043C">0xFb08404617B6afab0b19f6cEb2Ef9E07058D043C</a></td></tr></tbody></table>
+{% endtab %}
+
+{% tab title="Clearpool" %}
+#### Ethereum
+
+**USDC (Wintermute)**
+
+<table><thead><tr><th width="197">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>cp_WIN_USDC</td><td><a href="https://etherscan.io/address/0xDBCEE5AE2E9DAf0F5d93473e08780C9f45DfEb93">0xDBCEE5AE2E9DAf0F5d93473e08780C9f45DfEb93</a></td></tr><tr><td>AA_cp_WIN_USDC</td><td><a href="https://etherscan.io/address/0xb86264c21418aa75f7c337b1821ccb4ff4d57673">0xb86264c21418aa75f7c337b1821ccb4ff4d57673</a></td></tr><tr><td>BB_cp_WIN_USDC</td><td><a href="https://etherscan.io/address/0x4d9d9aa17c3fcea05f20a87fc1991a045561167d">0x4d9d9aa17c3fcea05f20a87fc1991a045561167d</a></td></tr></tbody></table>
+
+**DAI (Folkvang)**
+
+<table><thead><tr><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>cp_FOL_DAI</td><td><a href="https://etherscan.io/address/0xDcE26B2c78609b983cF91cCcD43E238353653b0E">0xDcE26B2c78609b983cF91cCcD43E238353653b0E</a></td></tr><tr><td>AA_cp_FOL_DAI</td><td><a href="https://etherscan.io/address/0x1692F6574a6758ADfbD12544e209146dD4510BD7">0x1692F6574a6758ADfbD12544e209146dD4510BD7</a></td></tr><tr><td>BB_cp_FOL_DAI</td><td><a href="https://etherscan.io/address/0xCb980b5A4f5BdB81d0B4b97A9eDe64578ba9D48A">0xCb980b5A4f5BdB81d0B4b97A9eDe64578ba9D48A</a></td></tr></tbody></table>
+{% endtab %}
+
+{% tab title="Euler" %}
+#### Ethereum
+
+**DAI**
+
+<table><thead><tr><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>euler_eDAI</td><td><a href="https://etherscan.io/address/0x46c1f702A6aAD1Fd810216A5fF15aaB1C62ca826">0x46c1f702A6aAD1Fd810216A5fF15aaB1C62ca826</a></td></tr><tr><td>AA_euler_eDAI</td><td><a href="https://etherscan.io/address/0x852c4d2823e98930388b5ce1ed106310b942bd5a">0x852c4d2823e98930388b5ce1ed106310b942bd5a</a></td></tr><tr><td>BB_euler_eDAI</td><td><a href="https://etherscan.io/address/0x6629baa8c7c6a84290bf9a885825e3540875219d">0x6629baa8c7c6a84290bf9a885825e3540875219d</a></td></tr></tbody></table>
+
+**USDC**
+
+<table><thead><tr><th width="200">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>euler_eUSDC</td><td><a href="https://etherscan.io/address/0xF5a3d259bFE7288284Bd41823eC5C8327a314054">0xF5a3d259bFE7288284Bd41823eC5C8327a314054</a></td></tr><tr><td>AA_euler_eUSDC</td><td><a href="https://etherscan.io/address/0x1e095cbf663491f15cc1bdb5919e701b27dde90c">0x1e095cbf663491f15cc1bdb5919e701b27dde90c</a></td></tr><tr><td>BB_euler_eUSDC</td><td><a href="https://etherscan.io/address/0xe11679cdb4587fee907d69e9ec4a7d3f0c2bcf3b">0xe11679cdb4587fee907d69e9ec4a7d3f0c2bcf3b</a></td></tr></tbody></table>
+
+**USDT**
+
+<table><thead><tr><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>euler_eUSDT</td><td><a href="https://etherscan.io/address/0xD5469DF8CA36E7EaeDB35D428F28E13380eC8ede">0xD5469DF8CA36E7EaeDB35D428F28E13380eC8ede</a></td></tr><tr><td>AA_euler_eUSDT</td><td><a href="https://etherscan.io/address/0xe0f126236d2a5b13f26e72cbb1d1ff5f297dda07">0xe0f126236d2a5b13f26e72cbb1d1ff5f297dda07</a></td></tr><tr><td>BB_euler_eUSDT</td><td><a href="https://etherscan.io/address/0xb1ec065abf6783bcce003b8d6b9f947129504854">0xb1ec065abf6783bcce003b8d6b9f947129504854</a></td></tr></tbody></table>
+
+**agEUR**
+
+<table><thead><tr><th width="199">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>euler_eagEUR</td><td><a href="https://etherscan.io/address/0x2398Bc075fa62Ee88d7fAb6A18Cd30bFf869bDa4">0x2398Bc075fa62Ee88d7fAb6A18Cd30bFf869bDa4</a></td></tr><tr><td>AA_euler_eagEUR</td><td><a href="https://etherscan.io/address/0x624dfe05202b66d871b8b7c0e14ab29fc3a5120c">0x624dfe05202b66d871b8b7c0e14ab29fc3a5120c</a></td></tr><tr><td>BB_euler_eagEUR</td><td><a href="https://etherscan.io/address/0xcf5fd05f72ca777d71fb3e38f296aad7ce735cb7">0xcf5fd05f72ca777d71fb3e38f296aad7ce735cb7</a></td></tr></tbody></table>
+
+**DAI staking**
+
+<table><thead><tr><th width="200">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>euler_eDAI_stk</td><td><a href="https://etherscan.io/address/0x264E1552Ee99f57a7D9E1bD1130a478266870C39">0x264E1552Ee99f57a7D9E1bD1130a478266870C39</a></td></tr><tr><td>AA_euler_eDAI_stk</td><td><a href="https://etherscan.io/address/0x62Eb6a8c7A555eae3e0B17D42CA9A3299af2787E">0x62Eb6a8c7A555eae3e0B17D42CA9A3299af2787E</a></td></tr><tr><td>BB_euler_eDAI_stk</td><td><a href="https://etherscan.io/address/0x56263BDE26b72b3e3D26d8e03399a275Aa8Bbfb2">0x56263BDE26b72b3e3D26d8e03399a275Aa8Bbfb2</a></td></tr></tbody></table>
+
+**USDC staking**
+
+<table><thead><tr><th width="210">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>euler_eUSDC_stk</td><td><a href="https://etherscan.io/address/0xf615a552c000B114DdAa09636BBF4205De49333c">0xf615a552c000B114DdAa09636BBF4205De49333c</a></td></tr><tr><td>AA_euler_eUSDC_stk</td><td><a href="https://etherscan.io/address/0x1AF0294524093BFdF5DA5135853dC2fC678C12f7">0x1AF0294524093BFdF5DA5135853dC2fC678C12f7</a></td></tr><tr><td>BB_euler_eUSDC_stk</td><td><a href="https://etherscan.io/address/0x271db794317B44827EfE81DeC6193fFc277050F6">0x271db794317B44827EfE81DeC6193fFc277050F6</a></td></tr></tbody></table>
+
+**USDT staking**
+
+<table><thead><tr><th width="213">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>euler_eUSDT_stk</td><td><a href="https://etherscan.io/address/0x860B1d25903DbDFFEC579d30012dA268aEB0d621">0x860B1d25903DbDFFEC579d30012dA268aEB0d621</a></td></tr><tr><td>AA_euler_eUSDT_stk</td><td><a href="https://etherscan.io/address/0x6796FCd41e4fb26855Bb9BDD7Cad41128Da1Fd59">0x6796FCd41e4fb26855Bb9BDD7Cad41128Da1Fd59</a></td></tr><tr><td>BB_euler_eUSDT_stk</td><td><a href="https://etherscan.io/address/0x00B80FCCA0fE4fDc3940295AA213738435B0f94e">0x00B80FCCA0fE4fDc3940295AA213738435B0f94e</a></td></tr></tbody></table>
+
+**WETH staking**
+
+<table><thead><tr><th width="210">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>euler_eWETH_stk</td><td><a href="https://etherscan.io/address/0xec964d06cD71a68531fC9D083a142C48441F391C">0xec964d06cD71a68531fC9D083a142C48441F391C</a></td></tr><tr><td>AA_euler_eWETH_stk</td><td><a href="https://etherscan.io/address/0x2B7Da260F101Fb259710c0a4f2EfEf59f41C0810">0x2B7Da260F101Fb259710c0a4f2EfEf59f41C0810</a></td></tr><tr><td>BB_euler_eWETH_stk</td><td><a href="https://etherscan.io/address/0x2e80225f383F858E8737199D3496c5Cf827670a5">0x2e80225f383F858E8737199D3496c5Cf827670a5</a></td></tr></tbody></table>
+{% endtab %}
+
+{% tab title="QuickSwap" %}
+#### Polygon
+
+<table><thead><tr><th width="250">Contract</th><th>Address</th></tr></thead><tbody><tr><td>Quickswap idleCSUNI-V2</td><td><a href="https://polygonscan.com/address/0xb144ee58679e15f1b25a5f6efcebdd0ab8c8bef5">0xB144eE58679e15f1b25A5F6EfcEBDd0AB8c8BEF5</a></td></tr></tbody></table>
+{% endtab %}
+{% endtabs %}

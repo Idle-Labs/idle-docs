@@ -61,23 +61,6 @@ stMATIC YTs accept MATIC as the deposited asset to give users a seamless experie
 {% endhint %}
 {% endtab %}
 
-{% tab title="Euler" %}
-{% hint style="info" %}
-Euler vauts are sunsetting and in withdrawal-only mode
-{% endhint %}
-
-#### Integrated assets
-
-* [DAI](https://etherscan.io/address/0x46c1f702a6aad1fd810216a5ff15aab1c62ca826)
-* [USDC](https://etherscan.io/address/0xf5a3d259bfe7288284bd41823ec5c8327a314054)
-* [USDT](https://etherscan.io/address/0xd5469df8ca36e7eaedb35d428f28e13380ec8ede)
-* [agEUR](https://etherscan.io/address/0x2398bc075fa62ee88d7fab6a18cd30bff869bda4)
-* [DAI staking](https://etherscan.io/address/0x264E1552Ee99f57a7D9E1bD1130a478266870C39)
-* [USDC staking](https://etherscan.io/address/0xf615a552c000B114DdAa09636BBF4205De49333c)
-* [USDT staking](https://etherscan.io/address/0x860B1d25903DbDFFEC579d30012dA268aEB0d621)
-* [WETH staking](https://etherscan.io/address/0xec964d06cD71a68531fC9D083a142C48441F391C)
-{% endtab %}
-
 {% tab title="Morpho" %}
 Morpho is a peer-to-peer layer built on top of the lending pools of Aave.
 
@@ -92,8 +75,8 @@ Morpho is a peer-to-peer layer built on top of the lending pools of Aave.
 {% tab title="Clearpool" %}
 #### Integrated assets
 
-* [USDC](https://etherscan.io/address/0xDBCEE5AE2E9DAf0F5d93473e08780C9f45DfEb93)
 * [DAI](https://etherscan.io/address/0xDcE26B2c78609b983cF91cCcD43E238353653b0E)
+* [USDC](https://etherscan.io/address/0xDBCEE5AE2E9DAf0F5d93473e08780C9f45DfEb93)
 * [USDT](https://etherscan.io/address/0xc4574C60a455655864aB80fa7638561A756C5E61)
 
 Borrowers: [Portofino](https://www.portofino.tech/), [Fasanara](https://twitter.com/FasanaraDigital)

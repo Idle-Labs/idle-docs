@@ -4,6 +4,10 @@ description: Governance > $IDLE staking > Staking integration
 
 # Staking integration
 
+{% hint style="info" %}
+The staking reward program for stkIDLE holders is paused following [IIP-36](https://gov.idle.finance/t/iip-36-update-best-yield-usdc-weth-yield-sources-and-pause-the-staking-rewards-for-idle-stakers/1171).
+{% endhint %}
+
 Externally Owned Accounts (EOA) were the only ones enabled to interact with the $IDLE staking contract and lock $IDLE (locking system).&#x20;
 
 The implementation of [IIP-22](https://gov.idle.finance/t/iip-22-stkidle-whitelisting-process-implementation/962) introduced the _`SmartWalletChecker`_ contract to manage the contracts interacting with the $IDLE staking module letting Smart Contracts (such as multisig wallets) mint stkIDLE, as well.&#x20;
