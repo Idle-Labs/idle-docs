@@ -70,7 +70,7 @@ where AA = Senior Tranche, BB = Junior Tranche.
 
 Integrators that need other ERC-4626 wrappers can get in contact with the [Development League ](https://discord.gg/fJaBYmS)on Discord.&#x20;
 
-<table><thead><tr><th width="96.33333333333331">Side</th><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>Senior</td><td>AA_cp_POR_DAI_w</td><td><a href="https://etherscan.io/address/0x79c4fe26f3b2809fd29ec8588242036b8136f32d">0x79c4fE26f3b2809fD29Ec8588242036b8136f32D</a></td></tr><tr><td>Junior</td><td>BB_cp_POR_DAI_w</td><td><a href="https://etherscan.io/address/0xa9f908da2e3ec7475a743e97bb5b06081b688ae4">0xA9F908DA2E3Ec7475a743e97Bb5B06081B688aE4</a></td></tr><tr><td>Senior</td><td>AA_cp_POR_USDC_w</td><td><a href="https://etherscan.io/address/0x291eecab3a2d3f403745968c14edbb227d183636">0x291eEcab3a2d3f403745968C14edBB227d183636</a></td></tr><tr><td>Junior</td><td>BB_cp_POR_USDC_w</td><td><a href="https://etherscan.io/address/0xa35b7a9fe5dc4cd51ba47acdf67b0f41c893329a">0xa35B7A9fe5DC4cD51bA47ACdf67B0f41c893329A</a></td></tr><tr><td>Senior</td><td>AA_cp_FAS_USDC_w</td><td><a href="https://etherscan.io/address/0x3E9A5c91eC8b5022E88d1C2599fE3CD98406D898">0x3E9A5c91eC8b5022E88d1C2599fE3CD98406D898</a></td></tr><tr><td>Junior</td><td>BB_cp_FAS_USDC_w</td><td><a href="https://etherscan.io/address/0xC72e841B460Ec6D3e969e5C457A1961463e12e00">0xC72e841B460Ec6D3e969e5C457A1961463e12e00</a></td></tr><tr><td>Senior</td><td>AA_cp_FAS_USDT_w</td><td><a href="https://etherscan.io/address/0xcf96f4b91c6d424fb34aa9a33855b5c8ed1fe66d">0xcf96f4b91c6d424fb34aa9a33855b5c8ed1fe66d</a></td></tr><tr><td>Junior</td><td>BB_cp_FAS_USDT_w</td><td><a href="https://etherscan.io/address/0x28bc4d9ad73a761049c773038c344f54d906b152">0x28bC4D9aD73A761049c773038c344F54D906B152</a></td></tr><tr><td>Junior</td><td>BB_lido_stETH_w</td><td><a href="https://etherscan.io/address/0x79F05f75df6c156B2B98aC1FBfb3637fc1e6f048">0x79F05f75df6c156B2B98aC1FBfb3637fc1e6f048</a></td></tr></tbody></table>
+<table><thead><tr><th width="96.33333333333331">Side</th><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>Senior</td><td>AA_cp_POR_DAI_w</td><td><a href="https://etherscan.io/address/0x79c4fe26f3b2809fd29ec8588242036b8136f32d">0x79c4fE26f3b2809fD29Ec8588242036b8136f32D</a></td></tr><tr><td>Junior</td><td>BB_cp_POR_DAI_w</td><td><a href="https://etherscan.io/address/0xa9f908da2e3ec7475a743e97bb5b06081b688ae4">0xA9F908DA2E3Ec7475a743e97Bb5B06081B688aE4</a></td></tr><tr><td>Senior</td><td>AA_cp_POR_USDC_w</td><td><a href="https://etherscan.io/address/0x291eecab3a2d3f403745968c14edbb227d183636">0x291eEcab3a2d3f403745968C14edBB227d183636</a></td></tr><tr><td>Junior</td><td>BB_cp_POR_USDC_w</td><td><a href="https://etherscan.io/address/0xa35b7a9fe5dc4cd51ba47acdf67b0f41c893329a">0xa35B7A9fe5DC4cD51bA47ACdf67B0f41c893329A</a></td></tr><tr><td>Senior</td><td>AA_cp_FAS_USDT_w</td><td><a href="https://etherscan.io/address/0xcf96f4b91c6d424fb34aa9a33855b5c8ed1fe66d">0xcf96f4b91c6d424fb34aa9a33855b5c8ed1fe66d</a></td></tr><tr><td>Junior</td><td>BB_cp_FAS_USDT_w</td><td><a href="https://etherscan.io/address/0x28bc4d9ad73a761049c773038c344f54d906b152">0x28bC4D9aD73A761049c773038c344F54D906B152</a></td></tr><tr><td>Junior</td><td>BB_lido_stETH_w</td><td><a href="https://etherscan.io/address/0x79F05f75df6c156B2B98aC1FBfb3637fc1e6f048">0x79F05f75df6c156B2B98aC1FBfb3637fc1e6f048</a></td></tr></tbody></table>
 
 ## Polygon
 
@@ -80,11 +80,11 @@ Integrators that need other ERC-4626 wrappers can get in contact with the [Devel
 
 ### Deprecated strategies
 
-The expandable lists all the YTs addresses deprecated and the specific token addresses following this scheme:&#x20;
+The expandable lists all the YTs addresses deprecated and the specific token addresses following this order:&#x20;
 
-1. CDO = Main YTs contract address
-2. Senior = Senior tranche LP token (AA)
-3. Junior = Junior tranche LP token (BB)
+1. Main YTs contract address (CDO)
+2. Senior tranche LP token (AA)
+3. Junior tranche LP token (BB)
 
 {% tabs %}
 {% tab title="Idle" %}
