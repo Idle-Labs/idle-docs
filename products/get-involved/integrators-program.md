@@ -120,6 +120,7 @@ A list of current on-top integrators follows.
 * [Harvest](https://harvest.finance/)
 * [Sense](https://sense.finance/)
 * [Clearpool](https://clearpool.finance/)
+* [Popcorn](https://pop.network/)
 
 </details>
 
