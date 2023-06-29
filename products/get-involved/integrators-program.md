@@ -137,7 +137,7 @@ A list of current on-top integrators follows.
 * **Do I lose the rewards if I do not reach the minimum threshold?**\
   Accrued fees that do not reach the minimum threshold are recorded in Dune's dashboards. Once rewards reach the distribution threshold, the fee-sharing payments are executed.
 * **How is the fee sharing calculated?**\
-  Let's see a practical example: For the first 30 days the Partner's TVL deposited is $90m, enabling him to receive a 20% fee-share. Ten days after the first sharing event, its TVL is worth $200m and holds the same value for the remaining 20 days of the second month. The time-weighted TVL for this 30-day timeframe would then be worth $163M, letting him access Tier 2.&#x20;
+  Let's see a practical example: For the first 30 days the Partner's TVL deposited is $90m, enabling him to receive a 25% fee-share. Ten days after the first sharing event, its TVL is worth $200m and holds the same value for the remaining 20 days of the second month. The time-weighted TVL for this 30-day timeframe would then be worth $163M, letting him access Tier 5, i.e. 30% fee-share.&#x20;
 
 </details>
 
