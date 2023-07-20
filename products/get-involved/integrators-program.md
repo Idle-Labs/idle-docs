@@ -6,18 +6,18 @@ description: Products > Integrators program
 
 <figure><img src="../../.gitbook/assets/Integrators.png" alt=""><figcaption></figcaption></figure>
 
-The **Integrators program** allows DeFi protocols to efficiently integrate the Idle product suite into their own services and workflow. Any partners that integrate Idle products can earn up to a <mark style="color:blue;">**50% profit share**</mark> from the contributed TVL originating from dApps, wallets, or payment gateways.
+The **Integrators program** allows DeFi protocols to efficiently integrate the Idle product suite into their services and workflow. Any partners that integrate Idle products can earn up to a <mark style="color:blue;">**50% profit share**</mark> from the contributed TVL originating from dApps, wallets, or payment gateways.
 
 {% hint style="info" %}
-If you are interested in partnering with us, we’d love to hear from you! \
+We'd love to hear from you if you are interested in partnering with us! \
 Please reach out to us by filling out the [Integrator program form](https://idlefinance.typeform.com/to/PUC7nO).
 {% endhint %}
 
 ### Programs details
 
-Best Yield strategies and Yield Tranches are deployed on the Ethereum and on the Polygon chain. The program is then available on both chains.&#x20;
+Best Yield vaults and Yield Tranches are deployed on the Ethereum and the Polygon chain. The program is then available on both chains.&#x20;
 
-The [Treasury League](../../governance/idle-dao/idle-leagues/treasury-league.md) periodically execute reward transfers, which will then be replaced by an automated on-chain fee-sharing mechanism.
+The [Treasury League](../../governance/idle-dao/idle-leagues/treasury-league.md) periodically executes reward transfers, which an automated on-chain fee-sharing mechanism will then replace.
 
 {% tabs %}
 {% tab title="Tiers" %}
@@ -31,25 +31,27 @@ The Ethereum program distributes the rewards on a monthly basis through a [vesti
 
 The minimum threshold to distribute the rewards is 500 IDLE.
 
+* Product: Best Yield vaults and Yield Tranches
 * Rewards: IDLE
 * Frequency: monthly
 * Distribution: [vesting contract](https://legacy.idle.finance/#/tools/b2b-vesting-contract) with a 3-month length
 
-Integrators can use the following Dune dashboards to track the rewards of the program.
+Integrators can use the following Dune dashboards to track the program's rewards.
 
 {% embed url="https://dune.com/idle.finance/ipp-ethereum" %}
 {% endtab %}
 
 {% tab title="Polygon program" %}
-The Polygon program distributed rewards on a weekly basis to the partner's wallet address.
+The Polygon _zkEVM_ program distributed rewards on a weekly basis to the partner's wallet address.
 
 The minimum threshold to distribute the rewards is 100 MATIC.
 
+* Product: Yield Tranches
 * Rewards: MATIC
 * Frequency: weekly
 * Distribution: direct transfer to partner's wallet
 
-Integrators can use the following Dune dashboards to track the rewards of the program.
+Integrators can use the following Dune dashboards to track the program's rewards.
 
 {% embed url="https://dune.com/idle.finance/integration-partners-program-polygon" %}
 {% endtab %}
@@ -137,7 +139,8 @@ A list of current on-top integrators follows.
 * **Do I lose the rewards if I do not reach the minimum threshold?**\
   Accrued fees that do not reach the minimum threshold are recorded in Dune's dashboards. Once rewards reach the distribution threshold, the fee-sharing payments are executed.
 * **How is the fee sharing calculated?**\
-  Let's see a practical example: For the first 30 days the Partner's TVL deposited is $90m, enabling him to receive a 25% fee-share. Ten days after the first sharing event, its TVL is worth $200m and holds the same value for the remaining 20 days of the second month. The time-weighted TVL for this 30-day timeframe would then be worth $163M, letting him access Tier 5, i.e. 30% fee-share.&#x20;
+  Let's see a practical example.\
+  For the first 30 days, the Partner's TVL deposited is $90m, enabling him to receive a 25% fee-share. Ten days after the first sharing event, its TVL is worth $200m and holds the same value for the remaining 20 days of the second month. The time-weighted TVL for this 30-day timeframe would be worth $163M, letting him access Tier 5, i.e. 30% fee-share.&#x20;
 
 </details>
 
