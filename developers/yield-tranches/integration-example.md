@@ -20,8 +20,8 @@ Integrators use a routing contract to keep track of users' deposits in Yield Tra
 
 ### Example
 
-An example of a Routing contract used by ShapeShift to integrate Best Yield and Yield Tranches, with related tests, is available [on Github](https://github.com/shapeshift/idle-router).
+An example of a Routing contract used by [ShapeShift](https://shapeshift.com/) to integrate Best Yield and Yield Tranches, with related tests, is available [on GitHub](https://github.com/shapeshift/idle-router).
 
-### Integration Partners program
+### Integrators program
 
-Protocols deploying funds into the Yield Tranches are eligible to join the [Integration Partners program](../../products/get-involved/integrators-program.md).
+Protocols deploying funds into the Yield Tranches are eligible to join the [Integrators program](../../products/get-involved/integrators-program.md).
