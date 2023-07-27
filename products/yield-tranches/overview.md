@@ -8,7 +8,7 @@ description: Products > Yield Tranches > Overview
 
 The product offers two classes of tranches, differentiated by the level of risk and the share of underlying yield assigned to each class.
 
-<figure><img src="../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/YTs.png" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="Senior Tranches" %}

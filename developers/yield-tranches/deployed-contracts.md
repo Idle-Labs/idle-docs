@@ -96,7 +96,7 @@ The expandable lists all the YTs addresses deprecated and the specific token add
 
 **FEI**
 
-<table><thead><tr><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>idle_FEIYield</td><td><a href="https://etherscan.io/address/0x77648a2661687ef3b05214d824503f6717311596">0x77648a2661687ef3b05214d824503f6717311596</a></td></tr><tr><td>AA_idle_FEIYield</td><td><a href="https://etherscan.io/address/0x9cE3a740Df498646939BcBb213A66BBFa1440af6">0x9cE3a740Df498646939BcBb213A66BBFa1440af6</a></td></tr><tr><td>BB_idle_FEIYield</td><td><a href="deployed-contracts.md#ethereum">0x2490D810BF6429264397Ba721A488b0C439aA745</a></td></tr></tbody></table>
+<table><thead><tr><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>idle_FEIYield</td><td><a href="https://etherscan.io/address/0x77648a2661687ef3b05214d824503f6717311596">0x77648a2661687ef3b05214d824503f6717311596</a></td></tr><tr><td>AA_idle_FEIYield</td><td><a href="https://etherscan.io/address/0x9cE3a740Df498646939BcBb213A66BBFa1440af6">0x9cE3a740Df498646939BcBb213A66BBFa1440af6</a></td></tr><tr><td>BB_idle_FEIYield</td><td><a href="https://etherscan.io/address/0x2490D810BF6429264397Ba721A488b0C439aA745">0x2490D810BF6429264397Ba721A488b0C439aA745</a></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Convex" %}
