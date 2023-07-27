@@ -76,7 +76,7 @@ Address: [`0xFb3bD022D5DAcF95eE28a6B07825D4Ff9C5b3814`](https://etherscan.io/add
 
 Owner: Leagues members (3 signatures out of 6)
 
-Description: multisig wallet owning liquidity to fund Leagues contributors' rewards and operational expenses on Ethereum. Used to collect fees of strategies in beta.&#x20;
+Description: multisig wallet owning liquidity to fund Leagues contributors' rewards and operational expenses on Ethereum. Used to collect fees of strategies in beta on the-chain&#x20;
 
 </details>
 
@@ -116,6 +116,20 @@ Address: [`0x13854835c508FC79C3E5C5Abf7afa54b4CcC1Fdf`](https://zkevm.polygonsca
 
 Owner: Leagues members (3 signatures out of 5)
 
-Description: wallet owning liquidity to fund operational expenses on Polygon. It is used also to collect the fees from the strategies deployed on the chain.&#x20;
+Description: wallet owning liquidity to fund operational expenses on Polygon. It is also used to collect the fees from the strategies deployed on the chain.&#x20;
+
+</details>
+
+### Optimism
+
+<details>
+
+<summary>Treasury League multisig</summary>
+
+Address: [`0xFDbB4d606C199F091143BD604C85c191a526fbd0`](https://optimistic.etherscan.io/address/0xFDbB4d606C199F091143BD604C85c191a526fbd0)
+
+Owner: Leagues members (3 signatures out of 5)
+
+Description: wallet owning liquidity to fund operational expenses on Optimism. It is also used to collect the fees from the strategies deployed on the chain.&#x20;
 
 </details>
