@@ -58,10 +58,11 @@ NB - YTs do not cover Senior LPs funds in case of events leading to a de-peg.
 
 <summary>Instadapp Yield Tranches</summary>
 
-Instadapp lite vaults have automation functions, which automatically rebalance the vault during market changes. If the vault gets risky, it can first refinance into another protocol to maintain safety, or it can deleverage by selling stETH and paying back the ETH debt. This kind of automation, if required or occurs, may incur losses caused by trading slippage:
+Instadapp lite vaults have automation functions, which automatically rebalance the vault during market changes. If the vault gets risky, it can first refinance into another protocol to maintain safety or deleverage by selling stETH and paying back the ETH debt. This kind of automation, if required or occurs, may incur losses caused by trading slippage:
 
-* if the loss is less than or equal to 0.5%, the loss is distributed proportionally among the funds deposited in the tranches.
-* if the loss is greater than 0.5%, the Junior tranche will absorb the entire loss.
+* **If the loss is less than or equal to 0.5%**, the loss will be distributed proportionally among the funds deposited in the tranches. This usually occurs when the borrowing rate of WETH is higher than the lending rate of stETH.&#x20;
+* **If the loss is between 0.5 and 5%**, the Junior tranche will absorb the entire loss and the tranche will continue to work as usual.&#x20;
+* **If the loss is greater than 5%**, the automating pausing of the Tranche is triggered. Deposits and redeems are halted.
 
 </details>
 
