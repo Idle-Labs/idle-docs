@@ -51,6 +51,8 @@ Yield Tranches are available on Ethereum and Polygon for multiple protocols and 
 
 {% tabs %}
 {% tab title="Lido" %}
+Lido enables users to mint transferable utility tokens (stETH), which receive rewards linked to the related validation activities of writing data to the blockchain, while the tokens can be used in other on-chain activities.
+
 #### Integrated assets
 
 * [stETH](https://etherscan.io/address/0x34dcd573c5de4672c8248cd12a99f875ca112ad8)
@@ -59,6 +61,14 @@ Yield Tranches are available on Ethereum and Polygon for multiple protocols and 
 {% hint style="info" %}
 stMATIC YTs accept MATIC as the deposited asset to give users a seamless experience by staking their tokens in a few clicks. When users want to redeem, stMATIC YTs generate an NFT representing the underlying capital. After 2–3 days, the average waiting period for stMATIC unstaking, users can finalize their withdrawal.
 {% endhint %}
+{% endtab %}
+
+{% tab title="Instadapp" %}
+Instadapp leverages stETH against standard ETH to gain an increased amount of staking rewards.
+
+#### Integrated assets
+
+* [stETH](https://etherscan.io/address/0x34dcd573c5de4672c8248cd12a99f875ca112ad8)
 {% endtab %}
 
 {% tab title="Morpho" %}
@@ -73,6 +83,8 @@ Morpho is a peer-to-peer layer built on top of the lending pools of Aave.
 {% endtab %}
 
 {% tab title="Clearpool" %}
+
+
 #### Integrated assets
 
 * [DAI](https://etherscan.io/address/0xDcE26B2c78609b983cF91cCcD43E238353653b0E)

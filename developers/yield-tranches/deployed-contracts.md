@@ -28,6 +28,12 @@ The ABI of the Yield Tranches contract can be found here: [JSON](https://github.
 
 <table><thead><tr><th width="98.33333333333331">Side</th><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>lido_MATIC</td><td><a href="https://etherscan.io/address/0xF87ec7e1Ee467d7d78862089B92dd40497cBa5B8">0xF87ec7e1Ee467d7d78862089B92dd40497cBa5B8</a></td></tr><tr><td>Senior</td><td>AA_lido_stMATIC</td><td><a href="https://etherscan.io/address/0xAEf4FCC4E5F2dc270760063446d4116D24704Ad1">0xAEf4FCC4E5F2dc270760063446d4116D24704Ad1</a></td></tr><tr><td>Junior</td><td>BB_lido_stMATIC</td><td><a href="https://etherscan.io/address/0x077212c69A66261CF7bD1fd3b5C5db7CfFA948Ee">0x077212c69A66261CF7bD1fd3b5C5db7CfFA948Ee</a></td></tr></tbody></table>
 
+### Instadapp
+
+**stETH**
+
+<table><thead><tr><th width="98.33333333333331">Side</th><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>instadapp_stETH</td><td><a href="https://etherscan.io/address/0x8E0A8A5c1e5B3ac0670Ea5a613bB15724D51Fc37">0x8E0A8A5c1e5B3ac0670Ea5a613bB15724D51Fc37</a></td></tr><tr><td>Senior</td><td>AA_instadapp_stETH</td><td><a href="https://etherscan.io/address/0xdf17c739b666B259DA3416d01f0310a6e429f592">0xdf17c739b666B259DA3416d01f0310a6e429f592</a></td></tr><tr><td>Junior</td><td>BB_instadapp_stETH</td><td><a href="https://etherscan.io/address/0x990b3af34ddb502715e1070ce6778d8eb3c8ea82">0x990b3aF34dDB502715E1070CE6778d8eB3c8Ea82</a></td></tr></tbody></table>
+
 ### Morpho
 
 **DAI (Aave)**
