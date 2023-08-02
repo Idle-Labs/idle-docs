@@ -54,6 +54,17 @@ NB - YTs do not cover Senior LPs funds in case of events leading to a de-peg.
 
 <table><thead><tr><th>Risk</th><th width="184.0554663848362">Description</th><th width="174.06957708049114">Outcome</th><th width="150">Coverage</th></tr></thead><tbody><tr><td>Liquidation</td><td>Liquidation of the position at loss</td><td>Partial loss of funds</td><td>Yes</td></tr></tbody></table>
 
+<details>
+
+<summary>Instadapp Yield Tranches</summary>
+
+Instadapp lite vaults have automation functions, which automatically rebalance the vault during market changes. If the vault gets risky, it can first refinance into another protocol to maintain safety, or it can deleverage by selling stETH and paying back the ETH debt. This kind of automation, if required or occurs, may incur losses caused by trading slippage:
+
+* if the loss is less than or equal to 0.5%, the loss is distributed proportionally among the funds deposited in the tranches.
+* if the loss is greater than 0.5%, the Junior tranche will absorb the entire loss.
+
+</details>
+
 ### **Options strategies**
 
 <table><thead><tr><th>Risk</th><th width="184.0554663848362">Description</th><th width="174.06957708049114">Outcome</th><th width="150">Coverage</th></tr></thead><tbody><tr><td>Financial</td><td>The strategy generates negative returns</td><td>Partial loss of funds</td><td>Yes</td></tr></tbody></table>
