@@ -83,13 +83,28 @@ Morpho is a peer-to-peer layer built on top of the lending pools of Aave.
 {% endtab %}
 
 {% tab title="Clearpool" %}
-
+Clearpool is a DeFi ecosystem incorporating the first-ever permissionless marketplace for unsecured institutional liquidity.
 
 #### Integrated assets
 
 * [DAI](https://etherscan.io/address/0xDcE26B2c78609b983cF91cCcD43E238353653b0E)
 * [USDC](https://etherscan.io/address/0xDBCEE5AE2E9DAf0F5d93473e08780C9f45DfEb93)
 * [USDT](https://etherscan.io/address/0xc4574C60a455655864aB80fa7638561A756C5E61)
+
+Borrowers: [Portofino](https://www.portofino.tech/), [Fasanara](https://twitter.com/FasanaraDigital)
+{% endtab %}
+{% endtabs %}
+
+**Polygon zkEVM**
+
+{% tabs %}
+{% tab title="Clearpool" %}
+Clearpool is a DeFi ecosystem incorporating the first-ever permissionless marketplace for unsecured institutional liquidity.
+
+#### Integrated assets
+
+* [USDC](https://zkevm.polygonscan.com/token/0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035)
+* [USDT](https://zkevm.polygonscan.com/token/0x1e4a5963abfd975d8c9021ce480b42188849d41d)
 
 Borrowers: [Portofino](https://www.portofino.tech/), [Fasanara](https://twitter.com/FasanaraDigital)
 {% endtab %}
