@@ -95,10 +95,10 @@ We compute the returns of the Senior and the Junior sides using the formulas lis
 
 **Standard case**: between 50 and 99% of the total Tranche's liquidity lying on the Senior side
 
-|             | Liquidity | Expected APY |
-| ----------- | --------- | ------------ |
-| Senior side | $8m       |  8%          |
-| Junior side | $2m       | 18%          |
+| Side   | Liquidity | Expected APY |
+| ------ | --------- | ------------ |
+| Senior | $8m       |  8%          |
+| Junior | $2m       | 18%          |
 
 The Senior Yield share is equal to 80%.&#x20;
 
@@ -106,21 +106,21 @@ Senior funds coverage is 25% and the Junior overperformance vs base APY is 1.8x.
 
 **Hedge case 1**: the majority of total Tranche's liquidity lying on the Senior side ($$\geq$$99%)
 
-|             | Liquidity | Expected APY |
-| ----------- | --------- | ------------ |
-| Senior side | $9.9m     | 10%          |
-| Junior side | $100      | 20%          |
+| Side   | Liquidity | Expected APY |
+| ------ | --------- | ------------ |
+| Senior | $9.9m     | 10%          |
+| Junior | $100      | 20%          |
 
 The Senior Yield share is set to 99% (HC#1).&#x20;
 
 Senior funds coverage is 0% and the Junior overperformance vs base APY is 1.99x.
 
-**Hedge case 2**: less than half of total Tranche's liquidity lying on the Senior side ($$\leq$$50%)
+**the Hedge case 2**: less than half of the total Tranche's liquidity lying on the Senior side ($$\leq$$50%)
 
-|             | Liquidity | Expected APY |
-| ----------- | --------- | ------------ |
-| Senior side | $4m       |  5%          |
-| Junior side | $6m       | 13%          |
+| Side       | Liquidity | Expected APY |
+| ---------- | --------- | ------------ |
+| Senior     | $4m       |  5%          |
+| Juniorthe  | $6m       | 13%          |
 
 The Senior Yield share is set to 50% (HC#2).&#x20;
 
