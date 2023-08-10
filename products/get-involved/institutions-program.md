@@ -42,7 +42,7 @@ Integrators can use the following Dune dashboards to track the program's rewards
 {% endtab %}
 
 {% tab title="Polygon program" %}
-The Polygon _zkEVM_ program distributed rewards on a weekly basis to the partner's wallet address.
+The Polygon _zkEVM_ program distributes rewards on a weekly basis to the partner's wallet address.
 
 The minimum threshold to distribute the rewards is 100 MATIC.
 
