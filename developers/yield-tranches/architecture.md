@@ -12,9 +12,7 @@ YTs are also ERC-4626 compliant! Deployed wrappers can be found [here.](deployed
 
 The IdleCDO contract pools users' funds together and uses `IIdleCDOStrategy` as a proxy for interacting with the underlying DeFi protocol to deposit funds and collect interest and rewards.
 
-Governance tokens collected as rewards are not redistributed to users directly in the IdleCDO contract but rather sold to the market (`harvest` method) and the underlying reinvested in the downstream lending provider where possible.&#x20;
-
-Other tokens, if any (e.g. IDLE that won't be sold or tokens that have no liquid markets) will get redistributed to people who staked their tranches in a `LiquidityGauge` contract usually one for AA and sometimes one for BB (for more info on Gauges, see [here](../gauges/)).
+Governance tokens collected as rewards are not redistributed to users directly in the IdleCDO contract but rather sold to the market (`harvest` method) and the underlying reinvested in the downstream lending provider where possible.
 
 ### Codebase and contracts
 
