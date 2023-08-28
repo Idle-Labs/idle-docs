@@ -10,7 +10,7 @@ description: Other > Guides > Idle on Ethereum > Redeem funds
 2. Visit the strategy page of your choice and click on _Withdraw_ in the right panel
 3. Input the amount you want to redeem and click on _Withdraw_
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ### Redeem only **farmed rewards**
 
