@@ -83,7 +83,7 @@ $$
 $$
 
 $$
-\text{Overperformance}_{Jr} = \frac{\text{APY}_{Jr} - \text{Base APY}}{\text{Base APY}}
+\text{Overperformance}_{Jr} = \frac{\text{APY}_{Jr}}{\text{Base APY}}
 $$
 
 ### Examples
@@ -91,7 +91,7 @@ $$
 We compute the returns of the Senior and the Junior sides using the formulas listed previously, assuming
 
 * An average underlying APY of 10%
-* Total liquidity of the Tranches equal to $10,000,000
+* The total liquidity of the Tranche equal to $10,000,000
 
 **Standard case**: between 50 and 99% of the total Tranche's liquidity lying on the Senior side
 
@@ -115,7 +115,7 @@ The Senior Yield share is set to 99% (HC#1).&#x20;
 
 Senior funds coverage is 0% and the Junior overperformance vs base APY is 1.99x.
 
-**the Hedge case 2**: less than half of the total Tranche's liquidity lying on the Senior side ($$\leq$$50%)
+**Hedge case 2**: less than half of the total Tranche's liquidity lying on the Senior side ($$\leq$$50%)
 
 | Side       | Liquidity | Expected APY |
 | ---------- | --------- | ------------ |
