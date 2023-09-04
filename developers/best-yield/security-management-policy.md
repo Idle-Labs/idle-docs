@@ -4,7 +4,7 @@ description: Developers > Best Yield > Security management policy
 
 # Security management policy
 
-## Best Yield strategy
+## Best Yield vaults
 
 `IdleTokenV4`, the factory contract for the _Best Yield_ strategy is an upgradable contract that uses [OpenZeppelin upgradability pattern](https://docs.openzeppelin.com/upgrades/2.8/proxies). Its upgradability is owned by the `Timelock` contract, which is controlled by IDLE token holders (as described in the [governance process](../../governance/idle-dao/governance-process/) section).
 
@@ -18,7 +18,7 @@ There are a few administrative privileges that the `Timelock` have besides the a
 * It can add and or remove governance tokens supported for distribution;
 * `fee` and `feeAddress`can be updated. \
   The fee is capped and can be at most 10% of the interest earned currently;
-* It can set `maxUnlentPerc`, i.e. a percentage of unlent funds used for cheap redeem (currently 1% of all deposited assets).
+* It can set `maxUnlentPerc`, i.e. a percentage of unlent funds used for cheap redemption (currently 1% of all deposited assets).
 
 ### Additional functions
 
@@ -26,22 +26,28 @@ As part of the Security Management policy, there are 2 more functions with diffe
 
 {% tabs %}
 {% tab title="Pause Guardian" %}
-`mintIdleToken` and `rebalance` can be paused during emergency situations, while `redeemIdleToken` and `redeemInterestBearingTokens` will always be available.\
+`mintIdleToken` and `rebalance` can be paused during emergency situations, while `redeemIdleToken` and `redeemInterestBearingTokens` will always be available.
 
+<table><thead><tr><th width="209">Product</th><th>Guardian</th></tr></thead><tbody><tr><td>Senior BY vaults</td><td><a href="https://etherscan.io/address/0xaDa343Cb6820F4f5001749892f6CAA9920129F2A">Idle Labs</a> multisig and <a href="https://etherscan.io/address/0xBaeCba470C229984b75BC860EFe8e97AE082Bb9f">Hypernative</a> pauser multisig</td></tr><tr><td>Junior BY vaults</td><td><a href="https://etherscan.io/address/0xFb3bD022D5DAcF95eE28a6B07825D4Ff9C5b3814">Treasury League</a> multisig, <a href="https://etherscan.io/address/0xe8eA8bAE250028a8709A3841E0Ae1a44820d677b">Development League</a> multisig and <a href="https://etherscan.io/address/0xBaeCba470C229984b75BC860EFe8e97AE082Bb9f">Hypernative</a> pauser multisig</td></tr></tbody></table>
 
-The pause guardian is currently _Idle Labs Inc._ with a 2-of-4 multisig [`0xaDa343Cb6820F4f5001749892f6CAA9920129F2A`](http://etherscan.io/address/0xaDa343Cb6820F4f5001749892f6CAA9920129F2A).\
+where&#x20;
 
+* Idle Labs multisig has a 2/4 threshold [`0xaDa343Cb6820F4f5001749892f6CAA9920129F2A`](http://etherscan.io/address/0xaDa343Cb6820F4f5001749892f6CAA9920129F2A)
+* Treasury League multisig has a 3/6 threshold\
+  [`0xFb3bD022D5DAcF95eE28a6B07825D4Ff9C5b3814`](https://etherscan.io/address/0xFb3bD022D5DAcF95eE28a6B07825D4Ff9C5b3814)
+* Development League multisig has a 3/6 threshold\
+  [`0xe8eA8bAE250028a8709A3841E0Ae1a44820d677b`](https://etherscan.io/address/0xe8eA8bAE250028a8709A3841E0Ae1a44820d677b)
+* Hypernative pauser multisig has a 2/5 threshold\
+  [`0xBaeCba470C229984b75BC860EFe8e97AE082Bb9f`](https://etherscan.io/address/0xBaeCba470C229984b75BC860EFe8e97AE082Bb9f)
 
 The guardian can be changed at any time by the governance with a proposal.
 {% endtab %}
 
 {% tab title="Rebalancer" %}
-The address designated to submit new allocations is currently set to [`0xB3C8e5534F0063545CBbb7Ce86854Bf42dB8872B`](https://etherscan.io/address/0xb3c8e5534f0063545cbbb7ce86854bf42db8872b). \
+The address designated to submit new allocations is currently set to [`0xB3C8e5534F0063545CBbb7Ce86854Bf42dB8872B`](https://etherscan.io/address/0xb3c8e5534f0063545cbbb7ce86854bf42db8872b).&#x20;
 
+The Rebalancer can be changed at any time by the governance with a proposal.
 
-The Rebalancer can be changed at any time by the governance with a proposal.\
-
-
-For the Best Yield strategy, there is also the [openRebalance](broken-reference) available that allows anyone to submit new allocations, currently disabled for security reasons.
+For the Best Yield vaults, there is also the [`openRebalance`](broken-reference) available that allows anyone to submit new allocations, currently disabled for security reasons.
 {% endtab %}
 {% endtabs %}

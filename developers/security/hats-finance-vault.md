@@ -1,5 +1,5 @@
 ---
-description: Developers > Security > Hats Finance Vault
+description: Developers > Security > Hats Finance vault
 ---
 
 # Hats Finance vault

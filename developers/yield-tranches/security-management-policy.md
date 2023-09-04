@@ -12,13 +12,19 @@ The owner of the Proxy Admin and of Yield Tranches' contracts  is the `Treasury 
 
 ### Additional functions
 
-As part of the Security Management policy, there is one more function on the `IdleCDO` contract.
+As part of the Security Management policy, there is one more function in the `IdleCDO` contract.
 
 {% tabs %}
 {% tab title="Pause Guardian" %}
-The pause guardian can pause, unpause and call `emergencyShutdown`.\
-YTs contracts can be paused during emergency situations.\
-\
-The pause guardian is currently the Idle Dev Multisig [`0xe8eA8bAE250028a8709A3841E0Ae1a44820d677b`](https://etherscan.io/address/0xe8eA8bAE250028a8709A3841E0Ae1a44820d677b)
+The pause guardian can pause, unpause and call `emergencyShutdown`. YTs contracts can be paused during emergency situations.
+
+<table><thead><tr><th width="209">Product</th><th>Guardian</th></tr></thead><tbody><tr><td>Yield Tranches</td><td><a href="https://etherscan.io/address/0xBaeCba470C229984b75BC860EFe8e97AE082Bb9f">Hypernative</a> pauser multisig</td></tr></tbody></table>
+
+where&#x20;
+
+* Hypernative pauser multisig has a 2/5 threshold\
+  [`0xBaeCba470C229984b75BC860EFe8e97AE082Bb9f`](https://etherscan.io/address/0xBaeCba470C229984b75BC860EFe8e97AE082Bb9f)
+
+The guardian can be changed at any time by the governance with a proposal.
 {% endtab %}
 {% endtabs %}

@@ -99,11 +99,12 @@
   * [Gauges repository](https://github.com/Idle-Finance/idle-gauges)
   * [stkIDLE repository](https://github.com/Idle-Finance/idle-staking)
 * [Security](developers/security/README.md)
-  * [Smart contract audits](developers/security/audits.md)
-  * [Immunefi bug bounty](developers/security/bug-bounty.md)
   * [Hats Finance vault](developers/security/hats-finance-vault.md)
-  * [Risk Framework](developers/security/risk-framework.md)
+  * [Hypernative monitoring](developers/security/hypernative-monitoring.md)
+  * [Immunefi bug bounty](developers/security/bug-bounty.md)
   * [Integration Standard Requirements](developers/security/integration-standard-requirements.md)
+  * [Risk Framework](developers/security/risk-framework.md)
+  * [Smart contract audits](developers/security/audits.md)
 
 ## 🏛 Governance
 

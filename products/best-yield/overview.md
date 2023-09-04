@@ -9,7 +9,7 @@ Based on the initial set-up of the Best Yield (OG) strategy, aggregating and opt
 1. **Senior Best Yield**: aggregating the over-collateralized, top-tier lending protocols Aave, Compound and the Idle Senior Perpetual Yield Tranches maintaining a conservative risk profile while extending and improving the yield spectrum.
 2. **Junior Best Yield**: aggregating multiple Idle Junior Perpetual Yield Tranches on a single asset as underlying to create a new tier of risk in Best Yield, allowing to automate an aggressive approach and offer significantly higher APYs.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ## How does Best Yield work?
 

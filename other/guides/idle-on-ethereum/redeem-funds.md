@@ -25,7 +25,7 @@ description: Other > Guides > Idle on Ethereum > Redeem funds
 
        By clicking on your wallet, you can see your current portfolio assets and $IDLE balance.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Redeem only **farmed governance tokens**
 
