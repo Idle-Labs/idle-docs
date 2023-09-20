@@ -15,7 +15,7 @@ The <mark style="color:blue;">**Product Suite**</mark> is currently composed of
 | <p>A lending aggregator that automatically analyses supply rate functions across integrated protocols and total funds in the pool to constantly rebalance capital across any number of protocols to <strong>earn the highest interest rate possible</strong> with very high precision. <br><br>It is currently available for <strong>Ethereum</strong> and <strong>Polygon</strong> networks<strong>.</strong> </p> | <p>YTs are capital pools that automatically generate and tranche yields and risks based on a range of market-neutral yield strategies, including lending income, trading fees from Automated Market Makers, and protocol incentive farming.  <br><br>Pools are associated with two risk-adjusted classes: <strong>Senior</strong> and <strong>Junior</strong> tranches.</p> |
 
 {% hint style="warning" %}
-_The former_[ _Risk-adjusted_ ](../other/archive/risk-adjusted.md)strategy has been deprecated in October 2021, and it's no more part of the current Idle Products suite.
+_The former_[ _Risk-adjusted_ ](../other/archive/risk-adjusted.md)strategy was deprecated in October 2021, and it's no more part of the current products suite.
 {% endhint %}
 
 ## Products index
@@ -48,10 +48,8 @@ With a focus on the integration process for DAOs and DeFi platforms that want to
 
 ## IPFS interface
 
-The Idle protocol and its products are accessible via IPFS at the following URLs
+The Idle protocol and its products are accessible via IPFS at the following URL
 
-* [https://bafybeifs6zlp3nnxx4pu7loioaqsa3w5r5rd4nvztdcthzwwdgcathnw6i.ipfs.infura-ipfs.io](https://bafybeifs6zlp3nnxx4pu7loioaqsa3w5r5rd4nvztdcthzwwdgcathnw6i.ipfs.infura-ipfs.io/#/) ([CID](https://docs.ipfs.io/concepts/content-addressing/): `QmaPF9JPCMP66bu9r2vsTinjTHTkPgbryxYqjA2tWN4RiZ`)
-
-{% embed url="https://ipfs.idle.finance" %}
-[https://ipfs.idle.finance](https://ipfs.idle.finance/)
+{% embed url="https://ipfs.idle.finance/" fullWidth="false" %}
+[https://ipfs.idle.finance/](https://ipfs.idle.finance/)
 {% endembed %}
