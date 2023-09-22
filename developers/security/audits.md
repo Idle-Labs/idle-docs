@@ -20,15 +20,21 @@ Idle protocol `idleTokens` [Best Yield contracts](https://github.com/Idle-Labs/i
 
 {% tabs %}
 {% tab title="Consensys Diligence" %}
-Full audit of v1, up to this [commit](https://github.com/Idle-Labs/idle-tranches/tree/ff0b69380828657f16df8683c35703b325a6b656):
+Full audit of v1, up to this [commit](https://github.com/Idle-Labs/idle-tranches/tree/ff0b69380828657f16df8683c35703b325a6b656)
 
 [https://consensys.net/diligence/audits/2021/06/idle-finance](https://consensys.net/diligence/audits/2021/06/idle-finance/)
 {% endtab %}
 
 {% tab title="Certik" %}
-Full audit:&#x20;
+Full audit
 
 [https://www.certik.org/projects/idle-finance](https://www.certik.org/projects/idle-finance)
+{% endtab %}
+
+{% tab title="Solo audit" %}
+Solo audit of v2 by [Hans Friese](https://code4rena.com/@hansfriese)
+
+{% file src="../../.gitbook/assets/Idle_Finance_Yield_Tranches_Audit_Report_Hans_20230901.pdf" %}
 {% endtab %}
 {% endtabs %}
 
