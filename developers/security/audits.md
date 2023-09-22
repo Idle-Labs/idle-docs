@@ -31,7 +31,7 @@ Full audit
 [https://www.certik.org/projects/idle-finance](https://www.certik.org/projects/idle-finance)
 {% endtab %}
 
-{% tab title="Solo audit" %}
+{% tab title="Code4rena" %}
 Solo audit of v2 by [Hans Friese](https://code4rena.com/@hansfriese)
 
 {% file src="../../.gitbook/assets/Idle_Finance_Yield_Tranches_Audit_Report_Hans_20230901.pdf" %}
