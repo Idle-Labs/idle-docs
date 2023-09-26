@@ -6,7 +6,9 @@ description: Products > Yield Tranches > Overview > AYS
 
 > The Adaptive Yield Split is a unique feature of YTs that manages the return distribution dynamically conditional to the liquidity deposited on each side (Senior/Junior) of the Tranche.
 
-<figure><img src="../../.gitbook/assets/1001b_01.GIF" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../../.gitbook/assets/AYS.gif" alt=""><figcaption></figcaption></figure>
 
 Mathematically, the formulas behind this mechanism consider mainly [Senior and Junior liquidity ratios](adaptive-yield-split.md#liquidity-ratios) to compute [Senior and Junior returns](adaptive-yield-split.md#senior-and-junior-yields).
 
