@@ -44,15 +44,11 @@ The query string params are:\
 
 {% swagger method="get" path="" baseUrl="api.idle.finance" summary="rates" %}
 {% swagger-description %}
-Return historical daily data for Best Yield strategies in a given calendar range. 
+Return historical daily data for Best Yield strategies in a given calendar range.&#x20;
 {% endswagger-description %}
 
 {% swagger-parameter in="query" name="<params>" %}
-
-
-[Params](api.md#less-than-params-greater-than)
-
- to filter data
+[Params](api.md#less-than-params-greater-than) to filter data
 {% endswagger-parameter %}
 
 {% swagger-parameter in="path" name="<address>" required="true" %}
