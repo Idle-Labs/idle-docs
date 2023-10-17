@@ -5,7 +5,7 @@ description: Governance > Idle DAO > Governance process
 # Governance process
 
 {% hint style="info" %}
-Any address with at least 130,000 IDLE (1% of the total supply) delegated to is able to propose IIPs (on-chain proposals), which are _executable code._ The Timelock contract would then modify system parameters, logic, and contracts in a 'time-delayed, opt-out' upgrade pattern (as described in the [On-Chain Proposal section](./#4.-on-chain-proposal)).
+Any address with at least 130,000 IDLE (1% of the total supply) delegated to is able to propose IIPs (on-chain proposals), which are _executable codes._ The Timelock contract would then modify system parameters, logic, and contracts in a "time-delayed", "opt-out" upgrade pattern (as described in the [On-Chain Proposal section](./#4.-on-chain-proposal)).
 {% endhint %}
 
 Any proposal, idea, or initiative for the Idle protocol coming from a community member or Leagues' contributor follows a governance process composed of several steps:
@@ -14,9 +14,9 @@ Any proposal, idea, or initiative for the Idle protocol coming from a community 
 
 ### 1. Idea Discussion
 
-Community members can propose early-stage ideas in the [Ideas and improvements](https://gov.idle.finance/c/proposals/new-features-improvements/5) category to receive initial feedback. If community members have an already structured proposal, they can leverage the [Formal Proposals](https://gov.idle.finance/c/proposals/formal-proposal/21) category.
+Community members can propose early-stage ideas in the [Ideas and Improvements](https://gov.idle.finance/c/proposals/new-features-improvements/5) category to receive initial feedback. If community members have an already structured proposal, they can use the [Formal Proposals](https://gov.idle.finance/c/proposals/formal-proposal/21) category.
 
-DAO contributors can use the templates available in the Governance Forum.
+DAO contributors can use the templates available in the Governance Forum. Some categories provide a suggested template that can be found by clicking the "New Topic" button.&#x20;
 
 **Timeline:** 2+ days of discussion
 
@@ -28,36 +28,34 @@ DAO contributors can use the templates available in the Governance Forum.
 
 After a successful idea discussion, community members can create the associated Snapshot poll (off-chain action) to measure the sentiment of the community about the potential change.&#x20;
 
-For the time being, contributors need to open 2 polls: one for $IDLE votes and one for stkIDLE ones.
+For the time being, contributors need to open two polls: one for IDLE votes and one for stkIDLE ones.
 
-Users need to hold at least 100 $IDLE to open a Snapshot poll.
+Users need to hold at least 100 IDLE to open a Snapshot poll.
 
 **Timeline:** 3+ days of voting
 
-**Website:** [Snapshot page](https://snapshot.page/#/idlefinance.eth/) for $IDLE holders and [Snapshot page](https://snapshot.org/#/staking.idlefinance.eth) for stkIDLE holders
-
-_tot. IDLE stakes/tot. stkIDLE minted)\*tot. stkIDLE voting in the pool\*% of each option_
+**Website:** [Snapshot page](https://snapshot.org/#/idlefinance.eth) for IDLE holders and [Snapshot page](https://snapshot.org/#/staking.idlefinance.eth) for stkIDLE holders
 
 {% hint style="warning" %}
 In 2021, Idle DAO [approved](https://gov.idle.finance/t/voting-framework-for-stkidle-holders/567) a voting process update affecting stkIDLE holders only:
 
-* Voting poll: a new [stkIDLE holders voting space ](https://snapshot.org/#/staking.idlefinance.eth)has been created on Snapshot.
+* A new [stkIDLE holders voting space ](https://snapshot.org/#/staking.idlefinance.eth)has been created on Snapshot.
 * No quorum is required to validate the vot_e **off-chain**_
-* The voting weight of stkIDLE is calculated in the form of weighted IDLE tokens as
-
-$$\large{\frac{\text{tot. IDLE staked}}{\text{tot. stkIDLE minted}}}\times \text{tot. stkIDLE voting} \times \text{\% on each option}$$
+* The voting weight of stkIDLE is calculated in the form of weighted IDLE tokens as\
+  \
+  $$\large{\frac{\text{tot. IDLE staked}}{\text{tot. stkIDLE minted}}}\times \text{tot. stkIDLE voting} \times \text{\% on each option}$$
 
 \
-The sum of the voting weights cast by $IDLE and stkIDLE holders represents the final snapshot results (votes results are reported in the official [calculator](https://docs.google.com/spreadsheets/d/1BnH9boRmBADuyquvDMh0AmQfF97Zj76sIENKtySLU8o/edit?usp=sharing)).
+The sum of the voting weights cast by IDLE and stkIDLE holders represents the final snapshot results (votes results are reported in the official [calculator](https://docs.google.com/spreadsheets/d/1BnH9boRmBADuyquvDMh0AmQfF97Zj76sIENKtySLU8o/edit?usp=sharing)).
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
 
 ### 3. Proposal Formalization
 
-After having reached a consensus in the Temperature Check, the initial proposer or another community member can submit the idea as an IIP in the [proposals category](https://gov.idle.finance/c/proposals/6) in the Governance forum.&#x20;
+After having reached a consensus in the Temperature Check, the initial proposer or another community member can submit the idea as an IIP in the [Proposals category](https://gov.idle.finance/c/proposals/6) in the Governance forum.&#x20;
 
-DAO contributors can use the templates available in the Governance Forum.
+DAO contributors can use the templates available in the Governance Forum. Some categories provide a suggested template that can be found by clicking the "New Topic" button.
 
 **Timeline:** 2+ days of discussion
 
@@ -85,7 +83,7 @@ If the poll quorum is reached, the Treasury multisign, which holds delegated vot
 **Website:** [Idle DAO Governance voting page on Tally](https://www.tally.xyz/gov/idle)
 
 {% hint style="info" %}
-If a proposal is successful, it can be queued for execution and after 2 days it can be executed on-chain.&#x20;
+If a proposal is successful, it can be queued for execution and, after 2 days, can be executed on-chain.&#x20;
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
