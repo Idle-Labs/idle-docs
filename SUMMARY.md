@@ -144,7 +144,7 @@
     * [FAQs](governance/idle-staking/gauges/faqs.md)
   * [Boost](governance/idle-staking/boost.md)
   * [Guides](governance/idle-staking/guides/README.md)
-    * [How to stake your IDLE](governance/idle-staking/guides/how-to-stake-your-idle.md)
+    * [How to stake your IDLE](governance/idle-staking/guides/how-to-stake-your-usdidle.md)
     * [How to vote in Gauges](governance/idle-staking/guides/how-to-vote-in-gauges.md)
     * [How to boost your $IDLE rewards](governance/idle-staking/guides/how-to-boost-your-usdidle-rewards.md)
     * [How to give VEV](governance/idle-staking/guides/how-to-give-vev.md)

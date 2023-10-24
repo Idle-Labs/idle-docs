@@ -12,7 +12,7 @@ User can further [boost their IDLE rewards](../boost.md) by staking their pool t
 
 ![](<../../../.gitbook/assets/image (75).png>)
 
-The process is similar to the usual [IDLE staking](how-to-stake-your-idle.md) mechanism.&#x20;
+The process is similar to the usual [IDLE staking](how-to-stake-your-usdidle.md) mechanism.&#x20;
 
 The Gauges dashboard will show you live how your boosting multiplier will change as you increase your staking share in the pool.&#x20;
 

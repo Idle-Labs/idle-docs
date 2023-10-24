@@ -10,7 +10,7 @@ To vote on Gauges and share weights preferences, users should use the [Gauges me
 
 ![](<../../../.gitbook/assets/image (40).png>)
 
-First, remember to [stake your IDLE](how-to-stake-your-idle.md#staking), then
+First, remember to [stake your IDLE](how-to-stake-your-usdidle.md#staking), then
 
 1. Select the Gauges pool of your interest using the drop-down menu.
 2. Click on _Vote_ and choose an amount of stkIDLE to be allocated to the gauges.
