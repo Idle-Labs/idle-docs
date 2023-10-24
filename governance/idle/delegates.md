@@ -1,5 +1,5 @@
 ---
-description: Governance > $IDLE token > Delegates
+description: Governance > IDLE token > Delegates
 ---
 
 # Delegates

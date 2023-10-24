@@ -1,5 +1,5 @@
 ---
-description: Governance > $IDLE staking > Gauges > FAQs
+description: Governance > IDLE staking > Gauges > FAQs
 ---
 
 # FAQs
@@ -8,7 +8,7 @@ description: Governance > $IDLE staking > Gauges > FAQs
 
 <summary><strong>What are gauge weights?</strong></summary>
 
-Gauge weights account how much $IDLE will be received by a liquidity gauge.
+Gauge weights account how much IDLE will be received by a liquidity gauge.
 
 </details>
 
@@ -16,7 +16,7 @@ Gauge weights account how much $IDLE will be received by a liquidity gauge.
 
 <summary><strong>Who can vote for gauge weights?</strong></summary>
 
-Only users who stake/lock their $IDLE (i.e. stkIDLE holders) have access to gauge weight voting.
+Only users who stake/lock their IDLE (i.e. stkIDLE holders) have access to gauge weight voting.
 
 </details>
 

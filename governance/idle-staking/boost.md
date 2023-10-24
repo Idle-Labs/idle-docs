@@ -1,22 +1,22 @@
 ---
-description: Governance > $IDLE staking > LPs rewards boost
+description: Governance > IDLE staking > LPs rewards boost
 ---
 
 # Boost
 
-Liquidity providers for PYTs (or whitelisted pools for Gauges) can boost their $IDLE rewards by holding stkIDLE. The boost can be up to **2.5x** the base rewards, based on the amount of stkIDLE holding.
+Liquidity providers for PYTs (or whitelisted pools for Gauges) can boost their IDLE rewards by holding stkIDLE. The boost can be up to **2.5x** the base rewards, based on the amount of stkIDLE holding.
 
-The liquidity providers balance counted in the liquidity gauge is eligible to get boosted (depending on LPs vote weight) if LPs lock/stake their $IDLE (then as a result of this, holding stkIDLE).
+The liquidity providers' balance counted in the liquidity gauge is eligible to get boosted (depending on LPs vote weight) if LPs lock/stake their $IDLE (then as a result of this, holding stkIDLE).
 
-Holding stkIDLE gives users more weight when collecting certain farming rewards. Part of the farming rewards that are distributed directly through the protocol is eligible for stkIDLE boosts.
+Holding stkIDLE gives users more weight when collecting certain farming rewards. Part of the farming rewards that are distributed directly through the protocol are eligible for stkIDLE boosts.
 
 {% hint style="danger" %}
-External farming promoted by other external protocols (such as Sushi, Onsen) is typically not available for stkIDLE boosts since it is independent of the Idle protocol itself.
+External farming promoted by other external protocols (such as Sushi and Onsen) is typically not available for stkIDLE boosts since it is independent of the Idle protocol itself.
 {% endhint %}
 
-In a given gauge, owning stkIDLE increases a user share of the pool thus increasing the rewards received. **Users holding no stkIDLE are anyway considered as providing 100% of their liquidity**. If a user owns enough stkIDLE, the user can be considered as bringing up to 250% of its original liquidity (or a 2.5x boost compared to the original 100%).
+In a given gauge, owning stkIDLE increases a user share of the pool thus increasing the rewards received. **Users holding no stkIDLE are considered as providing 100% of their liquidity**. If a user owns enough stkIDLE, the user can be considered as bringing up to 250% of its original liquidity (or a 2.5x boost compared to the original 100%).
 
-The 2.5x multiplier in liquidity provided translates into a boost on rewards depending on the total liquidity provided in the pool and how it is considered by the gauge boost calculator.
+The 2.5x multiplier in liquidity provided translates into a boost in rewards depending on the total liquidity provided in the pool and how it is considered by the gauge boost calculator.
 
 ### Boosting formulae
 

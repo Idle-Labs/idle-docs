@@ -1,5 +1,5 @@
 ---
-description: Governance > $IDLE staking > Guides > How to give VEV
+description: Governance > IDLE staking > Guides > How to give VEV
 ---
 
 # How to give VEV
