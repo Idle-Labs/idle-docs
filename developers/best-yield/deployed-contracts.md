@@ -12,8 +12,8 @@ You can find the currently deployed instances and ABIs of the Best Yield contrac
 
 The table lists all the BY addresses currently available following this scheme:&#x20;
 
-* Senior BY = a strategy adding [Senior tranches](../yield-tranches/deployed-contracts.md) to Aave and Compound as underlying markets
-* Junior BY = a strategy using [Junior tranches](../yield-tranches/deployed-contracts.md) as underlying markets
+* Senior BY = a strategy adding [Senior tranches](../yield-tranches/deployed-contracts/) to Aave and Compound as underlying markets
+* Junior BY = a strategy using [Junior tranches](../yield-tranches/deployed-contracts/) as underlying markets
 
 The ABI of the Best Yield contract can be found here: [JSON](https://github.com/Idle-Labs/idle-contracts/tree/develop/abi).
 

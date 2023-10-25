@@ -45,9 +45,9 @@ More technical details regarding this split mechanism can be found in the dedica
 
 ## Protocols and assets
 
-Yield Tranches are available on Ethereum and Polygon for multiple protocols and underlying assets.
+Yield Tranches are available on Ethereum, Polygon zkEVM and Optimism for multiple protocols and underlying assets.
 
-### Ethereum
+### Ethereum mainnet
 
 {% tabs %}
 {% tab title="Lido" %}
@@ -95,16 +95,30 @@ Borrowers: [Portofino](https://www.portofino.tech/), [Fasanara](https://twitter.
 {% endtab %}
 {% endtabs %}
 
-### **Polygon zkEVM**
+### **L2s**
 
 {% tabs %}
-{% tab title="Clearpool" %}
+{% tab title="Polygon zkEVM" %}
+**Clearpool**
+
 Clearpool is a DeFi ecosystem incorporating the first-ever permissionless marketplace for unsecured institutional liquidity.
 
 #### Integrated assets
 
 * [USDC](https://zkevm.polygonscan.com/token/0xa8ce8aee21bc2a48a5ef670afcc9274c7bbbc035)
 * [USDT](https://zkevm.polygonscan.com/token/0x1e4a5963abfd975d8c9021ce480b42188849d41d)
+
+Borrowers: [Portofino](https://www.portofino.tech/), [Fasanara](https://twitter.com/FasanaraDigital)
+{% endtab %}
+
+{% tab title="Optimism" %}
+**Clearpool**
+
+Clearpool is a DeFi ecosystem incorporating the first-ever permissionless marketplace for unsecured institutional liquidity.
+
+#### Integrated assets
+
+* [USDT](https://optimistic.etherscan.io/token/0x94b008aa00579c1307b0ef2c499ad98a8ce58e58)
 
 Borrowers: [Portofino](https://www.portofino.tech/), [Fasanara](https://twitter.com/FasanaraDigital)
 {% endtab %}

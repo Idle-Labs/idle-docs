@@ -13,7 +13,7 @@ Based on this concept, Idle launched its own tranches primitive: [Yield Tranches
 Each tranched asset has its own yield source, with two risk-adjusted investment profiles (Senior and Junior).&#x20;
 
 {% hint style="success" %}
-Taking the DAI tranche based on the Euler eDAI pool as an example, DAI funds deposited into the Senior and Junior class of that Euler-based product are aggregated into a single pool and then deployed into the Euler eDAI pool.
+Taking the stETH Yield Tranche based on the Instadapp stETH pool as an example, stETH deposited into the Senior and Junior classes of that Instadapp-based strategy are aggregated into a single pool and then deployed into the Instadapp Lite market.
 {% endhint %}
 
 Tranches allow users to enjoy DeFi yields with **built-in protection on deposits** for Senior depositors or **boosted yield** for Junior ones.
