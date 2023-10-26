@@ -16,7 +16,7 @@ Any proposal, idea, or initiative for the Idle protocol coming from a community 
 Users can visit this [Syncvote page](https://app.syncvote.com/public/idle-governance-process-229/idle-dao-governance-process-300/320) to get an overview of the governance process
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (90).png" alt=""><figcaption><p>Syncovote Idle DAO governance process</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (90).png" alt=""><figcaption><p>Syncvote's preview of Idle DAO governance process</p></figcaption></figure>
 
 ### 1. Idea Discussion
 
