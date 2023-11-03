@@ -14,7 +14,7 @@ Paladin is a voting market protocol. With our collaboration with Paladin, IDLE t
 
 _Using IDLE as collateral is not currently supported on Paladin._
 
-![](<../../../.gitbook/assets/image (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (1) (1) (1) (1).png>)
 
 **Website:** [Paladin Supply site](https://app.paladin.vote/#/supply)
 
