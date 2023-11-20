@@ -10,8 +10,6 @@ You can find the currently deployed instances and ABIs of the product suite (lin
 
 ### [Yield Tranches](../yield-tranches/deployed-contracts/#perpetual-yield-tranches)
 
-### [Gauges](../gauges/deployed-contracts.md)
-
 ### Governance
 
 The Idle Governance ABI can be found here: [JSON](https://github.com/Idle-Labs/idle-governance/tree/develop/abi).

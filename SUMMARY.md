@@ -34,7 +34,7 @@
 * [Introduction](developers/introduction.md)
 * [Networks and codebase](developers/networks-and-codebase/README.md)
   * [Ethereum mainnet](developers/networks-and-codebase/ethereum-mainnet.md)
-  * [Polygon network](developers/networks-and-codebase/polygon-network.md)
+  * [Polygon](developers/networks-and-codebase/polygon.md)
   * [Kovan testnet](developers/networks-and-codebase/kovan-testnet.md)
   * [ERC-4626 standard](developers/networks-and-codebase/erc-4626-standard.md)
 * [Best Yield](developers/best-yield/README.md)

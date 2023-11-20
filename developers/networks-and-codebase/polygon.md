@@ -2,11 +2,9 @@
 description: Developers > Networks and codebase > Polygon
 ---
 
-# Polygon network
+# Polygon
 
 You can find the currently deployed instances and ABIs of the product suite and governance contracts at the following addresses.
-
-### [Best Yield strategy](../best-yield/deployed-contracts.md#polygon)
 
 ### Governance
 

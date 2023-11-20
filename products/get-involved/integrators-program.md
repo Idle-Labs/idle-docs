@@ -21,12 +21,12 @@ The [Treasury League](../../governance/idle-dao/idle-leagues/treasury-league.md)
 
 {% tabs %}
 {% tab title="Tiers" %}
-These nine tiers of fee sharing apply to both the Ethereum and the Polygon Integration Partners programs.
+These tiers of fee sharing apply to all the active Integrators partner programs.
 
 <table><thead><tr><th data-type="number">Tier</th><th align="right">Partner's TVL</th><th align="right">Fee share</th></tr></thead><tbody><tr><td>1</td><td align="right">$1 - 5m</td><td align="right">10%</td></tr><tr><td>2</td><td align="right">$5 - 10m</td><td align="right">15%</td></tr><tr><td>3</td><td align="right">$10 - 50m</td><td align="right">20%</td></tr><tr><td>4</td><td align="right">$50 - 100m</td><td align="right">25%</td></tr><tr><td>5</td><td align="right">$100 - 200m</td><td align="right">30%</td></tr><tr><td>6</td><td align="right">$200 - 400m</td><td align="right">35%</td></tr><tr><td>7</td><td align="right">$400 - 700m</td><td align="right">40%</td></tr><tr><td>8</td><td align="right">$700m - 1b</td><td align="right">45%</td></tr><tr><td>9</td><td align="right">> $1b</td><td align="right">50%</td></tr></tbody></table>
 {% endtab %}
 
-{% tab title="Ethereum program" %}
+{% tab title="Ethereum" %}
 The Ethereum program distributes the rewards on a monthly basis through a [vesting contract](https://legacy.idle.finance/#/tools/b2b-vesting-contract) available under the [Tool section of the legacy app](https://legacy.idle.finance/#/tools/b2b-vesting-contract). Tokens are vested on a linear basis over a 3-month period.&#x20;
 
 The minimum threshold to distribute the rewards is 500 IDLE.
@@ -41,7 +41,7 @@ Integrators can use the following Dune dashboards to track the program's rewards
 {% embed url="https://dune.com/idle.finance/ipp-ethereum" %}
 {% endtab %}
 
-{% tab title="Polygon program" %}
+{% tab title="Polygon" %}
 The Polygon _zkEVM_ program distributes rewards on a weekly basis to the partner's wallet address.
 
 The minimum threshold to distribute the rewards is 100 MATIC.
@@ -54,6 +54,17 @@ The minimum threshold to distribute the rewards is 100 MATIC.
 Integrators can use the following Dune dashboards to track the program's rewards.
 
 {% embed url="https://dune.com/idle.finance/integration-partners-program-polygon" %}
+{% endtab %}
+
+{% tab title="Optimism" %}
+The _Optimism_ program distributes rewards on a weekly basis to the partner's wallet address.
+
+The minimum threshold to distribute the rewards is 100 MATIC.
+
+* Product: Yield Tranches
+* Rewards: OP
+* Frequency: weekly
+* Distribution: direct transfer to partner's wallet
 {% endtab %}
 {% endtabs %}
 
