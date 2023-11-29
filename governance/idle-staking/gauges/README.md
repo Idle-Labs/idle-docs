@@ -54,7 +54,7 @@ Thanks to VEV, protocols interested in having more weight in their liquidity gau
 
 The ownership of the Gauges contracts can be summarized as follows:
 
-* The [`GaugeProxy`](../../../developers/gauges/deployed-contracts.md#gauges-system) and [`GaugeController`](../../../developers/gauges/deployed-contracts.md#gauges-system) contracts are owned by the Treasury League multisig.
+* The [`GaugeProxy`](../../../other/archive/gauges/deployed-contracts.md#gauges-system) and [`GaugeController`](../../../other/archive/gauges/deployed-contracts.md#gauges-system) contracts are owned by the Treasury League multisig.
 * The `LiquidityGauge` contract is owned by the `GaugeProxy` contract. Initially was owned by the Development League multisig during the gauges guarded launch. This change will let new PYTs partners adhere to the [gauges whitelisting framework](broken-reference) and launch IIPs to add their PYTs pools to the $IDLE Gauges system.
-* The [`MultiRewards` contracts](../../../developers/gauges/deployed-contracts.md#multirewards) are owned by the Treasury League multisig letting TL distribute additional rewards on top of the IDLE emission coming from Gauges.
-* The [`Distributor`](../../../developers/gauges/deployed-contracts.md#gauges-system) contract is owned by the `Timelock` contract, i.e. the IDLE token holders.
+* The [`MultiRewards` contracts](../../../other/archive/gauges/deployed-contracts.md#multirewards) are owned by the Treasury League multisig letting TL distribute additional rewards on top of the IDLE emission coming from Gauges.
+* The [`Distributor`](../../../other/archive/gauges/deployed-contracts.md#gauges-system) contract is owned by the `Timelock` contract, i.e. the IDLE token holders.

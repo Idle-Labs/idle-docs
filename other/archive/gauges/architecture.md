@@ -4,10 +4,10 @@ description: Developers > Gauges > Architecture
 
 # Architecture
 
-A comprehensive description of the $IDLE Gauges system can be found [here](../../governance/idle-staking/gauges/)
+A comprehensive description of the $IDLE Gauges system can be found [here](../../../governance/idle-staking/gauges/)
 
-{% content-ref url="../../governance/idle-staking/gauges/" %}
-[gauges](../../governance/idle-staking/gauges/)
+{% content-ref url="../../../governance/idle-staking/gauges/" %}
+[gauges](../../../governance/idle-staking/gauges/)
 {% endcontent-ref %}
 
 $IDLE gauges are based on the [Curve gauge](https://curve.readthedocs.io/dao-gauges.html) system with the following modifications.
@@ -27,4 +27,4 @@ The $IDLE Gauge system consists of the following smart contracts:
 
 Figure 1 shows a diagram of the contracts flow.
 
-<figure><img src="../../.gitbook/assets/Dev scheme.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Dev scheme.png" alt=""><figcaption></figcaption></figure>
