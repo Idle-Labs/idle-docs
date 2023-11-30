@@ -4,13 +4,13 @@ description: Governance > IDLE staking > Fee discount
 
 # Fee discount
 
-IDLE tokeholders can benefit from a [performance fee](../../../products/fees.md) discount by staking their IDLE and further enhance their yields.
+With the Prime Staking program, IDLE tokeholders can benefit from a [performance fee](../../../products/fees.md) discount by staking their IDLE and further enhance their yields.
 
 {% hint style="info" %}
-The discount fee will be initially [tested for three months](https://gov.idle.finance/t/prime-staking-idle-staking-v2/1222) on the Yield Tranches pools (besides the Fasanara YTs, part of the [strategic agreement](https://gov.idle.finance/t/idle-dao-strategic-agreement-fasanara-digital/1173) with the DAO) on Ethereum. \
-When fine-tuned, it could be expanded to the Best Yield vaults and other chains where the Idle product suite is deployed.\
+In its initial phase, the discount fee will be on the Yield Tranches pools (besides the Fasanara YTs, part of the [strategic agreement](https://gov.idle.finance/t/idle-dao-strategic-agreement-fasanara-digital/1173) with the DAO) on Ethereum. \
+It could later be expanded to the Best Yield vaults and other chains where the Idle product suite is deployed.\
 \
-A maximum cap of $5,000,000 on the deposit per wallet has been set for the testing phase.&#x20;
+A maximum cap of $5,000,000 on the deposit per wallet has been set for this phase.&#x20;
 {% endhint %}
 
 ### Goals
@@ -41,7 +41,7 @@ Other beneficiaries, such as the depositors in the [80-20 IDLE-USDC Balancer poo
 
 ### Discount tiers
 
-<table><thead><tr><th width="102">Tier</th><th width="121" align="right">IDLE</th><th width="118">Locking</th><th width="119" align="right">stkIDLE</th><th align="right">Discount</th><th align="right">Discounted fee</th></tr></thead><tbody><tr><td>I</td><td align="right">10,000</td><td>4 years</td><td align="right">10,000</td><td align="right">5%</td><td align="right">14.25%</td></tr><tr><td>II</td><td align="right">25,000</td><td>4 years</td><td align="right">25,000</td><td align="right">10%</td><td align="right">13.50%</td></tr><tr><td>III</td><td align="right">50,000</td><td>4 years</td><td align="right">50,000</td><td align="right">20%</td><td align="right">12.00%</td></tr><tr><td>IV</td><td align="right">100,000</td><td>4 years</td><td align="right">100,000</td><td align="right">30%</td><td align="right">10.50%</td></tr><tr><td>V</td><td align="right">150,000</td><td>4 years</td><td align="right">150,000</td><td align="right">40%</td><td align="right">9.00%</td></tr><tr><td>VI</td><td align="right">250,000</td><td>4 years</td><td align="right">250,000</td><td align="right">50%</td><td align="right">7.50%</td></tr></tbody></table>
+<table><thead><tr><th width="96">Tier</th><th width="120" align="right">IDLE</th><th width="116">Locking</th><th width="121" align="right">stkIDLE</th><th width="123" align="right">Discount</th><th align="right">Discounted fee</th></tr></thead><tbody><tr><td>I</td><td align="right">10,000</td><td>4 years</td><td align="right">10,000</td><td align="right">5%</td><td align="right">14.25%</td></tr><tr><td>II</td><td align="right">25,000</td><td>4 years</td><td align="right">25,000</td><td align="right">10%</td><td align="right">13.50%</td></tr><tr><td>III</td><td align="right">50,000</td><td>4 years</td><td align="right">50,000</td><td align="right">20%</td><td align="right">12.00%</td></tr><tr><td>IV</td><td align="right">100,000</td><td>4 years</td><td align="right">100,000</td><td align="right">30%</td><td align="right">10.50%</td></tr><tr><td>V</td><td align="right">150,000</td><td>4 years</td><td align="right">150,000</td><td align="right">40%</td><td align="right">9.00%</td></tr><tr><td>VI</td><td align="right">250,000</td><td>4 years</td><td align="right">250,000</td><td align="right">50%</td><td align="right">7.50%</td></tr></tbody></table>
 
 This summary table assumes that the IDLE tokens are staked for the longest length available, i.e. 4 years.
 
