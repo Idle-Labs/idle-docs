@@ -2,9 +2,9 @@
 description: Governance > IDLE staking > Fee discount
 ---
 
-# Fee discount
+# Prime staking
 
-With the Prime Staking program, IDLE tokeholders can benefit from a [performance fee](../../../products/fees.md) discount by staking their IDLE and further enhance their yields.
+With the Prime Staking program, IDLE tokeholders can benefit from a **performance fee discount** by staking their IDLE and further enhance their yields.
 
 {% hint style="info" %}
 In its initial phase, the discount fee will be on the Yield Tranches pools (besides the Fasanara YTs, part of the [strategic agreement](https://gov.idle.finance/t/idle-dao-strategic-agreement-fasanara-digital/1173) with the DAO) on Ethereum. \
@@ -12,6 +12,8 @@ It could later be expanded to the Best Yield vaults and other chains where the I
 \
 A maximum cap of $5,000,000 on the deposit per wallet has been set for this phase.&#x20;
 {% endhint %}
+
+For an overview of the fees applied to the Idle's product, please refer to the [Fee structure page](../../../products/fees.md).&#x20;
 
 ### Goals
 
