@@ -1,5 +1,5 @@
 ---
-description: Governance > IDLE staking > Fee discount
+description: Governance > IDLE staking > Prime staking
 ---
 
 # Prime staking
