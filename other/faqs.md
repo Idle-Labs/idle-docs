@@ -246,7 +246,7 @@ The quorum to execute any change on the protocol is 520,000 $IDLE and an IIP is 
 
 </details>
 
-### [Gauges](../governance/idle-staking/gauges/faqs.md)
+### [Gauges](archive/gauges-1/faqs.md)
 
 <details>
 

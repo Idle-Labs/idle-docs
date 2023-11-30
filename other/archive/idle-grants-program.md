@@ -8,7 +8,7 @@ description: Governance > Idle Grants program
 
 Idle Grants Program (IGP) is an opportunity to contribute to the Idle ecosystem, shape the future of finance, and level up individuals' technical and soft skills in DeFi, as part of a community of passionate contributors.
 
-<figure><img src="../.gitbook/assets/dark_01 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/dark_01 (1).png" alt=""><figcaption></figcaption></figure>
 
 This program aims to grow the Idle DAO ecosystem and expand the number of contributors interested in building something for Idle, incentivizing them through rewards in $IDLE for the completed work.
 
@@ -19,7 +19,7 @@ The latest rewarded grants can be viewed [here](https://idlelabs.notion.site/f5e
 {% endhint %}
 
 {% hint style="success" %}
-Furthermore, thanks to this initiative, many applicants who successfully completed grants joined the [development-league.md](idle-dao/idle-leagues/development-league.md "mention") as subDAOs contributors
+Furthermore, thanks to this initiative, many applicants who successfully completed grants joined the [development-league.md](../../governance/idle-dao/idle-leagues/development-league.md "mention") as subDAOs contributors
 {% endhint %}
 
 ### Request for Proposals (RFPs)
@@ -32,23 +32,21 @@ The RFPs list is public and available [here](https://idlelabs.notion.site/Reques
 
 ### Grant application process
 
-<figure><img src="../.gitbook/assets/dark_01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/dark_01.png" alt=""><figcaption></figcaption></figure>
 
 Contributors can join the Idle Grants Program by applying in two different ways:\
 <mark style="color:blue;">A)</mark> Picking an available RFP, where they can find a description of the work to be done and the relative range of reward ($ in IDLE token) given in case of final delivery of the work;\
 <mark style="color:blue;">B)</mark> By proposing a new idea, specifying the category to which it belongs, its timeline, and the budget it requires.
 
-
-
 Depending on the funds' request for the grant, the approval method will be different:
 
 {% tabs %}
 {% tab title="Small-size grants" %}
-<mark style="color:blue;">**Requests <$15k**</mark>: funds are issued directly by the Idle [treasury-league.md](idle-dao/idle-leagues/treasury-league.md "mention")and the applications are publicly announced only if contributors will be selected.
+<mark style="color:blue;">**Requests <$15k**</mark>: funds are issued directly by the Idle [treasury-league.md](../../governance/idle-dao/idle-leagues/treasury-league.md "mention")and the applications are publicly announced only if contributors will be selected.
 {% endtab %}
 
 {% tab title="Medium and Big-size grants" %}
-<mark style="color:blue;">**Requests >$15k**</mark>: the application should be approved by the [idle-dao](idle-dao/ "mention").
+<mark style="color:blue;">**Requests >$15k**</mark>: the application should be approved by the [idle-dao](../../governance/idle-dao/ "mention").
 {% endtab %}
 {% endtabs %}
 

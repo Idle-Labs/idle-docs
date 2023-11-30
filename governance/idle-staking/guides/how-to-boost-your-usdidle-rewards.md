@@ -8,7 +8,7 @@ To vote on Gauges and share weight preferences, users should use the [Gauges men
 
 ### Staking
 
-User can further [boost their IDLE rewards](../boost.md) by staking their pool token holdings.&#x20;
+User can further [boost their IDLE rewards](../../../other/archive/boost.md) by staking their pool token holdings.&#x20;
 
 ![](<../../../.gitbook/assets/image (75).png>)
 

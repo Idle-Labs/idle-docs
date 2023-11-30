@@ -37,7 +37,7 @@ Write a post labelled as follows: “**\[Gauges] - Proposal to add YOUR POOL NAM
 **Majority**: the most voted option wins
 {% endhint %}
 
-Follow up your forum proposal with a reply that includes a [temperature check](../../idle-dao/governance-process/#2.-temperature-check).\
+Follow up your forum proposal with a reply that includes a [temperature check](../../../governance/idle-dao/governance-process/#2.-temperature-check).\
 The aim is to taste the sentiment of the community about this potential whitelisting.
 
 {% hint style="warning" %}

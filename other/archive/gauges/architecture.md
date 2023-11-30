@@ -4,10 +4,10 @@ description: Developers > Gauges > Architecture
 
 # Architecture
 
-A comprehensive description of the $IDLE Gauges system can be found [here](../../../governance/idle-staking/gauges/)
+A comprehensive description of the $IDLE Gauges system can be found [here](../gauges-1/)
 
-{% content-ref url="../../../governance/idle-staking/gauges/" %}
-[gauges](../../../governance/idle-staking/gauges/)
+{% content-ref url="../gauges-1/" %}
+[gauges-1](../gauges-1/)
 {% endcontent-ref %}
 
 $IDLE gauges are based on the [Curve gauge](https://curve.readthedocs.io/dao-gauges.html) system with the following modifications.

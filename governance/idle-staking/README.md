@@ -7,7 +7,7 @@ description: Governance > IDLE staking
 Staking allows users to lock their IDLE for a flexible period (up to 4 years) in return for a series of benefits. The contracts for IDLE staking are based on the [Curve VotingEscrow contracts](https://curve.readthedocs.io/), decided via [community vote](./#undefined).&#x20;
 
 {% hint style="info" %}
-The [Gauges voting](gauges/) and the [Liquidity providers' rewards boost](boost.md) are currently paused after [IIP-31](https://gov.idle.finance/t/iip-31-idle-incentives-distribution-update-euler-staking-pyts-as-new-yield-sources-for-by/1107/3). The staking reward program for stkIDLE holders is paused following [IIP-36](https://gov.idle.finance/t/iip-36-update-best-yield-usdc-weth-yield-sources-and-pause-the-staking-rewards-for-idle-stakers/1171).
+The [Gauges voting](../../other/archive/gauges-1/) and the [Liquidity providers' rewards boost](../../other/archive/boost.md) are currently paused after [IIP-31](https://gov.idle.finance/t/iip-31-idle-incentives-distribution-update-euler-staking-pyts-as-new-yield-sources-for-by/1107/3). The staking reward program for stkIDLE holders is paused following [IIP-36](https://gov.idle.finance/t/iip-36-update-best-yield-usdc-weth-yield-sources-and-pause-the-staking-rewards-for-idle-stakers/1171).
 {% endhint %}
 
 ### Lock details
@@ -27,7 +27,7 @@ Q_{\text{stkIDLE}} = \frac{\text{lock time remaining in seconds}}{\text{max lock
 $$
 
 {% hint style="info" %}
-Users can increase their stkIDLE by either staking more IDLE into their existing lock increasing their lock end date, or both. The **maximum lockup** duration is **4 years**.
+Users can increase their stkIDLE balance by both staking more IDLE into their existing lock and by increasing their lock end date. The **maximum lockup** duration is **4 years**.
 {% endhint %}
 
 **Example:** 5000 IDLE locked for 3 years and 2 months (with 30 days/month) would give:

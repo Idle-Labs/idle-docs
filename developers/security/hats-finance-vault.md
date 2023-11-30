@@ -8,4 +8,4 @@ In July 2022, Idle opened a vault on Hats Finance as a new form of **bug bounty*
 
 :arrow\_right:[Bug bounty vault link](https://app.hats.finance/bug-bounties/idlefinance-0xda25de498845b30e05d6a766350a9dc96ef1986f38922b77038208ac73b17608/rewards)
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
