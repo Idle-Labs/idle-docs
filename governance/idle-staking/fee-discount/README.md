@@ -7,10 +7,10 @@ description: Governance > IDLE staking > Fee discount
 IDLE tokeholders can benefit from a [performance fee](../../../products/fees.md) discount by staking their IDLE and further enhance their yields.
 
 {% hint style="info" %}
-The discount fee will be initially [tested for 3 months](https://gov.idle.finance/t/prime-staking-idle-staking-v2/1222) on the Yield Tranches pools (besides the Fasanara YTs, part of the [strategic agreement](https://gov.idle.finance/t/idle-dao-strategic-agreement-fasanara-digital/1173) with the DAO) on Ethereum. \
-When fine-tuned, it could be expanded to the Best Yield vaults and to other chains where the Idle product suite is deployed.\
+The discount fee will be initially [tested for three months](https://gov.idle.finance/t/prime-staking-idle-staking-v2/1222) on the Yield Tranches pools (besides the Fasanara YTs, part of the [strategic agreement](https://gov.idle.finance/t/idle-dao-strategic-agreement-fasanara-digital/1173) with the DAO) on Ethereum. \
+When fine-tuned, it could be expanded to the Best Yield vaults and other chains where the Idle product suite is deployed.\
 \
-A maximum cap of $5,000,000 on the deposit has been set for the testing phase.&#x20;
+A maximum cap of $5,000,000 on the deposit per wallet has been set for the testing phase.&#x20;
 {% endhint %}
 
 ### Goals
