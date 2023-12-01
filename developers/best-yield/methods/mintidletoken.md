@@ -6,7 +6,7 @@ description: Developers > Best Yield > mintIdleToken
 
 This method is used to deposit money into the Idle protocol. When you call `mintIdleToken` we will transfer the amount of underlying supplied to IdleToken contract and then mint interest-bearing tokens with that amount.&#x20;
 
-Interest-bearing tokens of each user are pooled together inside the IdleToken contract and you will then receive $IDLE tokens which represent your share of Idle pools.
+Interest-bearing tokens of each user are pooled together inside the IdleToken contract and you will then receive Idle LP tokens which represent your share of Idle pools.
 
 **Users should call `approve` on the underlying asset used (eg. DAI) to allow IdleToken contract to spend `_amount` of tokens before calling this method.**
 
@@ -30,4 +30,4 @@ function mintIdleToken(
 
 ### **Return values**
 
-<table><thead><tr><th width="282">Value</th><th>Description</th></tr></thead><tbody><tr><td><code>mintedTokens</code></td><td>The amount of $IDLE tokens minted</td></tr></tbody></table>
+<table><thead><tr><th width="282">Value</th><th>Description</th></tr></thead><tbody><tr><td><code>mintedTokens</code></td><td>The amount of Idle LP tokens minted</td></tr></tbody></table>
