@@ -42,7 +42,7 @@ The expandable lists all the YTs addresses deprecated and the specific token add
 
 {% tabs %}
 {% tab title="QuickSwap" %}
-#### Polygon
+#### WETH
 
 <table><thead><tr><th width="250">Contract</th><th>Address</th></tr></thead><tbody><tr><td>Quickswap idleCSUNI-V2</td><td><a href="https://polygonscan.com/address/0xb144ee58679e15f1b25a5f6efcebdd0ab8c8bef5">0xB144eE58679e15f1b25A5F6EfcEBDd0AB8c8BEF5</a></td></tr></tbody></table>
 {% endtab %}

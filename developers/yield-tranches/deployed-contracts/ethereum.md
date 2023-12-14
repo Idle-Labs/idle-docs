@@ -82,8 +82,6 @@ The expandable lists all the YTs addresses deprecated and the specific token add
 
 {% tabs %}
 {% tab title="Idle" %}
-#### Ethereum
-
 **DAI**
 
 <table><thead><tr><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>idle_DAIYield</td><td><a href="https://etherscan.io/address/0xd0DbcD556cA22d3f3c142e9a3220053FD7a247BC">0xd0DbcD556cA22d3f3c142e9a3220053FD7a247BC</a></td></tr><tr><td>AA_idle_DAIYield</td><td><a href="https://etherscan.io/address/0xE9ada97bDB86d827ecbaACCa63eBcD8201D8b12E">0xE9ada97bDB86d827ecbaACCa63eBcD8201D8b12E</a></td></tr><tr><td>BB_idle_DAIYield</td><td><a href="https://etherscan.io/address/0x730348a54bA58F64295154F0662A08Cbde1225c2">0x730348a54bA58F64295154F0662A08Cbde1225c2</a></td></tr></tbody></table>
@@ -94,8 +92,6 @@ The expandable lists all the YTs addresses deprecated and the specific token add
 {% endtab %}
 
 {% tab title="Convex" %}
-#### Ethereum
-
 **FRAX-3Crv**
 
 <table><thead><tr><th width="215">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>convex_frax3Crv</td><td><a href="https://etherscan.io/address/0x4CCaf1392a17203eDAb55a1F2aF3079A8Ac513E7">0x4CCaf1392a17203eDAb55a1F2aF3079A8Ac513E7</a></td></tr><tr><td>AA_convex_frax3Crv</td><td><a href="https://etherscan.io/address/0x15794da4dcf34e674c18bbfaf4a67ff6189690f5">0x15794da4dcf34e674c18bbfaf4a67ff6189690f5</a></td></tr><tr><td>BB_convex_frax3Crv</td><td><a href="https://etherscan.io/address/0x18cf59480d8c16856701f66028444546b7041307">0x18cf59480d8c16856701f66028444546b7041307</a></td></tr></tbody></table>
@@ -126,8 +122,6 @@ The expandable lists all the YTs addresses deprecated and the specific token add
 {% endtab %}
 
 {% tab title="Clearpool" %}
-#### Ethereum
-
 **USDC (Wintermute)**
 
 <table><thead><tr><th width="197">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>cp_WIN_USDC</td><td><a href="https://etherscan.io/address/0xDBCEE5AE2E9DAf0F5d93473e08780C9f45DfEb93">0xDBCEE5AE2E9DAf0F5d93473e08780C9f45DfEb93</a></td></tr><tr><td>AA_cp_WIN_USDC</td><td><a href="https://etherscan.io/address/0xb86264c21418aa75f7c337b1821ccb4ff4d57673">0xb86264c21418aa75f7c337b1821ccb4ff4d57673</a></td></tr><tr><td>BB_cp_WIN_USDC</td><td><a href="https://etherscan.io/address/0x4d9d9aa17c3fcea05f20a87fc1991a045561167d">0x4d9d9aa17c3fcea05f20a87fc1991a045561167d</a></td></tr></tbody></table>
@@ -138,8 +132,6 @@ The expandable lists all the YTs addresses deprecated and the specific token add
 {% endtab %}
 
 {% tab title="Euler" %}
-#### Ethereum
-
 **DAI**
 
 <table><thead><tr><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>euler_eDAI</td><td><a href="https://etherscan.io/address/0x46c1f702A6aAD1Fd810216A5fF15aaB1C62ca826">0x46c1f702A6aAD1Fd810216A5fF15aaB1C62ca826</a></td></tr><tr><td>AA_euler_eDAI</td><td><a href="https://etherscan.io/address/0x852c4d2823e98930388b5ce1ed106310b942bd5a">0x852c4d2823e98930388b5ce1ed106310b942bd5a</a></td></tr><tr><td>BB_euler_eDAI</td><td><a href="https://etherscan.io/address/0x6629baa8c7c6a84290bf9a885825e3540875219d">0x6629baa8c7c6a84290bf9a885825e3540875219d</a></td></tr></tbody></table>
