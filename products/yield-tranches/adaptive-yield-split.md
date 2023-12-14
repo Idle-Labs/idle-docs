@@ -6,11 +6,13 @@ description: Products > Yield Tranches > Overview > AYS
 
 > The Adaptive Yield Split is a unique feature of YTs that manages the return distribution dynamically conditional to the liquidity deposited on each side (Senior/Junior) of the Tranche.
 
-
-
 <figure><img src="../../.gitbook/assets/AYS.gif" alt=""><figcaption></figcaption></figure>
 
 Mathematically, the formulas behind this mechanism consider mainly [Senior and Junior liquidity ratios](adaptive-yield-split.md#liquidity-ratios) to compute [Senior and Junior returns](adaptive-yield-split.md#senior-and-junior-yields).
+
+{% hint style="info" %}
+Please note that these labels slightly change at the contract level. The Senior TVL ratio is `_AATrancheSplitRatio` and the Senior Yield share is `_trancheAPRSplitRatio`.
+{% endhint %}
 
 ### Liquidity ratios
 
@@ -81,19 +83,25 @@ The _guaranteed minimum portion_, aka the _Yield share_ of the Senior Tranches, 
 The formulas of the Senior coverage provided by the Junior counterparty and the Junior boosted yield vs the underlying return are
 
 $$
-\text{Funds coverage}_{Sr} = \frac{\text{Liquidity}_{Junior}}{\text{Liquidity}_{Senior}}
+\text{Coverage}_{Sr} = \frac{\text{Liquidity}_{Junior}}{\text{Liquidity}_{Senior}}
 $$
 
 $$
 \text{Overperformance}_{Jr} = \frac{\text{APY}_{Jr}}{\text{Base APY}}
 $$
 
+The Senior coverage should not be confused with the overall Tranche coverage that is computed in proportion to the whole tranche TVL
+
+$$
+\text{Tranche coverage} = \frac{\text{Liquidity}_{Junior}}{\text{Liquidity}_{Tranche}}
+$$
+
 ### Examples
 
 We compute the returns of the Senior and the Junior sides using the formulas listed previously, assuming
 
-* An average underlying APY of 10%
-* The total liquidity of the Tranche equal to $10,000,000
+* An average underlying yield, _Base APY_, of 10%
+* The total liquidity of the Tranche, _Tranche TVL_, equal to $10,000,000
 
 **Standard case**: between 50 and 99% of the total Tranche's liquidity lying on the Senior side
 
@@ -104,7 +112,7 @@ We compute the returns of the Senior and the Junior sides using the formulas lis
 
 The Senior Yield share is equal to 80%.&#x20;
 
-Senior funds coverage is 25% and the Junior overperformance vs base APY is 1.8x.
+Senior funds coverage is 25% and the Junior overperformance vs base APY is 1.8x. The Tranche coverage is 20%.&#x20;
 
 **Hedge case 1**: the majority of total Tranche's liquidity lying on the Senior side ($$\geq$$99%)
 
@@ -115,15 +123,17 @@ Senior funds coverage is 25% and the Junior overperformance vs base APY is 1.8x.
 
 The Senior Yield share is set to 99% (HC#1).&#x20;
 
-Senior funds coverage is 0% and the Junior overperformance vs base APY is 1.99x.
+Senior funds coverage is 0% and the Junior overperformance vs base APY is 1.99x. The Tranche coverage is 0% as well.
 
 **Hedge case 2**: less than half of the total Tranche's liquidity lying on the Senior side ($$\leq$$50%)
 
-| Side       | Liquidity | Expected APY |
-| ---------- | --------- | ------------ |
-| Senior     | $4m       |  5%          |
-| Juniorthe  | $6m       | 13%          |
+| Side    | Liquidity | Expected APY |
+| ------- | --------- | ------------ |
+| Senior  | $4m       |  5%          |
+| Junior  | $6m       | 13%          |
 
 The Senior Yield share is set to 50% (HC#2).&#x20;
 
-Senior funds coverage is 150% and the Junior overperformance vs base APY is 1.33x.
+Senior funds coverage is 150% and the Junior overperformance vs base APY is 1.33x. The Tranche coverage is 60%.
+
+<figure><img src="../../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
