@@ -11,7 +11,10 @@ description: Products > Yield Tranches > Overview > AYS
 Mathematically, the formulas behind this mechanism consider mainly [Senior and Junior liquidity ratios](adaptive-yield-split.md#liquidity-ratios) to compute [Senior and Junior returns](adaptive-yield-split.md#senior-and-junior-yields).
 
 {% hint style="info" %}
-Please note that these labels slightly change at the contract level. The Senior TVL ratio is `_AATrancheSplitRatio` and the Senior Yield share is `_trancheAPRSplitRatio`.
+Please note that the labels used slightly change the naming at the contract level
+
+* The Senior TVL ratio is `_AATrancheSplitRatio`
+* The Senior Yield share is `_trancheAPRSplitRatio`
 {% endhint %}
 
 ### Liquidity ratios
@@ -135,5 +138,3 @@ Senior funds coverage is 0% and the Junior overperformance vs base APY is 1.99x.
 The Senior Yield share is set to 50% (HC#2).&#x20;
 
 Senior funds coverage is 150% and the Junior overperformance vs base APY is 1.33x. The Tranche coverage is 60%.
-
-<figure><img src="../../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
