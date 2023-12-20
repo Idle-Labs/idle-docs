@@ -20,10 +20,6 @@ The ABI of the Yield Tranches contract can be found here: [JSON](https://github.
 
 <table><thead><tr><th width="98.33333333333331">Side</th><th width="197">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>cp_POR_USDT</td><td><a href="https://zkevm.polygonscan.com/address/0x6b8A1e78Ac707F9b0b5eB4f34B02D9af84D2b689">0x6b8A1e78Ac707F9b0b5eB4f34B02D9af84D2b689</a></td></tr><tr><td>Senior</td><td>AA_cp_POR_USDT</td><td><a href="https://zkevm.polygonscan.com/address/0x6aab2db845b23729af1f5b0902ff4bdc32bbf948">0x6AaB2db845b23729aF1F5B0902Ff4BDc32BBf948</a></td></tr><tr><td>Junior</td><td>BB_cp_POR_USDT</td><td><a href="https://zkevm.polygonscan.com/address/0x1fdaf221ff3929e86266d6a5930fa7263c1bd4df">0x1FdAF221fF3929e86266D6A5930fa7263c1bD4DF</a></td></tr></tbody></table>
 
-**USDC (Fasanara)**
-
-<table><thead><tr><th width="98.33333333333331">Side</th><th width="197">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>cp_FAS_USDC</td><td><a href="https://zkevm.polygonscan.com/address/0x8890957f80d7d771337f4ce42e15ec40388514f1">0x8890957F80d7D771337f4ce42e15Ec40388514f1</a></td></tr><tr><td>Senior</td><td>AA_cp_FAS_USDC</td><td><a href="https://zkevm.polygonscan.com/address/0x3ed123e94c95a5777149aeec50f4c956b29eccec">0x3Ed123E94C95A5777149AeEc50F4C956b29EcceC</a></td></tr><tr><td>Junior</td><td>BB_cp_FAS_USDC</td><td><a href="https://zkevm.polygonscan.com/address/0xbf78b393d14a90b52cdc2325e11c92f24f2f54f3">0xBF78b393d14A90B52cdc2325e11c92F24f2F54F3</a></td></tr></tbody></table>
-
 ### ERC-4626 wrappers for Tranche tokens
 
 where AA = Senior Tranche, BB = Junior Tranche.
@@ -45,5 +41,11 @@ The expandable lists all the YTs addresses deprecated and the specific token add
 #### WETH
 
 <table><thead><tr><th width="250">Contract</th><th>Address</th></tr></thead><tbody><tr><td>Quickswap idleCSUNI-V2</td><td><a href="https://polygonscan.com/address/0xb144ee58679e15f1b25a5f6efcebdd0ab8c8bef5">0xB144eE58679e15f1b25A5F6EfcEBDd0AB8c8BEF5</a></td></tr></tbody></table>
+{% endtab %}
+
+{% tab title="Clearpool" %}
+**USDC (Fasanara)**
+
+<table><thead><tr><th width="95.33333333333331">Side</th><th width="171">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>cp_FAS_USDC</td><td><a href="https://zkevm.polygonscan.com/address/0x8890957f80d7d771337f4ce42e15ec40388514f1">0x8890957F80d7D771337f4ce42e15Ec40388514f1</a></td></tr><tr><td>Senior</td><td>AA_cp_FAS_USDC</td><td><a href="https://zkevm.polygonscan.com/address/0x3ed123e94c95a5777149aeec50f4c956b29eccec">0x3Ed123E94C95A5777149AeEc50F4C956b29EcceC</a></td></tr><tr><td>Junior</td><td>BB_cp_FAS_USDC</td><td><a href="https://zkevm.polygonscan.com/address/0xbf78b393d14a90b52cdc2325e11c92f24f2f54f3">0xBF78b393d14A90B52cdc2325e11c92F24f2F54F3</a></td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
