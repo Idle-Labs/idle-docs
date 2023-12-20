@@ -46,6 +46,6 @@ The expandable lists all the YTs addresses deprecated and the specific token add
 {% tab title="Clearpool" %}
 **USDC (Fasanara)**
 
-<table><thead><tr><th width="95.33333333333331">Side</th><th width="171">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>cp_FAS_USDC</td><td><a href="https://zkevm.polygonscan.com/address/0x8890957f80d7d771337f4ce42e15ec40388514f1">0x8890957F80d7D771337f4ce42e15Ec40388514f1</a></td></tr><tr><td>Senior</td><td>AA_cp_FAS_USDC</td><td><a href="https://zkevm.polygonscan.com/address/0x3ed123e94c95a5777149aeec50f4c956b29eccec">0x3Ed123E94C95A5777149AeEc50F4C956b29EcceC</a></td></tr><tr><td>Junior</td><td>BB_cp_FAS_USDC</td><td><a href="https://zkevm.polygonscan.com/address/0xbf78b393d14a90b52cdc2325e11c92f24f2f54f3">0xBF78b393d14A90B52cdc2325e11c92F24f2F54F3</a></td></tr></tbody></table>
+<table><thead><tr><th width="192">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>cp_FAS_USDC</td><td><a href="https://zkevm.polygonscan.com/address/0x8890957f80d7d771337f4ce42e15ec40388514f1">0x8890957F80d7D771337f4ce42e15Ec40388514f1</a></td></tr><tr><td>AA_cp_FAS_USDC</td><td><a href="https://zkevm.polygonscan.com/address/0x3ed123e94c95a5777149aeec50f4c956b29eccec">0x3Ed123E94C95A5777149AeEc50F4C956b29EcceC</a></td></tr><tr><td>BB_cp_FAS_USDC</td><td><a href="https://zkevm.polygonscan.com/address/0xbf78b393d14a90b52cdc2325e11c92f24f2f54f3">0xBF78b393d14A90B52cdc2325e11c92F24f2F54F3</a></td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}

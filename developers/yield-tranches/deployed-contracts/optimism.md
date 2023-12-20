@@ -38,7 +38,7 @@ The expandable lists all the YTs addresses deprecated and the specific token add
 {% tab title="Clearpool" %}
 **USDC.e (Wincent)**
 
-<table><thead><tr><th width="211">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>cp_WINC_USDC.e</td><td><a href="https://optimistic.etherscan.io/address/0xa26b308B2386DBd906Cf1F8a653ca7d758f301B3">0xa26b308B2386DBd906Cf1F8a653ca7d758f301B3</a></td></tr><tr><td>AA_cp_WINC_USDC.e</td><td><a href="https://optimistic.etherscan.io/address/0xb00BbFD1bD0ee3EefF953FA02cdBe4A55BaaC55f">0xb00BbFD1bD0ee3EefF953FA02cdBe4A55BaaC55f</a></td></tr><tr><td>BB_cp_WINC_USDC.e</td><td>0x0BD3cC920926472606bAe4CE479430df18E99F75</td></tr></tbody></table>
+<table><thead><tr><th width="211">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>cp_WINC_USDC.e</td><td><a href="https://optimistic.etherscan.io/address/0xa26b308B2386DBd906Cf1F8a653ca7d758f301B3">0xa26b308B2386DBd906Cf1F8a653ca7d758f301B3</a></td></tr><tr><td>AA_cp_WINC_USDC.e</td><td><a href="https://optimistic.etherscan.io/address/0xb00BbFD1bD0ee3EefF953FA02cdBe4A55BaaC55f">0xb00BbFD1bD0ee3EefF953FA02cdBe4A55BaaC55f</a></td></tr><tr><td>BB_cp_WINC_USDC.e</td><td><a href="https://optimistic.etherscan.io/token/0x0BD3cC920926472606bAe4CE479430df18E99F75">0x0BD3cC920926472606bAe4CE479430df18E99F75</a></td></tr></tbody></table>
 {% endtab %}
 
 {% tab title="Second Tab" %}
