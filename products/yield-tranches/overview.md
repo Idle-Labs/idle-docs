@@ -51,7 +51,7 @@ Yield Tranches are available on Ethereum, Polygon zkEVM and Optimism for multipl
 
 {% tabs %}
 {% tab title="Lido" %}
-Lido enables users to mint transferable utility tokens (stETH), which receive rewards linked to the related validation activities of writing data to the blockchain, while the tokens can be used in other on-chain activities.
+[Lido](https://lido.fi/) enables users to mint transferable utility tokens (stETH), which receive rewards linked to the related validation activities of writing data to the blockchain, while the tokens can be used in other on-chain activities.
 
 #### Integrated assets
 
@@ -64,7 +64,7 @@ stMATIC YTs accept MATIC as the deposited asset to give users a seamless experie
 {% endtab %}
 
 {% tab title="Instadapp" %}
-Instadapp leverages stETH against standard ETH to gain an increased amount of staking rewards.
+[Instadapp](https://instadapp.io/) leverages stETH against standard ETH to gain an increased amount of staking rewards.
 
 #### Integrated assets
 
@@ -72,7 +72,7 @@ Instadapp leverages stETH against standard ETH to gain an increased amount of st
 {% endtab %}
 
 {% tab title="Morpho" %}
-Morpho is a peer-to-peer layer built on top of the lending pools of Aave.
+[Morpho](https://morpho.org/) is a peer-to-peer layer built on top of the main DeFi lending pools offering a trustless lending primitive.
 
 #### Integrated assets
 
@@ -80,10 +80,11 @@ Morpho is a peer-to-peer layer built on top of the lending pools of Aave.
 * [USDC](https://etherscan.io/address/0x9C13Ff045C0a994AF765585970A5818E1dB580F8)
 * [USDT](https://etherscan.io/address/0x440ceAd9C0A0f4ddA1C81b892BeDc9284Fc190dd)
 * [WETH](https://etherscan.io/address/0xb3F717a5064D2CBE1b8999Fdfd3F8f3DA98339a6)
+* [wstETH](https://etherscan.io/token/0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0)
 {% endtab %}
 
 {% tab title="Clearpool" %}
-Clearpool is a DeFi ecosystem incorporating the first-ever permissionless marketplace for unsecured institutional liquidity.
+[Clearpool](https://clearpool.finance/) is a DeFi ecosystem incorporating the first-ever permissionless marketplace for unsecured institutional liquidity.
 
 #### Integrated assets
 
@@ -91,7 +92,7 @@ Clearpool is a DeFi ecosystem incorporating the first-ever permissionless market
 * [USDC](https://etherscan.io/address/0xDBCEE5AE2E9DAf0F5d93473e08780C9f45DfEb93)
 * [USDT](https://etherscan.io/address/0xc4574C60a455655864aB80fa7638561A756C5E61)
 
-Borrowers: [Portofino](https://www.portofino.tech/), [Fasanara](https://twitter.com/FasanaraDigital)
+Borrowers: [Portofino](https://www.portofino.tech/), [Fasanara](https://www.fasanara.com/)
 {% endtab %}
 {% endtabs %}
 
@@ -121,7 +122,7 @@ Clearpool is a DeFi ecosystem incorporating the first-ever permissionless market
 * [USDC](https://optimistic.etherscan.io/token/0x0b2c639c533813f4aa9d7837caf62653d097ff85)
 * [USDT](https://optimistic.etherscan.io/token/0x94b008aa00579c1307b0ef2c499ad98a8ce58e58)
 
-Borrowers: [Portofino](https://www.portofino.tech/), [Fasanara](https://twitter.com/FasanaraDigital), [Wincent](https://www.wincent.co/)
+Borrowers: [Portofino](https://www.portofino.tech/), [Fasanara](https://www.fasanara.com/), [Wincent](https://www.wincent.co/)
 {% endtab %}
 {% endtabs %}
 
