@@ -48,7 +48,7 @@ The ABI of the Yield Tranches contract can be found here: [JSON](https://github.
 
 **wstETH (Block Analitica & B.Protocol)**
 
-<table><thead><tr><th width="97.33333333333331">Side</th><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>mm_BB_wstETH</td><td><a href="https://etherscan.io/address/0x260D1E0CB6CC9E34Ea18CE39bAB879d450Cdd706">0x260D1E0CB6CC9E34Ea18CE39bAB879d450Cdd706</a></td></tr><tr><td>Senior</td><td>AA_mm_BB_wstETH</td><td><a href="https://etherscan.io/address/0x10036C2E5C441Cdef24A30134b6dF5ebf116205e">0x10036C2E5C441Cdef24A30134b6dF5ebf116205e</a></td></tr><tr><td>Junior</td><td>BB_mm_BB_wstETH</td><td><a href="https://etherscan.io/address/0x3331B21Abb39190a0426ca54D68F9E3E953Eec8e">0x3331B21Abb39190a0426ca54D68F9E3E953Eec8e</a></td></tr></tbody></table>
+<table><thead><tr><th width="97.33333333333331">Side</th><th width="193">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>mm_BB_wstETH</td><td><a href="https://etherscan.io/address/0x260D1E0CB6CC9E34Ea18CE39bAB879d450Cdd706">0x260D1E0CB6CC9E34Ea18CE39bAB879d450Cdd706</a></td></tr><tr><td>Senior</td><td>AA_mm_BB_wstETH</td><td><a href="https://etherscan.io/address/0x10036C2E5C441Cdef24A30134b6dF5ebf116205e">0x10036C2E5C441Cdef24A30134b6dF5ebf116205e</a></td></tr><tr><td>Junior</td><td>BB_mm_BB_wstETH</td><td><a href="https://etherscan.io/address/0x3331B21Abb39190a0426ca54D68F9E3E953Eec8e">0x3331B21Abb39190a0426ca54D68F9E3E953Eec8e</a></td></tr></tbody></table>
 
 **USDC (Steakhouse)**
 
