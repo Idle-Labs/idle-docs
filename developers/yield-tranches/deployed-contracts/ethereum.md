@@ -72,6 +72,10 @@ The ABI of the Yield Tranches contract can be found here: [JSON](https://github.
 
 <table><thead><tr><th width="98.33333333333331">Side</th><th width="197">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>cp_FAS_USDT</td><td><a href="https://etherscan.io/address/0xc4574C60a455655864aB80fa7638561A756C5E61">0xc4574C60a455655864aB80fa7638561A756C5E61</a></td></tr><tr><td>Senior</td><td>AA_cp_FAS_USDT</td><td><a href="https://etherscan.io/address/0x0a6f2449c09769950cfb76f905ad11c341541f70">0x0a6f2449C09769950cFb76f905Ad11c341541f70</a></td></tr><tr><td>Junior</td><td>BB_cp_FAS_USDT</td><td><a href="https://etherscan.io/address/0x3eb6318b8d9f362a0e1d99f6032edb1c4c602500">0x3Eb6318b8D9f362a0e1D99F6032eDB1C4c602500</a></td></tr></tbody></table>
 
+**USDC (Wincent)**
+
+<table><thead><tr><th width="98.33333333333331">Side</th><th width="197">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>cp_WINC_USDC</td><td><a href="https://etherscan.io/address/0xB9c8d0A004772000eE199c4348f1933AcbFDC1bB">0xB9c8d0A004772000eE199c4348f1933AcbFDC1bB</a></td></tr><tr><td>Senior</td><td>AA_cp_WINC_USDC</td><td><a href="https://etherscan.io/address/0x00b51Fc6384A120Eac68bEA38b889Ea92524ab93">0x00b51Fc6384A120Eac68bEA38b889Ea92524ab93</a></td></tr><tr><td>Junior</td><td>BB_cp_WINC_USDC</td><td><a href="https://etherscan.io/address/0xe6de3a77b4e71356f4e5e52fd695ead5e5dbcd27">0xe6De3A77B4e71356F4E5e52fd695EAD5E5DBcd27</a></td></tr></tbody></table>
+
 ### ERC-4626 wrappers for Tranche tokens
 
 where AA = Senior Tranche, BB = Junior Tranche.
