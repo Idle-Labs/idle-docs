@@ -92,7 +92,7 @@ stMATIC YTs accept MATIC as the deposited asset to give users a seamless experie
 * [USDC](https://etherscan.io/address/0xDBCEE5AE2E9DAf0F5d93473e08780C9f45DfEb93)
 * [USDT](https://etherscan.io/address/0xc4574C60a455655864aB80fa7638561A756C5E61)
 
-Borrowers: [Portofino](https://www.portofino.tech/), [Fasanara](https://www.fasanara.com/)
+Borrowers: [Portofino](https://www.portofino.tech/), [Fasanara](https://www.fasanara.com/), [Wincent](https://www.wincent.co/)
 {% endtab %}
 {% endtabs %}
 
