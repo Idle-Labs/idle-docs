@@ -122,7 +122,7 @@ Clearpool is a DeFi ecosystem incorporating the first-ever permissionless market
 * [USDC](https://optimistic.etherscan.io/token/0x0b2c639c533813f4aa9d7837caf62653d097ff85)
 * [USDT](https://optimistic.etherscan.io/token/0x94b008aa00579c1307b0ef2c499ad98a8ce58e58)
 
-Borrowers: [Portofino](https://www.portofino.tech/), [Fasanara](https://www.fasanara.com/), [Wincent](https://www.wincent.co/)
+Borrowers: [Portofino](https://www.portofino.tech/), [Fasanara](https://www.fasanara.com/), [Wincent](https://www.wincent.co/), [Bastion](https://bastiontrading.com/)
 {% endtab %}
 {% endtabs %}
 
