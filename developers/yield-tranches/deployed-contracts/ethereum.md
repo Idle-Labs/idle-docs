@@ -76,6 +76,12 @@ The ABI of the Yield Tranches contract can be found here: [JSON](https://github.
 
 <table><thead><tr><th width="98.33333333333331">Side</th><th width="197">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>cp_WINC_USDC</td><td><a href="https://etherscan.io/address/0xB9c8d0A004772000eE199c4348f1933AcbFDC1bB">0xB9c8d0A004772000eE199c4348f1933AcbFDC1bB</a></td></tr><tr><td>Senior</td><td>AA_cp_WINC_USDC</td><td><a href="https://etherscan.io/address/0x00b51Fc6384A120Eac68bEA38b889Ea92524ab93">0x00b51Fc6384A120Eac68bEA38b889Ea92524ab93</a></td></tr><tr><td>Junior</td><td>BB_cp_WINC_USDC</td><td><a href="https://etherscan.io/address/0xe6de3a77b4e71356f4e5e52fd695ead5e5dbcd27">0xe6De3A77B4e71356F4E5e52fd695EAD5E5DBcd27</a></td></tr></tbody></table>
 
+### Amphor
+
+**wstETH**
+
+<table><thead><tr><th width="98.33333333333331">Side</th><th width="197">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>amphor_wstETH</td><td><a href="https://etherscan.io/address/0x9e0c5ee5e4b187cf18b23745fcf2b6ae66a9b52f">0x9e0c5ee5e4B187Cf18B23745FCF2b6aE66a9B52f</a></td></tr><tr><td>Senior</td><td>AA_amphor_wstETH</td><td><a href="https://etherscan.io/address/0x28d8a22c6689ac1e2ddc43ca6f85c520457351c1">0x28D8a22c6689aC1e2DDC43Ca6F85c520457351C1</a></td></tr><tr><td>Junior</td><td>BB_amphor_wstETH</td><td><a href="https://etherscan.io/address/0xefc4f43737fd336fa8a8254454ced1e421804b16">0xEfC4f43737Fd336fa8A8254454Ced1e421804b16</a></td></tr></tbody></table>
+
 ### ERC-4626 wrappers for Tranche tokens
 
 where AA = Senior Tranche, BB = Junior Tranche.

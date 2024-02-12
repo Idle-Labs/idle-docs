@@ -4,18 +4,14 @@ description: Products > Best Yield > Overview
 
 # Overview
 
-Based on the initial set-up of the Best Yield (OG) strategy, aggregating and optimizing Aave and Compound lending markets, today there are two types of Best Yield strategies:
+The Best Yield vaults aggregate and optimize multiple lending markets:
 
-1. **Senior Best Yield**: aggregating the over-collateralized, top-tier lending protocols Aave, Compound and the Idle Senior Perpetual Yield Tranches maintaining a conservative risk profile while extending and improving the yield spectrum.
-2. **Junior Best Yield**: aggregating multiple Idle Junior Perpetual Yield Tranches on a single asset as underlying to create a new tier of risk in Best Yield, allowing to automate an aggressive approach and offer significantly higher APYs.
-
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+* Over-collateralised, top-tier lending protocols Aave, Compound
+* Idle's Senior Yield Tranches to maintain a conservative risk profile while extending and improving the yield spectrum.
 
 ## How does Best Yield work?
 
-The Best Yield strategies constantly monitor interest rates on various DeFi yield sources to ensure the current allocation is yielding the best aggregate interest rate available on the market.
-
-Users' funds are pooled together and programmatically deposited into one or more of the available lending protocols.&#x20;
+The Best Yield vaults constantly monitor interest rates on various DeFi yield sources to ensure the current allocation is yielding the best aggregate interest rate available on the market. Users' funds are pooled together and programmatically deposited into one or more of the available lending protocols.&#x20;
 
 <figure><img src="../../.gitbook/assets/BY.png" alt=""><figcaption></figcaption></figure>
 
@@ -27,7 +23,7 @@ When users deposit funds, they receive `idleTokens` from Idle in exchange. `idle
 
 ## Allocation model
 
-Best Yield strategies maximise the current aggregated interest rate, modelled as follows
+Best Yield vaults maximise the current aggregated interest rate, modelled as follows
 
 $$
 max\ q(x)= \sum_{i=0}^{n} \frac{x_i}{tot} * nextRate_i(x_i)
@@ -41,16 +37,16 @@ $$
 
 ## Protocols and assets&#x20;
 
-Currently, the Best Yield strategies are available on Ethereum and Polygon blockchains. Each network has a different basket of assets available in the pools.
+Currently, the Best Yield vaults are available on Ethereum.
 
 {% hint style="info" %}
-Idle DAO has established a series of [Integration Standard Requirements](../../developers/security/integration-standard-requirements.md) to implement a new yield source or an asset in the Best Yield strategy.
+Idle DAO has established a series of [Integration Standard Requirements](../../developers/security/integration-standard-requirements.md) to integrate new yield sources or assets in the BY vaults.
 {% endhint %}
 
 ### Ethereum
 
 {% tabs %}
-{% tab title="Senior Best Yield" %}
+{% tab title="Best Yield" %}
 #### Integrated protocols
 
 * [Compound](https://compound.finance/)
@@ -63,36 +59,6 @@ Idle DAO has established a series of [Integration Standard Requirements](../../d
 * [USDC](https://etherscan.io/address/0x5274891bEC421B39D23760c04A6755eCB444797C)
 * [USDT](https://etherscan.io/address/0xF34842d05A1c888Ca02769A633DF37177415C2f8)
 * [WETH](https://etherscan.io/address/0xc8e6ca6e96a326dc448307a5fde90a0b21fd7f80)
-{% endtab %}
-
-{% tab title="Junior Best Yield" %}
-#### Integrated protocols
-
-* [Junior tranches](../yield-tranches/overview.md#senior-tranches) of [Clearpool](https://clearpool.finance/) and [Morpho](https://www.morpho.xyz/) markets
-
-#### Integrated assets
-
-* [DAI](https://etherscan.io/address/0xeC9482040e6483B7459CC0Db05d51dfA3D3068E1)
-* [USDC](https://etherscan.io/address/0xDc7777C771a6e4B3A82830781bDDe4DBC78f320e)
-* [USDT](https://etherscan.io/address/0xfa3AfC9a194BaBD56e743fA3b7aA2CcbED3eAaad)
-* [WETH](https://etherscan.io/address/0x62a0369c6bb00054e589d12aad7ad81ed789514b)
-{% endtab %}
-{% endtabs %}
-
-### Polygon
-
-{% tabs %}
-{% tab title="Best Yield (OG)" %}
-#### Integrated protocols
-
-* [Compound](https://compound.finance/)
-* [Aave](https://aave.com/)
-
-#### Integrated assets
-
-* [DAI](https://polygonscan.com/token/0x8f3cf7ad23cd3cadbd9735aff958023239c6a063)
-* [USDC](https://polygonscan.com/token/0x2791bca1f2de4661ed88a30c99a7a9449aa84174)
-* [WETH](https://polygonscan.com/token/0x7ceb23fd6bc0add59e62ac25578270cff1b9f619)
 {% endtab %}
 {% endtabs %}
 
