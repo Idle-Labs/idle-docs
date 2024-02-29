@@ -104,7 +104,7 @@
   * [Risk Framework](developers/security/risk-framework.md)
   * [Smart contract audits](developers/security/audits.md)
 
-## 🏛 Governance
+## 🏛️ Governance
 
 * [Introduction](governance/introduction.md)
 * [Idle DAO](governance/idle-dao/README.md)
@@ -145,7 +145,7 @@
     * [How to boost your $IDLE rewards](governance/idle-staking/guides/how-to-boost-your-usdidle-rewards.md)
     * [How to give VEV](governance/idle-staking/guides/how-to-give-vev.md)
 
-## 🗂 Other
+## 🗂️ Other
 
 * [Brand assets](other/brand-assets.md)
 * [Guides](other/guides/README.md)
@@ -164,7 +164,7 @@
 * [Resources](other/resources.md)
 * [Archive](other/archive/README.md)
   * [👇 Get in touch](other/archive/contact/README.md)
-    * [🏛 Governance Forum](https://gov.idle.finance)
+    * [🏛️ Governance Forum](https://gov.idle.finance)
     * [🏆 Idle Grants Program](https://idlelabs.notion.site/IGP-Idle-Grants-Program-a91d2937f24c4539a6538e48777fbfbd)
     * [👾 Discord](https://discord.gg/j6QyJQu)
     * [🐦 Twitter](https://twitter.com/idlefinance)

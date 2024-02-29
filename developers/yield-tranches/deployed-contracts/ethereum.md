@@ -30,18 +30,6 @@ The ABI of the Yield Tranches contract can be found here: [JSON](https://github.
 
 ### Morpho
 
-**DAI (Aave)**
-
-<table><thead><tr><th width="97.33333333333331">Side</th><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>morpho_aDAI</td><td><a href="https://etherscan.io/address/0xDB82dDcb7e2E4ac3d13eBD1516CBfDb7b7CE0ffc">0xDB82dDcb7e2E4ac3d13eBD1516CBfDb7b7CE0ffc</a></td></tr><tr><td>Senior</td><td>AA_morpho_aDAI</td><td><a href="https://etherscan.io/address/0x69d87d0056256e3df7Be9b4c8D6429B4b8207C5E">0x69d87d0056256e3df7Be9b4c8D6429B4b8207C5E</a></td></tr><tr><td>Junior</td><td>BB_morpho_aDAI</td><td><a href="https://etherscan.io/address/0xB098AF638aF0c4Fa3edb1A24f807E9c22dA0fE73">0xB098AF638aF0c4Fa3edb1A24f807E9c22dA0fE73</a></td></tr></tbody></table>
-
-**USDC (Aave)**
-
-<table><thead><tr><th width="97.33333333333331">Side</th><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>morpho_aUSDC</td><td><a href="https://etherscan.io/address/0x9C13Ff045C0a994AF765585970A5818E1dB580F8">0x9C13Ff045C0a994AF765585970A5818E1dB580F8</a></td></tr><tr><td>Senior</td><td>AA_morpho_aUSDC</td><td><a href="https://etherscan.io/address/0x376B2dCF9eBd3067BB89eb6D1020FbE604092212">0x376B2dCF9eBd3067BB89eb6D1020FbE604092212</a></td></tr><tr><td>Junior</td><td>BB_morpho_aUSDC</td><td><a href="https://etherscan.io/address/0x86a40De6d77331788Ba24a85221fb8DBFcBC9bF0">0x86a40De6d77331788Ba24a85221fb8DBFcBC9bF0</a></td></tr></tbody></table>
-
-**USDT (Aave)**
-
-<table><thead><tr><th width="97.33333333333331">Side</th><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>morpho_aUSDT</td><td><a href="https://etherscan.io/address/0x440ceAd9C0A0f4ddA1C81b892BeDc9284Fc190dd">0x440ceAd9C0A0f4ddA1C81b892BeDc9284Fc190dd</a></td></tr><tr><td>Senior</td><td>AA_morpho_aUSDT</td><td><a href="https://etherscan.io/address/0x745e005a5dF03bDE0e55be811350acD6316894E1">0x745e005a5dF03bDE0e55be811350acD6316894E1</a></td></tr><tr><td>Junior</td><td>BB_morpho_aUSDT</td><td><a href="https://etherscan.io/address/0xF0C177229Ae1cd41BF48dF6241fae3e6A14A6967">0xF0C177229Ae1cd41BF48dF6241fae3e6A14A6967</a></td></tr></tbody></table>
-
 **WETH (Aave)**
 
 <table><thead><tr><th width="97.33333333333331">Side</th><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>morpho_aWETH</td><td><a href="https://etherscan.io/address/0xb3F717a5064D2CBE1b8999Fdfd3F8f3DA98339a6">0xb3F717a5064D2CBE1b8999Fdfd3F8f3DA98339a6</a></td></tr><tr><td>Senior</td><td>AA_morpho_aWETH</td><td><a href="https://etherscan.io/address/0x6c0c8708e2FD507B7057762739cb04cF01b98d7b">0x6c0c8708e2FD507B7057762739cb04cF01b98d7b</a></td></tr><tr><td>Junior</td><td>BB_morpho_aWETH</td><td><a href="https://etherscan.io/address/0xd69c52E6AF3aE708EE4b3d3e7C0C5b4CF4d6244B">0xd69c52E6AF3aE708EE4b3d3e7C0C5b4CF4d6244B</a></td></tr></tbody></table>
@@ -182,4 +170,25 @@ The expandable lists all the YTs addresses deprecated and the specific token add
 
 <table><thead><tr><th width="210">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>euler_eWETH_stk</td><td><a href="https://etherscan.io/address/0xec964d06cD71a68531fC9D083a142C48441F391C">0xec964d06cD71a68531fC9D083a142C48441F391C</a></td></tr><tr><td>AA_euler_eWETH_stk</td><td><a href="https://etherscan.io/address/0x2B7Da260F101Fb259710c0a4f2EfEf59f41C0810">0x2B7Da260F101Fb259710c0a4f2EfEf59f41C0810</a></td></tr><tr><td>BB_euler_eWETH_stk</td><td><a href="https://etherscan.io/address/0x2e80225f383F858E8737199D3496c5Cf827670a5">0x2e80225f383F858E8737199D3496c5Cf827670a5</a></td></tr></tbody></table>
 {% endtab %}
+
+{% tab title="Morpho-Aave" %}
+**DAI**
+
+<table><thead><tr><th width="208">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>morpho_aDAI</td><td><a href="https://etherscan.io/address/0xDB82dDcb7e2E4ac3d13eBD1516CBfDb7b7CE0ffc">0xDB82dDcb7e2E4ac3d13eBD1516CBfDb7b7CE0ffc</a></td></tr><tr><td>AA_morpho_aDAI</td><td><a href="https://etherscan.io/address/0x69d87d0056256e3df7Be9b4c8D6429B4b8207C5E">0x69d87d0056256e3df7Be9b4c8D6429B4b8207C5E</a></td></tr><tr><td>BB_morpho_aDAI</td><td><a href="https://etherscan.io/address/0xB098AF638aF0c4Fa3edb1A24f807E9c22dA0fE73">0xB098AF638aF0c4Fa3edb1A24f807E9c22dA0fE73</a></td></tr></tbody></table>
+
+**USDC**
+
+<table><thead><tr><th width="207">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>morpho_aUSDC</td><td><a href="https://etherscan.io/address/0x9C13Ff045C0a994AF765585970A5818E1dB580F8">0x9C13Ff045C0a994AF765585970A5818E1dB580F8</a></td></tr><tr><td>AA_morpho_aUSDC</td><td><a href="https://etherscan.io/address/0x376B2dCF9eBd3067BB89eb6D1020FbE604092212">0x376B2dCF9eBd3067BB89eb6D1020FbE604092212</a></td></tr><tr><td>BB_morpho_aUSDC</td><td><a href="https://etherscan.io/address/0x86a40De6d77331788Ba24a85221fb8DBFcBC9bF0">0x86a40De6d77331788Ba24a85221fb8DBFcBC9bF0</a></td></tr></tbody></table>
+
+**USDT**
+
+<table><thead><tr><th width="207">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>morpho_aUSDT</td><td><a href="https://etherscan.io/address/0x440ceAd9C0A0f4ddA1C81b892BeDc9284Fc190dd">0x440ceAd9C0A0f4ddA1C81b892BeDc9284Fc190dd</a></td></tr><tr><td>AA_morpho_aUSDT</td><td><a href="https://etherscan.io/address/0x745e005a5dF03bDE0e55be811350acD6316894E1">0x745e005a5dF03bDE0e55be811350acD6316894E1</a></td></tr><tr><td>BB_morpho_aUSDT</td><td><a href="https://etherscan.io/address/0xF0C177229Ae1cd41BF48dF6241fae3e6A14A6967">0xF0C177229Ae1cd41BF48dF6241fae3e6A14A6967</a></td></tr></tbody></table>
+
+**WETH**
+
+<table><thead><tr><th width="206">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>morpho_aWETH</td><td><a href="https://etherscan.io/address/0xb3F717a5064D2CBE1b8999Fdfd3F8f3DA98339a6">0xb3F717a5064D2CBE1b8999Fdfd3F8f3DA98339a6</a></td></tr><tr><td>AA_morpho_aWETH</td><td><a href="https://etherscan.io/address/0x6c0c8708e2FD507B7057762739cb04cF01b98d7b">0x6c0c8708e2FD507B7057762739cb04cF01b98d7b</a></td></tr><tr><td>BB_morpho_aWETH</td><td><a href="https://etherscan.io/address/0xd69c52E6AF3aE708EE4b3d3e7C0C5b4CF4d6244B">0xd69c52E6AF3aE708EE4b3d3e7C0C5b4CF4d6244B</a></td></tr></tbody></table>
+{% endtab %}
 {% endtabs %}
+
+
+
