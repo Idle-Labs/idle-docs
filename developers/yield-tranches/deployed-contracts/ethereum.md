@@ -30,10 +30,6 @@ The ABI of the Yield Tranches contract can be found here: [JSON](https://github.
 
 ### Morpho
 
-**WETH (Aave)**
-
-<table><thead><tr><th width="97.33333333333331">Side</th><th width="198">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>morpho_aWETH</td><td><a href="https://etherscan.io/address/0xb3F717a5064D2CBE1b8999Fdfd3F8f3DA98339a6">0xb3F717a5064D2CBE1b8999Fdfd3F8f3DA98339a6</a></td></tr><tr><td>Senior</td><td>AA_morpho_aWETH</td><td><a href="https://etherscan.io/address/0x6c0c8708e2FD507B7057762739cb04cF01b98d7b">0x6c0c8708e2FD507B7057762739cb04cF01b98d7b</a></td></tr><tr><td>Junior</td><td>BB_morpho_aWETH</td><td><a href="https://etherscan.io/address/0xd69c52E6AF3aE708EE4b3d3e7C0C5b4CF4d6244B">0xd69c52E6AF3aE708EE4b3d3e7C0C5b4CF4d6244B</a></td></tr></tbody></table>
-
 **wstETH (Block Analitica & B.Protocol)**
 
 <table><thead><tr><th width="97.33333333333331">Side</th><th width="193">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>mm_BB_wstETH</td><td><a href="https://etherscan.io/address/0x260D1E0CB6CC9E34Ea18CE39bAB879d450Cdd706">0x260D1E0CB6CC9E34Ea18CE39bAB879d450Cdd706</a></td></tr><tr><td>Senior</td><td>AA_mm_BB_wstETH</td><td><a href="https://etherscan.io/address/0x10036C2E5C441Cdef24A30134b6dF5ebf116205e">0x10036C2E5C441Cdef24A30134b6dF5ebf116205e</a></td></tr><tr><td>Junior</td><td>BB_mm_BB_wstETH</td><td><a href="https://etherscan.io/address/0x3331B21Abb39190a0426ca54D68F9E3E953Eec8e">0x3331B21Abb39190a0426ca54D68F9E3E953Eec8e</a></td></tr></tbody></table>
