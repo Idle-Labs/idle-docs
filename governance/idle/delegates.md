@@ -18,18 +18,6 @@ The complete guide to delegation (on-chain and off-chain) can be found [here](..
 
 <details>
 
-<summary>IdleHusbandry</summary>
-
-Bio: The ultimate IDLE HODL guide
-
-Delegation pitch: [Link](https://gov.idle.finance/t/delegation-pitch-idlehusbandry/530)
-
-Address: [0x5bCfC2dee33fBD19771d4063C15cFB6dD555bb4C](https://etherscan.io/address/0x5bcfc2dee33fbd19771d4063c15cfb6dd555bb4c)
-
-</details>
-
-<details>
-
 <summary>Treasury League</summary>
 
 Bio: Treasury League of Idle DAO
@@ -73,29 +61,5 @@ Bio: Bocconi university Students Blockchain Association (BSBA)
 Delegation pitch: [Link](https://gov.idle.finance/t/delegation-pitch-bocconi-students-blockchain-association-bsba-meta-delegate-program/1068)
 
 Address: [0x61f0b0daBe302c5952b7038ef42c2c4F1d69e3db](https://etherscan.io/address/0x61f0b0daBe302c5952b7038ef42c2c4F1d69e3db)
-
-</details>
-
-<details>
-
-<summary>UBC Blockchain Club</summary>
-
-Bio: A social club for blockchain education and innovation at the University of British Columbia (UBC)
-
-Delegation pitch: [Link](https://gov.idle.finance/t/delegation-pitch-ubc-blockchain-club-meta-delegate-program/976)
-
-Address: [0x645090dc32eB0950D7C558515cFCDC63D5B4eA6c](https://etherscan.io/address/0x645090dc32eB0950D7C558515cFCDC63D5B4eA6c)
-
-</details>
-
-<details>
-
-<summary>Oregon Blockchain Club</summary>
-
-Bio: University of Oregon Blockchain Group (OBG)
-
-Delegation pitch: [Link](https://gov.idle.finance/t/delegation-pitch-oregon-blockchain-group-obg-meta-delegate-program/1117/2)
-
-Address: [0x875dD8b6eB0ab29F01e47C37c2A8d8eE882807f5](https://etherscan.io/address/0x875dD8b6eB0ab29F01e47C37c2A8d8eE882807f5)
 
 </details>
