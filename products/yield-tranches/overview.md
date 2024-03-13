@@ -101,6 +101,14 @@ stMATIC YTs accept MATIC as the deposited asset to give users a seamless experie
 
 * [wstETH](https://etherscan.io/token/0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0)
 {% endtab %}
+
+{% tab title="Ethena" %}
+[Ethena](https://www.ethena.fi/) manages the synthetic dollar USDe meant to be the first internet bond thanks to the combination of yields generated through staking and derived from the funding and basis spread of perpetual and futures markets.
+
+#### Integrated assets
+
+* [USDe](https://etherscan.io/token/0x4c9edd5852cd905f086c759e8383e09bff1e68b3)
+{% endtab %}
 {% endtabs %}
 
 ### **L2s**
@@ -134,7 +142,7 @@ Clearpool is a DeFi ecosystem incorporating the first-ever permissionless market
 
 LPs receive `IdleCDO_AA_StrategyName` (e.g. `IdleCDO_AA_idleDAIYield`) for Senior deposits and `IdleCDO_BB_StrategyName` for asset provision in the Junior class. Both tokens are fully fungible ERC-20.
 
-Some Tranches are labelled as _Experimental_, meaning some deposit limits (caps) exist.
+Some Tranches are labeled as _Experimental_, meaning some deposit limits (caps) exist.
 
 ## Yield and loss scenarios
 
