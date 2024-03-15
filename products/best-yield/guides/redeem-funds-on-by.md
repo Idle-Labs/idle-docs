@@ -46,7 +46,7 @@ All the above steps can be followed to redeem funds from the BY OG strategy on P
 To cover gas fees on Polygon, you will need to own $MATIC to redeem your funds.
 
 {% hint style="info" %}
-Another helpful [Polygon Guide](../../../other/guides/idle-on-polygon/) is: [Bridge funds from Polygon to Ethereum](../../../other/guides/idle-on-polygon/bridge-usdidle-to-polygon.md#polygon-to-ethereum)
+Another helpful [Polygon Guide](../../../other/archive/idle-on-polygon/) is: [Bridge funds from Polygon to Ethereum](../../../other/archive/idle-on-polygon/bridge-usdidle-to-polygon.md#polygon-to-ethereum)
 {% endhint %}
 
 

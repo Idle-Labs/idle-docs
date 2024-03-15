@@ -32,7 +32,7 @@ LP staking is a way to incentivize liquidity provisioning for IDLE/WETH pairs on
 
 ### **How LP staking works**
 
-Check out the [How to join LP staking on Polygon](../guides/idle-on-polygon/) guide.
+Check out the [How to join LP staking on Polygon](idle-on-polygon/) guide.
 
 ### **Time-Weighted Distribution Mechanism**
 

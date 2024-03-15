@@ -4,7 +4,7 @@ description: Other > Guides > Idle on Polygon > Deposit funds on Polygon
 
 # Deposit funds on Polygon
 
-Idle currently offers DAI, USDC and WETH pools on Polygon through its Best Yield strategy. Select the token you would like to deposit/redeem from the list in the Idle dashboard, and then follow the below instructions or the [standard deposit process](../idle-on-ethereum/deposit-funds.md).
+Idle currently offers DAI, USDC and WETH pools on Polygon through its Best Yield strategy. Select the token you would like to deposit/redeem from the list in the Idle dashboard, and then follow the below instructions or the [standard deposit process](../../guides/deposit-funds.md).
 
 An up-to-date list of Best Yield available assets on Polygon can be found [here](../../../products/yield-tranches/overview.md#protocols-and-assets).
 
@@ -53,4 +53,4 @@ Please note that you should not decrease the gas limit, and you should set the g
 
 
 
-Need further help? Check our [guides](../) list or get in contact on [Discord](https://discord.com/invite/mpySAJp).
+Need further help? Check our [guides](../../guides/) list or get in contact on [Discord](https://discord.com/invite/mpySAJp).

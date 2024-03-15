@@ -1,8 +1,8 @@
 ---
-description: Other > Guides > Idle on Ethereum > Redeem funds
+description: Other > Guides > Redeem funds through Idle
 ---
 
-# Redeem funds on Ethereum
+# Redeem funds through Idle
 
 ## Redeem funds
 
@@ -10,7 +10,7 @@ description: Other > Guides > Idle on Ethereum > Redeem funds
 2. Visit the strategy page of your choice and click on _Withdraw_ in the right panel
 3. Input the amount you want to redeem and click on _Withdraw_
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ### Redeem only **farmed rewards**
 
@@ -25,7 +25,7 @@ description: Other > Guides > Idle on Ethereum > Redeem funds
 
        By clicking on your wallet, you can see your current portfolio assets and $IDLE balance.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Redeem only **farmed governance tokens**
 
@@ -48,4 +48,4 @@ Currently, this can only be done by forfeiting farmed governance tokens.
 
 
 
-Need further help? Check our [guides](../) list or get in contact on [Discord](https://discord.com/invite/mpySAJp).
+Need further help? Check our [guides](./) list or get in contact on [Discord](https://discord.com/invite/mpySAJp).

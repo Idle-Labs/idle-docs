@@ -8,5 +8,5 @@ In these quick guides, we will show you how to deposit assets into the Idle prot
 
 The guides can be used either on the Ethereum or on the Polygon chains.
 
-* [Deposit funds on Best Yield](../../../other/guides/idle-on-ethereum/deposit-funds.md)
-* [Redeem funds on Best Yield](../../../other/guides/idle-on-ethereum/redeem-funds.md)
+* [Deposit funds on Best Yield](../../../other/guides/deposit-funds.md)
+* [Redeem funds on Best Yield](../../../other/guides/redeem-funds.md)

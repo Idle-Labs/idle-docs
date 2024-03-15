@@ -49,7 +49,7 @@ Please note that the gas limit should not be decreased to ensure that the transa
 
 ## <mark style="color:purple;">Polygon</mark>
 
-The OG BY currently offers DAI, USDC and WETH pools on Polygon. Users can select the token they would like to deposit/redeem and then follow the [standard deposit process](../../../other/guides/idle-on-ethereum/deposit-funds.md).
+The OG BY currently offers DAI, USDC and WETH pools on Polygon. Users can select the token they would like to deposit/redeem and then follow the [standard deposit process](../../../other/guides/deposit-funds.md).
 
 ### **Before starting**
 
@@ -58,15 +58,15 @@ Users should:
 * Select the Polygon network in the Idle Dashboard (top-right corner).
 * Select the Polygon network on the (MetaMask) wallet.
 
-Users will be able to deposit the number of tokens previously [bridged from Ethereum to Polygon](../../../other/guides/idle-on-polygon/bridge-usdidle-to-polygon.md).
+Users will be able to deposit the number of tokens previously [bridged from Ethereum to Polygon](../../../other/archive/idle-on-polygon/bridge-usdidle-to-polygon.md).
 
 To cover gas fees on Polygon users will need to own $MATIC to execute the deposit.
 
 {% hint style="info" %}
-Further dedicated **Polygon** guides can be found in the [Guides section](../../../other/guides/idle-on-polygon/). Such as:
+Further dedicated **Polygon** guides can be found in the [Guides section](../../../other/archive/idle-on-polygon/). Such as:
 
-* [Add Polygon network to MetaMask](../../../other/guides/idle-on-polygon/add-polygon-network-to-metamask.md)
-* [Stake $IDLE LP tokens on Polygon](../../../other/guides/idle-on-polygon/stake-idle-lp-tokens-on-polygon.md)
+* [Add Polygon network to MetaMask](../../../other/archive/idle-on-polygon/add-polygon-network-to-metamask.md)
+* [Stake $IDLE LP tokens on Polygon](../../../other/archive/idle-on-polygon/stake-idle-lp-tokens-on-polygon.md)
 {% endhint %}
 
 
