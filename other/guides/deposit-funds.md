@@ -29,6 +29,6 @@ To ensure a smooth process be sure to have the following items ready:
 Please note that you should not decrease the gas limit, and you should set the gas price to ensure the transaction completes promptly, otherwise, you will risk failed transactions and wasted gas fees.
 {% endhint %}
 
-If the Idle's website is down and you can't interact from the UI, you can always do so directly with the smart contracts. See the [Deposit funds through smart contracts](deposit-funds-sc.md) guide.&#x20;
+If the Idle's website is down and you can't interact from the UI, you can always do so directly with the smart contracts. See the [Deposit funds through smart contracts](deposit-funds-smart-contracts.md) guide.&#x20;
 
 Need further help? Check our [guides](./) list or get in contact on [Discord](https://discord.com/invite/mpySAJp).

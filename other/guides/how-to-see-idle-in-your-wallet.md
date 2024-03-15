@@ -18,6 +18,9 @@ Do you want to see your IDLE balance on MetaMask? Follow these simple steps:
    * Token Contract Address: [`0x875773784Af8135eA0ef43b5a374AaD105c5D39e`](https://etherscan.io/address/0x875773784Af8135eA0ef43b5a374AaD105c5D39e)&#x20;
    * Token Symbol: IDLE&#x20;
    * Token Decimal: 18 (should be auto-filled after the address addition)
+
+<figure><img src="../../.gitbook/assets/IDLE (1).png" alt=""><figcaption></figcaption></figure>
+
 4. Click on _Add Custom Token_.&#x20;
 5. Now you should be able to see your IDLE balance on the main wallet page.
 
