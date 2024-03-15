@@ -71,7 +71,7 @@ DAO contributors can use the templates available in the Governance Forum. Some c
 
 The proposer or other DAO members can deploy on-chain the official proposal, which is broadcasted as _executable code_. It starts its journey in a pending state. Once the on-chain proposal is active, IDLE token holders cast their votes.&#x20;
 
-DAO contributors can follow these [guides](../guides/) to create a formal IIP.
+DAO contributors can follow these [guides](../governance-guides/) to create a formal IIP.
 
 {% hint style="info" %}
 In case of an _**on-chain**_ poll, _stkIDLE_ votes should meet two minimum thresholds to make the poll valid to be cast on-chain:&#x20;

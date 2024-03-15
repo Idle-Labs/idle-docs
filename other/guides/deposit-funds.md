@@ -11,7 +11,7 @@ This tutorial will guide you in the process of depositing new funds into Idle.
 To ensure a smooth process be sure to have the following items ready:
 
 * A supported EVM wallet (_Metamask_, _Coinbase wallet_,  Rabby)
-* Tokenized assets (DAI, USDC, USDT, WETH)
+* Underlying assets (DAI, USDC, USDT, WETH)
 * Ether (ETH) to cover network fees (i.e. gas)
 
 ### Deposit&#x20;

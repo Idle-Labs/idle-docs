@@ -12,7 +12,7 @@ This tutorial will guide you in the process of redeeming funds from Idle directl
 2. Click on the _Contract_ tab, and then on _Write as Proxy_
 3. Click on _Connect to Web3_ to connect your wallet
 4. Select the function [`redeemIdleToken`](../../developers/best-yield/methods/redeemidletoken-1.md) for BY or [`withdrawAA`](../../developers/yield-tranches/methods/withdrawaa.md), [`withdrawBB`](../../developers/yield-tranches/methods/withdrawbb.md) for YTs (where AA stands for Senior and BB for Junior)
-5. Input the LP token amount you want to redeem unit converted. You can use [this tool](https://etherscan.io/unitconverter) to easily convert in multiple formats. Idle LP tokens have always 18 decimals (10^-18).&#x20;
+5. Input the LP token amount you want to redeem unit converted. You can use [this tool](https://etherscan.io/unitconverter) to easily convert in multiple formats. Idle LP tokens have always 18 decimals (10^18).&#x20;
 6.  Click on _Write_ and execute your Tx. If successful, you will see an outflow of the LP token selected and an inflow of the principal token. \
 
 
