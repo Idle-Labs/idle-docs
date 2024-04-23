@@ -12,7 +12,7 @@ The main smart contracts used by Idle are the following:
 <figure><img src="../../.gitbook/assets/Idle BY Dev.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
-BY strategies are also ERC-4626 compliant! Deployed wrappers can be found [here](deployed-contracts.md#erc-4626-wrappers-for-best-yield-tokens).
+BY strategies are also ERC-4626 compliant! Deployed wrappers can be found [here](deployed-contracts/#erc-4626-wrappers-for-best-yield-tokens).
 {% endhint %}
 
 Idle Rebalancer automatically analyses supply rate functions across integrated protocols and total funds in the pool to constantly rebalance capital across any number of protocols to **earn the highest interest rate possible** with very high precision. When a new allocation can improve the aggregated APY of an IdleTokens, the Rebalancer submits new allocations to the contract.&#x20;

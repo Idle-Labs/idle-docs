@@ -22,8 +22,4 @@ All Idle contracts are verified on Etherscan and for your convenience, you can a
 
 If you are looking for previous versions of the Idle protocol, check the [old contracts](../../other/archive/old-contracts.md) section.
 
-Please refer to the _deployed contracts_ section under each product to get the pool addresses:
-
-### [Best Yield's deployed contracts](../best-yield/deployed-contracts.md)
-
-### [Yield Tranches' deployed contracts](../yield-tranches/deployed-contracts/)
+Please refer to the _deployed contracts_ section under each product to get the pool addresses.

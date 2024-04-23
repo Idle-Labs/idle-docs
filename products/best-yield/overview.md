@@ -7,7 +7,7 @@ description: Products > Best Yield > Overview
 The Best Yield vaults aggregate and optimize multiple lending markets:
 
 * Over-collateralised, top-tier lending protocols Aave, Compound
-* Idle's Senior Yield Tranches to maintain a conservative risk profile while extending and improving the yield spectrum.
+* Idle's [Senior Yield Tranches](../yield-tranches/) to maintain a conservative risk profile while extending and improving the yield spectrum.
 
 ## How does Best Yield work?
 
@@ -23,7 +23,7 @@ When users deposit funds, they receive `idleTokens` from Idle in exchange. `idle
 
 ## Allocation model
 
-Best Yield vaults maximise the current aggregated interest rate, modelled as follows
+Best Yield vaults maximise the current aggregated interest rate, modeled as follows
 
 $$
 max\ q(x)= \sum_{i=0}^{n} \frac{x_i}{tot} * nextRate_i(x_i)
@@ -43,11 +43,11 @@ Currently, the Best Yield vaults are available on Ethereum.
 Idle DAO has established a series of [Integration Standard Requirements](../../developers/security/integration-standard-requirements.md) to integrate new yield sources or assets in the BY vaults.
 {% endhint %}
 
-### Ethereum
-
 {% tabs %}
-{% tab title="Best Yield" %}
-#### Integrated protocols
+{% tab title="Ethereum" %}
+**Best Yield**
+
+**Integrated protocols**
 
 * [Compound](https://compound.finance/)
 * [Aave](https://aave.com/)
@@ -58,7 +58,18 @@ Idle DAO has established a series of [Integration Standard Requirements](../../d
 * [DAI](https://etherscan.io/address/0x3fe7940616e5bc47b0775a0dccf6237893353bb4)
 * [USDC](https://etherscan.io/address/0x5274891bEC421B39D23760c04A6755eCB444797C)
 * [USDT](https://etherscan.io/address/0xF34842d05A1c888Ca02769A633DF37177415C2f8)
-* [WETH](https://etherscan.io/address/0xc8e6ca6e96a326dc448307a5fde90a0b21fd7f80)
+{% endtab %}
+
+{% tab title="Optimism" %}
+**RWA Best Yield**
+
+**Integrated protocols**
+
+* [Senior tranches](../yield-tranches/overview.md#senior-tranches) of [Clearpool](https://clearpool.finance/) markets
+
+#### Integrated assets
+
+* [USDT](https://etherscan.io/address/0xF34842d05A1c888Ca02769A633DF37177415C2f8)
 {% endtab %}
 {% endtabs %}
 

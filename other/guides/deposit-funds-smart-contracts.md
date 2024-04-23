@@ -33,7 +33,7 @@ To ensure a smooth process be sure to have the following items ready:
 
 ### B. Deposit
 
-7. Visit the vaults' addresses of [Best Yield](../../developers/best-yield/deployed-contracts.md) and [Yield Tranches](../../developers/yield-tranches/deployed-contracts/) and select the one you want to deposit to. For YTs, you need to always use the contract tagged as _CDO_
+7. Visit the vaults' addresses of [Best Yield](../../developers/best-yield/deployed-contracts/) and [Yield Tranches](../../developers/yield-tranches/deployed-contracts/) and select the one you want to deposit to. For YTs, you need to always use the contract tagged as _CDO_
 8. Follow the same steps above (3, 4) and then select the function [`mintIdleToken`](../../developers/best-yield/methods/mintidletoken.md) for BY (in the `bool` parameter write `True`) or [`depositAA`](../../developers/yield-tranches/methods/depositaa.md), [`depositBB`](../../developers/yield-tranches/methods/depositbb.md) for YTs (where AA stands for Senior and BB for Junior)
 
 <figure><img src="../../.gitbook/assets/mintIdleToken.png" alt=""><figcaption></figcaption></figure>

@@ -8,9 +8,9 @@ Idle strategies charge a **performance fee deducted from the earned yields**.&#x
 
 ### Best Yield
 
-For _Best Yield_ strategies, the fees are charged at funds redeem. Accrued fees are routed to the [`FeeTreasury`](https://etherscan.io/address/0x69a62c24f16d4914a48919613e8ee330641bcb94)contract governed by $IDLE token holders and to the [`Treasury League multisig`](https://etherscan.io/address/0xFb3bD022D5DAcF95eE28a6B07825D4Ff9C5b3814).&#x20;
+For _Best Yield_ strategies, the fees are charged at funds redeem. Accrued fees are routed to the [`FeeTreasury`](https://etherscan.io/address/0x69a62c24f16d4914a48919613e8ee330641bcb94)contract governed by IDLE token holders and to the [`Treasury League multisig`](https://etherscan.io/address/0xFb3bD022D5DAcF95eE28a6B07825D4Ff9C5b3814).&#x20;
 
-<table><thead><tr><th width="258.3333333333333">BY</th><th>10% performance fee</th><th>15% performance fee</th></tr></thead><tbody><tr><td>Senior Best Yield</td><td><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td><td></td></tr><tr><td>Junior Best Yield</td><td></td><td><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td></tr></tbody></table>
+<table><thead><tr><th width="258.3333333333333">BY</th><th>10% performance fee</th><th>15% performance fee</th></tr></thead><tbody><tr><td>Best Yield</td><td><span data-gb-custom-inline data-tag="emoji" data-code="2705">✅</span></td><td></td></tr></tbody></table>
 
 ### Yield Tranches
 

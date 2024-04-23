@@ -6,7 +6,7 @@ description: Developers > Networks and codebase > Ethereum
 
 You can find the currently deployed instances and ABIs of the product suite (linked below) and governance contracts (listed below) at the following addresses.
 
-### [Best Yield](../best-yield/deployed-contracts.md#best-yield-strategy-v4)
+### [Best Yield](../best-yield/deployed-contracts/#best-yield-strategy-v4)
 
 ### [Yield Tranches](../yield-tranches/deployed-contracts/#perpetual-yield-tranches)
 
