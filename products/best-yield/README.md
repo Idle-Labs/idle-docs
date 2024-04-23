@@ -6,7 +6,7 @@ description: Products > Best Yield
 
 <figure><img src="../../.gitbook/assets/BY 1.png" alt=""><figcaption></figcaption></figure>
 
-The Best Yield vaults are single-sided liquidity pools that aim to offer the highest yield for supported stablecoins at all times. This is achieved by programmatically allocating these assets across several lending protocols operating either on the **Ethereum** or on the **Polygon** blockchain.&#x20;
+The Best Yield vaults are single-sided liquidity pools that aim to offer the highest yield for supported stablecoins at all times. This is achieved by programmatically allocating these assets across several lending pools.&#x20;
 
 Best Yield benefits users by socializing gas costs, automating the yield generation and rebalancing process, and automatically shifting capital as opportunities arise. End users and integrators do not need proficient knowledge of the underlying protocols or DeFi.&#x20;
 

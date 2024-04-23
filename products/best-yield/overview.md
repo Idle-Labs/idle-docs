@@ -6,8 +6,10 @@ description: Products > Best Yield > Overview
 
 The Best Yield vaults aggregate and optimize multiple lending markets:
 
-* Over-collateralised, top-tier lending protocols Aave, Compound
+* Over-collateralised, top-tier lending protocols such as Aave, Compound
 * Idle's [Senior Yield Tranches](../yield-tranches/) to maintain a conservative risk profile while extending and improving the yield spectrum.
+
+It either optimizes allocation continuously using an algorithm or uses fixed weights allocation.
 
 ## How does Best Yield work?
 
@@ -37,15 +39,9 @@ $$
 
 ## Protocols and assets&#x20;
 
-Currently, the Best Yield vaults are available on Ethereum.
-
-{% hint style="info" %}
-Idle DAO has established a series of [Integration Standard Requirements](../../developers/security/integration-standard-requirements.md) to integrate new yield sources or assets in the BY vaults.
-{% endhint %}
-
 {% tabs %}
 {% tab title="Ethereum" %}
-**Best Yield**
+Best Yield with algorithmic optimization
 
 **Integrated protocols**
 
@@ -61,7 +57,7 @@ Idle DAO has established a series of [Integration Standard Requirements](../../d
 {% endtab %}
 
 {% tab title="Optimism" %}
-**RWA Best Yield**
+Best Yield with fixed allocation on RWA markets
 
 **Integrated protocols**
 
@@ -72,6 +68,10 @@ Idle DAO has established a series of [Integration Standard Requirements](../../d
 * [USDT](https://etherscan.io/address/0xF34842d05A1c888Ca02769A633DF37177415C2f8)
 {% endtab %}
 {% endtabs %}
+
+{% hint style="info" %}
+Idle DAO has established a series of [Integration Standard Requirements](../../developers/security/integration-standard-requirements.md) to integrate new yield sources or assets in the BY vaults.
+{% endhint %}
 
 ## Benefits of using Best Yield
 
