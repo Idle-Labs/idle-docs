@@ -6,9 +6,19 @@ description: Governance > Idle DAO > Reports
 
 In this section, there are reported the Leagues' reports summarizing key financial metrics of past mandates.
 
+### 2024
+
+{% file src="../../../.gitbook/assets/M1-2024 Performance report (2).pdf" %}
+
 ### 2023
 
 {% file src="../../../.gitbook/assets/M1-2023 Performance report.pdf" %}
+
+{% file src="../../../.gitbook/assets/M2-2023 Performance report.pdf" %}
+
+{% file src="../../../.gitbook/assets/M3-2023 Performance report.pdf" %}
+
+{% file src="../../../.gitbook/assets/M4-2023 Performance Report (1).pdf" %}
 
 ### 2022
 
