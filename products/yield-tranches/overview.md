@@ -45,7 +45,7 @@ More technical details regarding this split mechanism can be found in the dedica
 
 ## Protocols and assets
 
-Yield Tranches are available on Ethereum, Polygon zkEVM and Optimism for multiple protocols and underlying assets.
+Yield Tranches are available on Ethereum, Polygon zkEVM, and Optimism for multiple protocols and underlying assets.
 
 ### Ethereum mainnet
 
@@ -94,12 +94,13 @@ stMATIC YTs accept MATIC as the deposited asset to give users a seamless experie
 * [USDT](https://etherscan.io/address/0xc4574C60a455655864aB80fa7638561A756C5E61)
 {% endtab %}
 
-{% tab title="Amphor" %}
-[Amphor](https://amphor.io/) provides yield enhancement solutions in decentralized finance.
+{% tab title="Gearbox" %}
+[Gearbox](https://gearbox.fi/) brings together lending and prime brokerage in the same protocol offering de facto composable leverage.
 
 #### Integrated assets
 
-* [wstETH](https://etherscan.io/token/0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0)
+* [USDC](https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48)
+* [WETH](https://etherscan.io/token/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2)
 {% endtab %}
 
 {% tab title="Ethena" %}

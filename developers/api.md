@@ -16,75 +16,43 @@ To request full access to the APIs please fill out [this form](https://idlefinan
 
 Idle's smart contracts are deployed on multiple networks, hence users should use the appropriate endpoint to retrieve the information needed
 
-* Ethereum mainnet `https://api.idle.finance`&#x20;
+* Ethereum `https://api.idle.finance`&#x20;
 * Polygon zkEVM `https://api-zkevm.idle.finance`
-* OP mainnet: `https://api-optimism.idle.finance`&#x20;
+* Optimism `https://api-optimism.idle.finance`&#x20;
 
 ### Endpoints
 
-{% swagger method="get" path="" baseUrl="api.idle.finance" summary="pools" %}
-{% swagger-description %}
-Return all the network pools for both BY and YTs.
-{% endswagger-description %}
+### pools
 
-{% swagger-parameter in="header" name="<token>" type="" required="true" %}
-Authentication using Bearer token
-{% endswagger-parameter %}
-{% endswagger %}
+<mark style="color:blue;">`GET`</mark> `api.idle.finance`return all the network pools for both Best Yield and Yield Tranches vaults.&#x20;
 
-{% swagger method="get" path="" baseUrl="api.idle.finance" summary="tvls" %}
-{% swagger-description %}
-Return the total value locked (TVL) per underlying token
-{% endswagger-description %}
+#### Headers
 
-{% swagger-parameter in="header" name="<token>" required="true" %}
-Authentication using Bearer token
-{% endswagger-parameter %}
-{% endswagger %}
+<table><thead><tr><th width="223">Name</th><th width="189">Type</th><th>Description</th></tr></thead><tbody><tr><td>&#x3C;token><mark style="color:red;">*</mark></td><td></td><td>Authentication using Bearer token</td></tr></tbody></table>
 
-{% swagger method="get" path="" baseUrl="api.idle.finance" summary="rates" %}
-{% swagger-description %}
-Return historical daily data for Senior Best Yield vaults in a given calendar range.&#x20;
-{% endswagger-description %}
+## tvls
 
-{% swagger-parameter in="query" name="<params>" %}
-[Params](api.md#less-than-params-greater-than) to filter data
-{% endswagger-parameter %}
+<mark style="color:blue;">`GET`</mark> `api.idle.finance`return the total value locked (TVL) per underlying token.
 
-{% swagger-parameter in="path" name="<address>" required="true" %}
-Underlying token address
-{% endswagger-parameter %}
+#### Headers
 
-{% swagger-parameter in="query" name="frequency" type="86400" %}
-Seconds in one day
-{% endswagger-parameter %}
+<table><thead><tr><th width="224">Name</th><th>Type</th><th>Description</th></tr></thead><tbody><tr><td>&#x3C;token><mark style="color:red;">*</mark></td><td>String</td><td>Authentication using Bearer token</td></tr></tbody></table>
 
-{% swagger-parameter in="header" name="<token>" required="true" %}
-Authentication using Bearer token
-{% endswagger-parameter %}
-{% endswagger %}
+## rates
 
-{% swagger method="get" path="" baseUrl="api.idle.finance" summary="junior-rates" %}
-{% swagger-description %}
-Return historical daily data for Junior Best Yield vaults in a given calendar range.&#x20;
-{% endswagger-description %}
+<mark style="color:blue;">`GET`</mark> `api.idle.finance`return historical daily data for Best Yield vaults in a given calendar range.&#x20;
 
-{% swagger-parameter in="query" name="<params>" %}
-[Params](api.md#less-than-params-greater-than) to filter data
-{% endswagger-parameter %}
+#### Path parameters
 
-{% swagger-parameter in="path" name="<address>" required="true" %}
-Underlying token address
-{% endswagger-parameter %}
+<table><thead><tr><th width="225">Name</th><th>Type</th><th>Description</th></tr></thead><tbody><tr><td>&#x3C;address><mark style="color:red;">*</mark></td><td>String</td><td>Underlying token address</td></tr></tbody></table>
 
-{% swagger-parameter in="query" name="frequency" type="86400" %}
-Seconds in one day
-{% endswagger-parameter %}
+#### Query parameters
 
-{% swagger-parameter in="header" name="<token>" required="true" %}
-Authentication using Bearer token
-{% endswagger-parameter %}
-{% endswagger %}
+<table><thead><tr><th width="227">Name</th><th>Type</th><th>Description</th></tr></thead><tbody><tr><td>&#x3C;params></td><td>String</td><td><a href="api.md#less-than-params-greater-than">Params</a> to filter data</td></tr><tr><td>frequency</td><td>86400</td><td>Seconds in one day</td></tr></tbody></table>
+
+#### Headers
+
+<table><thead><tr><th width="226">Name</th><th>Type</th><th>Description</th></tr></thead><tbody><tr><td>&#x3C;token><mark style="color:red;">*</mark></td><td>String</td><td>Authentication using Bearer token</td></tr></tbody></table>
 
 {% tabs %}
 {% tab title="<params>" %}
@@ -92,7 +60,7 @@ The query string params are:
 
 * `start`: filter results from a specific timestamp
 * `end`: filter results to a specific timestamp
-* `isRisk` (true/false): if true returns only result for risk-adjusted strategy (deprecated), if false returns only result for Best Yield vaults
+* `isRisk` (true/false): if true returns only results for risk-adjusted strategy (deprecated), if false returns only results for Best Yield vaults
 * `frequency`: seconds between two records
 * `order` (asc/desc): order results by timestamp
 * `limit`: limit results
@@ -110,7 +78,7 @@ Represents the underlying token address:
 
 ### Request examples
 
-* Return historical daily data for the Senior Best Yield DAI vault from 22 July 2020 to 24 July 2020 in descending order.
+* Return historical daily data for the Best Yield DAI vault from 22 July 2020 to 24 July 2020 in descending order.
 
 {% code overflow="wrap" %}
 ```html
@@ -118,12 +86,12 @@ https://api.idle.finance/rates/0x6b175474e89094c44da98b954eedeac495271d0f?start=
 ```
 {% endcode %}
 
-* Return the latest data for Senior Best Yield DAI vault.&#x20;
+* Return the latest data for Best Yield DAI vault.&#x20;
 
 <pre data-overflow="wrap"><code><strong>https://api.idle.finance/rates/0x6b175474e89094c44da98b954eedeac495271d0f?isRisk=false&#x26;order=desc&#x26;limit=1
 </strong></code></pre>
 
-* Return the available Yield Tranches on Optimism&#x20;
+* Return the available Yield Tranches on Polygon zkEVM
 
 {% code title="cURL" overflow="wrap" %}
 ```javascript

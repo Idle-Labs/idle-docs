@@ -60,15 +60,19 @@ The ABI of the Yield Tranches contract can be found here: [JSON](https://github.
 
 <table><thead><tr><th width="98.33333333333331">Side</th><th width="187">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>cp_WINC_USDC</td><td><a href="https://etherscan.io/address/0xB9c8d0A004772000eE199c4348f1933AcbFDC1bB">0xB9c8d0A004772000eE199c4348f1933AcbFDC1bB</a></td></tr><tr><td>Senior</td><td>AA_cp_WINC_USDC</td><td><a href="https://etherscan.io/address/0x00b51Fc6384A120Eac68bEA38b889Ea92524ab93">0x00b51Fc6384A120Eac68bEA38b889Ea92524ab93</a></td></tr><tr><td>Junior</td><td>BB_cp_WINC_USDC</td><td><a href="https://etherscan.io/address/0xe6de3a77b4e71356f4e5e52fd695ead5e5dbcd27">0xe6De3A77B4e71356F4E5e52fd695EAD5E5DBcd27</a></td></tr></tbody></table>
 
-### Amphor
+### Gearbox
 
-**wstETH**
+**USDC**
 
-<table><thead><tr><th width="98.33333333333331">Side</th><th width="189">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>amphor_wstETH</td><td><a href="https://etherscan.io/address/0x9e0c5ee5e4b187cf18b23745fcf2b6ae66a9b52f">0x9e0c5ee5e4B187Cf18B23745FCF2b6aE66a9B52f</a></td></tr><tr><td>Senior</td><td>AA_amphor_wstETH</td><td><a href="https://etherscan.io/address/0x28d8a22c6689ac1e2ddc43ca6f85c520457351c1">0x28D8a22c6689aC1e2DDC43Ca6F85c520457351C1</a></td></tr><tr><td>Junior</td><td>BB_amphor_wstETH</td><td><a href="https://etherscan.io/address/0xefc4f43737fd336fa8a8254454ced1e421804b16">0xEfC4f43737Fd336fa8A8254454Ced1e421804b16</a></td></tr></tbody></table>
+<table><thead><tr><th width="102">Side</th><th width="185">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>gear_USDC</td><td><a href="https://etherscan.io/address/0xdd4D030A4337CE492B55bc5169F6A9568242C0Bc">0xdd4D030A4337CE492B55bc5169F6A9568242C0Bc</a></td></tr><tr><td>Senior</td><td>AA_gear_USDC</td><td><a href="https://etherscan.io/address/0x450C055a00226F1Eba09E8D9627034565b7C4C8A">0x450C055a00226F1Eba09E8D9627034565b7C4C8A</a></td></tr><tr><td>Junior</td><td>BB_gear_USDC</td><td><a href="https://etherscan.io/address/0x2a84A042DB06222C486BcB815E961f26599D0dF6">0x2a84A042DB06222C486BcB815E961f26599D0dF6</a></td></tr></tbody></table>
+
+**WETH**
+
+<table><thead><tr><th width="105">Side</th><th width="185">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>gear_WETH</td><td><a href="https://etherscan.io/address/0xbc48967C34d129a2ef25DD4dc693Cc7364d02eb9">0xbc48967C34d129a2ef25DD4dc693Cc7364d02eb9</a></td></tr><tr><td>Senior</td><td>AA_gear_WETH</td><td><a href="https://etherscan.io/address/0x0f09A04AD551Dd941b589625BD2360FC962FF9f7">0x0f09A04AD551Dd941b589625BD2360FC962FF9f7</a></td></tr><tr><td>Junior</td><td>BB_gear_WETH</td><td><a href="https://etherscan.io/address/0x1223ddeEe77F8F379ea7a49e7650Ff1Ec1e2dE8a">0x1223ddeEe77F8F379ea7a49e7650Ff1Ec1e2dE8a</a></td></tr></tbody></table>
 
 ### Ethena
 
-USDe
+**USDe**
 
 <table><thead><tr><th width="98.33333333333331">Side</th><th width="189">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>CDO</td><td>ethena_USDe</td><td><a href="https://etherscan.io/address/0x1EB1b47D0d8BCD9D761f52D26FCD90bBa225344C">0x1EB1b47D0d8BCD9D761f52D26FCD90bBa225344C</a></td></tr><tr><td>Senior</td><td>ethena_USDe_Sr</td><td><a href="https://etherscan.io/address/0xF3188697Bd35Df73E4293d04A07ebAAf1FfC4018">0xF3188697Bd35Df73E4293d04A07ebAAf1FfC4018</a></td></tr><tr><td>Junior</td><td>ethena_USDe_Jr</td><td><a href="https://etherscan.io/address/0xb8d0be502a8f12cc5213733285b430a43d07349d">0xb8d0BE502A8F12Cc5213733285b430A43d07349D</a></td></tr></tbody></table>
 
@@ -189,6 +193,12 @@ The expandable lists all the YTs addresses deprecated and the specific token add
 **WETH**
 
 <table><thead><tr><th width="206">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>morpho_aWETH</td><td><a href="https://etherscan.io/address/0xb3F717a5064D2CBE1b8999Fdfd3F8f3DA98339a6">0xb3F717a5064D2CBE1b8999Fdfd3F8f3DA98339a6</a></td></tr><tr><td>AA_morpho_aWETH</td><td><a href="https://etherscan.io/address/0x6c0c8708e2FD507B7057762739cb04cF01b98d7b">0x6c0c8708e2FD507B7057762739cb04cF01b98d7b</a></td></tr><tr><td>BB_morpho_aWETH</td><td><a href="https://etherscan.io/address/0xd69c52E6AF3aE708EE4b3d3e7C0C5b4CF4d6244B">0xd69c52E6AF3aE708EE4b3d3e7C0C5b4CF4d6244B</a></td></tr></tbody></table>
+{% endtab %}
+
+{% tab title="Amphor" %}
+**wstETH**
+
+<table><thead><tr><th width="189">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>ethena_USDe</td><td><a href="https://etherscan.io/address/0x1EB1b47D0d8BCD9D761f52D26FCD90bBa225344C">0x1EB1b47D0d8BCD9D761f52D26FCD90bBa225344C</a></td></tr><tr><td>ethena_USDe_Sr</td><td><a href="https://etherscan.io/address/0xF3188697Bd35Df73E4293d04A07ebAAf1FfC4018">0xF3188697Bd35Df73E4293d04A07ebAAf1FfC4018</a></td></tr><tr><td>ethena_USDe_Jr</td><td><a href="https://etherscan.io/address/0xb8d0be502a8f12cc5213733285b430a43d07349d">0xb8d0BE502A8F12Cc5213733285b430A43d07349D</a></td></tr></tbody></table>
 {% endtab %}
 {% endtabs %}
 

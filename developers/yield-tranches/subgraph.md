@@ -6,18 +6,18 @@ description: Developers > Yield Tranches > Subgraph
 
 Idle uses a [subgraph](https://thegraph.com/docs/about/introduction#what-the-graph-is) for indexing and organizing data from the Yield Tranches `IdleCDO` smart contract. This subgraph can be found on The Graph hosted service and can be used to query Idle YTs data:
 
-* **YTs subgraph:** [https://thegraph.com/hosted-service/subgraph/samster91/idle-tranches](https://thegraph.com/hosted-service/subgraph/samster91/idle-tranches)
-* **Graphql endpoint:**&#x20;
-  * Ethereum Mainnet: [https://api.thegraph.com/subgraphs/name/samster91/idle-tranches](https://api.thegraph.com/subgraphs/name/samster91/idle-tranches)
-  * zkEVM: [https://api.studio.thegraph.com/query/12583/idle-tranches-zkevm/version/latest ](https://api.studio.thegraph.com/query/12583/idle-tranches-zkevm/version/latest)
-  * Optimism: [https://api.thegraph.com/subgraphs/name/samster91/idle-tranches-optimism](https://api.thegraph.com/subgraphs/name/samster91/idle-tranches-optimism)
-* **Code:** [https://github.com/Idle-Labs/idle-tranches-subgraph](https://github.com/Idle-Labs/idle-tranches-subgraph)
+* **YTs subgraph** [https://thegraph.com/hosted-service/subgraph/samster91/idle-tranches](https://thegraph.com/hosted-service/subgraph/samster91/idle-tranches)
+* **Graphql endpoint**
+  * Ethereum [https://api.thegraph.com/subgraphs/name/samster91/idle-tranches](https://api.thegraph.com/subgraphs/name/samster91/idle-tranches)
+  * Polygon zkEVM [https://api.studio.thegraph.com/query/12583/idle-tranches-zkevm/version/latest ](https://api.studio.thegraph.com/query/12583/idle-tranches-zkevm/version/latest)
+  * Optimism [https://api.thegraph.com/subgraphs/name/samster91/idle-tranches-optimism](https://api.thegraph.com/subgraphs/name/samster91/idle-tranches-optimism)
+* **Code** [https://github.com/Idle-Labs/idle-tranches-subgraph](https://github.com/Idle-Labs/idle-tranches-subgraph)
 
 <figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
 ### Useful entities
 
-* _**TrancheInfos**_**:** contains the data of each YTs tranche (type, apr, `virtualPrice`, `totalSupply`), updated every hour
+* _**TrancheInfos**_**:** contains the data of each YTs tranche (type, apr, `virtualPrice`, `totalSupply`) updated every hour
 * _**Tranche**_**:** all deployed YTs tranches (id, type)
 
 ### Querying YTs
