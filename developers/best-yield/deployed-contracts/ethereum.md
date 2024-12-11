@@ -12,10 +12,6 @@ Aave, Compound, and whitelisted [Senior Yield Tranches](../../yield-tranches/dep
 
 <table><thead><tr><th width="205">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>idleDAI_Yield</td><td><a href="https://etherscan.io/address/0x3fe7940616e5bc47b0775a0dccf6237893353bb4">0x3fe7940616e5bc47b0775a0dccf6237893353bb4</a></td></tr><tr><td>idleUSDC_Yield</td><td><a href="http://etherscan.io/address/0x5274891bEC421B39D23760c04A6755eCB444797C">0x5274891bEC421B39D23760c04A6755eCB444797C</a></td></tr><tr><td>idleUSDT_Yield</td><td><a href="http://etherscan.io/address/0xF34842d05A1c888Ca02769A633DF37177415C2f8">0xF34842d05A1c888Ca02769A633DF37177415C2f8</a></td></tr></tbody></table>
 
-### ERC-4626 wrappers for Best Yield tokens
-
-<table><thead><tr><th width="120">Type</th><th width="184">Ticker</th><th>Address</th></tr></thead><tbody><tr><td>Junior</td><td>idleDAI_Junior_w</td><td><a href="https://etherscan.io/address/0x0c80F31B840C6564e6c5E18f386FaD96b63514cA">0x0c80F31B840C6564e6c5E18f386FaD96b63514cA</a></td></tr><tr><td>Junior</td><td>idleUSDC_Junior_w</td><td><a href="https://etherscan.io/address/0xc3dA79e0De523eEf7AC1e4ca9aBFE3aAc9973133">0xc3dA79e0De523eEf7AC1e4ca9aBFE3aAc9973133</a></td></tr><tr><td>Junior</td><td>idleUSDT_Junior_w</td><td><a href="https://etherscan.io/address/0x544897a3b944fdeb1f94a0ed973ea31a80ae18e1">0x544897a3b944fdeb1f94a0ed973ea31a80ae18e1</a></td></tr></tbody></table>
-
 ### **Deprecated strategies**
 
 Multiple versions of the BY vaults were released over time. Please refer to the list below to understand the BY type

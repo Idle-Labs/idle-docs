@@ -22,14 +22,14 @@ To ensure a smooth onboarding on Idle, the user should meet the following requir
 
 1. From the [idle.finance](https://idle.finance/#/) homepage click on [_Enter App_](https://app.idle.finance/#/dashboard)_._
 2. Once in the dashboard, click on _Connect Wallet_, and then select the supported wallet type from the list. In this guide, we will use the _Metamask_ browser wallet.
-   1. If the user has multiple addresses in his wallet, he should select the one he plans to use to make a deposit_._
+   1. If the user has multiple addresses in his wallet, he should select the one he plans to use to make a deposi&#x74;_._
 3. If the connection is successful, in the top left corner the user will see the connected wallet, as well as the IDLE balance.
 
 <figure><img src="../../../.gitbook/assets/image (28).png" alt=""><figcaption><p>Dashboard page</p></figcaption></figure>
 
 ### Depositing assets
 
-1. Choose the _Best Yield_ strategy in the topbar under _Earn_. There are different [assets](../overview.md#protocols-and-assets) available (i.e. DAI, USDC, USDT) offering different _APY_s depending on supply and demand equilibria and the BY strategy chosen.&#x20;
+1. Choose the _Best Yield_ strategy in the topbar under _Earn_. There are different [assets](../overview.md#protocols-and-assets) available (i.e. DAI, USDC, USDT) offering different _AP&#x59;_&#x73; depending on supply and demand equilibria and the BY strategy chosen.&#x20;
 2. Next to each token listed, the user will see either a 🛡️ or a ⚡️symbol. These symbols describe the type of Best Yield strategy users will deposit in:
    1. Senior Best Yield 🛡️
    2. Junior Best Yield ⚡️
@@ -46,28 +46,6 @@ Please note that the gas limit should not be decreased to ensure that the transa
 <figure><img src="../../../.gitbook/assets/image (19).png" alt=""><figcaption><p>Best Yield's assets page</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption><p>Senior Best Yield's USDC page</p></figcaption></figure>
-
-## <mark style="color:purple;">Polygon</mark>
-
-The OG BY currently offers DAI, USDC and WETH pools on Polygon. Users can select the token they would like to deposit/redeem and then follow the [standard deposit process](../../../other/guides/deposit-funds.md).
-
-### **Before starting**
-
-Users should:
-
-* Select the Polygon network in the Idle Dashboard (top-right corner).
-* Select the Polygon network on the (MetaMask) wallet.
-
-Users will be able to deposit the number of tokens previously [bridged from Ethereum to Polygon](../../../other/archive/idle-on-polygon/bridge-usdidle-to-polygon.md).
-
-To cover gas fees on Polygon users will need to own $MATIC to execute the deposit.
-
-{% hint style="info" %}
-Further dedicated **Polygon** guides can be found in the [Guides section](../../../other/archive/idle-on-polygon/). Such as:
-
-* [Add Polygon network to MetaMask](../../../other/archive/idle-on-polygon/add-polygon-network-to-metamask.md)
-* [Stake $IDLE LP tokens on Polygon](../../../other/archive/idle-on-polygon/stake-idle-lp-tokens-on-polygon.md)
-{% endhint %}
 
 
 

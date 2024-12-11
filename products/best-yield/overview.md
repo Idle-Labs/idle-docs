@@ -47,24 +47,12 @@ Best Yield with algorithmic optimization
 
 * [Compound](https://compound.finance/)
 * [Aave](https://aave.com/)
-* [Senior tranches](../yield-tranches/overview.md#senior-tranches) of [Clearpool](https://clearpool.finance/) markets
+* [Senior tranches](../yield-tranches/overview.md#senior-tranches)
 
 #### Integrated assets
 
 * [DAI](https://etherscan.io/address/0x3fe7940616e5bc47b0775a0dccf6237893353bb4)
 * [USDC](https://etherscan.io/address/0x5274891bEC421B39D23760c04A6755eCB444797C)
-* [USDT](https://etherscan.io/address/0xF34842d05A1c888Ca02769A633DF37177415C2f8)
-{% endtab %}
-
-{% tab title="Optimism" %}
-Best Yield with fixed allocation on RWA markets
-
-**Integrated protocols**
-
-* [Senior tranches](../yield-tranches/overview.md#senior-tranches) of [Clearpool](https://clearpool.finance/) markets
-
-#### Integrated assets
-
 * [USDT](https://etherscan.io/address/0xF34842d05A1c888Ca02769A633DF37177415C2f8)
 {% endtab %}
 {% endtabs %}
@@ -77,6 +65,6 @@ Idle DAO has established a series of [Integration Standard Requirements](../../d
 
 * A superior _optimisation algorithm_ for automatic management of users' funds;&#x20;
 * Gas fees savings for funds rebalance (which the user would have to pay to deposit funds/interact from one platform to another);&#x20;
-* Participating in the $IDLE liquidity mining program and leveraging all the advantages linked to its [multiple use cases](../../governance/idle/use-cases/);&#x20;
+* Participating in the IDLE liquidity mining program and leveraging all the advantages linked to its [multiple use cases](../../governance/idle/use-cases/);&#x20;
 * By depositing into BY pools users can get other underlying governance tokens as a form of incentives (e.g. COMP or AAVE);&#x20;
 * For integrators, no need to stitch together disparate protocols or spend months integrating and updating yield functionality.

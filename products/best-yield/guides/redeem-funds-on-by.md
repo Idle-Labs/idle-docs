@@ -39,16 +39,6 @@ If the Senior BY contract is paused, users can decide to withdraw their funds in
 
 <figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
-## <mark style="color:purple;">Polygon</mark>
-
-All the above steps can be followed to redeem funds from the BY OG strategy on Polygon as well.
-
-To cover gas fees on Polygon, you will need to own $MATIC to redeem your funds.
-
-{% hint style="info" %}
-Another helpful [Polygon Guide](../../../other/archive/idle-on-polygon/) is: [Bridge funds from Polygon to Ethereum](../../../other/archive/idle-on-polygon/bridge-usdidle-to-polygon.md#polygon-to-ethereum)
-{% endhint %}
-
 
 
 Need further help? Check our [guides](../../../other/guides/) list or get in contact on [Discord](https://discord.com/invite/mpySAJp).

@@ -1,5 +1,6 @@
 ---
 description: Products > Perpetual Yield Tranches > Security > Default management policies
+hidden: true
 ---
 
 # Default management policies

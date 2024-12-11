@@ -4,6 +4,10 @@ description: Developers > Best Yield > Deployed contracts > Optimism
 
 # Optimism
 
+{% hint style="warning" %}
+The RWA Best Yield on Optimism has been decommissioned
+{% endhint %}
+
 You can find the currently deployed instances and ABIs of the Best Yield and LP staking contracts at the following addresses. The ABI of the Best Yield contract can be found here: [JSON](https://github.com/Idle-Labs/idle-contracts/tree/develop/abi).
 
 ### **Best Yield**

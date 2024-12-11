@@ -74,24 +74,11 @@ stMATIC YTs accept MATIC as the deposited asset to give users a seamless experie
 {% tab title="Morpho" %}
 [Morpho](https://morpho.org/) is a peer-to-peer layer built on top of the main DeFi lending pools offering a trustless lending primitive.
 
-**Curators:** [Block Analitica](https://blockanalitica.com/) and [B.Protocol](https://www.bprotocol.org/), [Steakhouse](https://www.steakhouse.financial/)
+**Curators:** [Steakhouse](https://www.steakhouse.financial/)
 
 #### Integrated assets
 
 * [USDC](https://etherscan.io/address/0x9C13Ff045C0a994AF765585970A5818E1dB580F8)
-* [WETH](https://etherscan.io/address/0xb3F717a5064D2CBE1b8999Fdfd3F8f3DA98339a6)
-{% endtab %}
-
-{% tab title="Clearpool" %}
-[Clearpool](https://clearpool.finance/) is a DeFi ecosystem incorporating the first-ever permissionless marketplace for unsecured institutional liquidity.
-
-**Borrowers:** [Portofino](https://www.portofino.tech/), [Fasanara](https://www.fasanara.com/)
-
-#### Integrated assets
-
-* [DAI](https://etherscan.io/address/0xDcE26B2c78609b983cF91cCcD43E238353653b0E)
-* [USDC](https://etherscan.io/address/0xDBCEE5AE2E9DAf0F5d93473e08780C9f45DfEb93)
-* [USDT](https://etherscan.io/address/0xc4574C60a455655864aB80fa7638561A756C5E61)
 {% endtab %}
 
 {% tab title="Gearbox" %}
@@ -109,35 +96,6 @@ stMATIC YTs accept MATIC as the deposited asset to give users a seamless experie
 #### Integrated assets
 
 * [USDe](https://etherscan.io/token/0x4c9edd5852cd905f086c759e8383e09bff1e68b3)
-{% endtab %}
-{% endtabs %}
-
-### **L2s**
-
-{% tabs %}
-{% tab title="Polygon zkEVM" %}
-**Clearpool**
-
-Clearpool is a DeFi ecosystem incorporating the first-ever permissionless marketplace for unsecured institutional liquidity.
-
-**Borrowers:** [Portofino](https://www.portofino.tech/)
-
-#### Integrated assets
-
-* [USDT](https://zkevm.polygonscan.com/token/0x1e4a5963abfd975d8c9021ce480b42188849d41d)
-{% endtab %}
-
-{% tab title="Optimism" %}
-**Clearpool**
-
-Clearpool is a DeFi ecosystem incorporating the first-ever permissionless marketplace for unsecured institutional liquidity.
-
-**Borrowers:** [Portofino](https://www.portofino.tech/), [Fasanara](https://www.fasanara.com/), [Wincent](https://www.wincent.co/), [Bastion](https://bastiontrading.com/)
-
-#### Integrated assets
-
-* [USDC](https://optimistic.etherscan.io/token/0x0b2c639c533813f4aa9d7837caf62653d097ff85)
-* [USDT](https://optimistic.etherscan.io/token/0x94b008aa00579c1307b0ef2c499ad98a8ce58e58)
 {% endtab %}
 {% endtabs %}
 

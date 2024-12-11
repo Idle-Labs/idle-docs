@@ -1,5 +1,6 @@
 ---
 description: Products > Yield Tranches > Guides > Live YTs guides > Clearpool USDC
+hidden: true
 ---
 
 # Clearpool USDC
